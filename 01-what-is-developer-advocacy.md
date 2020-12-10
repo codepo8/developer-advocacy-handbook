@@ -101,4 +101,4 @@ Then start advocating. You have nothing to lose and will most probably
 be very surprised how easy things become if you concentrate on one job
 at a time.
 
-{% include footer.html %}
+{% include_relative footer.html %}
