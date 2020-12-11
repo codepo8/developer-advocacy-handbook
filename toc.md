@@ -1,14 +1,14 @@
 # Table of Contents {#table-of-contents .TOC-Heading}
 
 * [About this handbook](about#about-this-handbook)
-* [About this version](about#about-this-version)
-* [About the author](about#about-the-author)
+   * [About this version](about#about-this-version)
+   * [About the author](about#about-the-author)
 
 * [What is Developer Advocacy / Evangelism?
 8](01-what-is-developer-advocacy#what-is-developer-advocacy-evangelism)
-* [Defining Developer Advocacy 8](01-what-is-developer-advocacy#defining-developer-advocacy)
-* [Start with the right mindset 8](01-what-is-developer-advocacy#start-with-the-right-mindset)
-* [Find your role and play to your strengths
+  * [Defining Developer Advocacy 8](01-what-is-developer-advocacy#defining-developer-advocacy)
+  * [Start with the right mindset 8](01-what-is-developer-advocacy#start-with-the-right-mindset)
+  * [Find your role and play to your strengths
 9](01-what-is-developer-advocacy#find-your-role-and-play-to-your-strengths)
 
 

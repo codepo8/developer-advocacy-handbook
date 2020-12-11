@@ -1,16 +1,33 @@
+:root {
+  --background: #f8f8f8;
+  --text: #333;
+  --link: #339966;
+}
 
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #111;
+    --text: #ccc;
+    --link: skyblue;
+  }
+}
 
 body {
-  background: #f8f8f8;
-  color: #333;
+  background:var(--background);
+  color: var(--text);
   font-family: helvetica,arial,sans-serif;
   font-size: calc(.6em + 1vw);
 }
-@media (prefers-color-scheme: dark) {
-  body {
-    color: #f8f8f8;
-    background: #333;
-  }
+a {
+  color: var(--link);
+}
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0 0 1em 0;
+}
+ul ul {
+  padding-left: 1em;
 }
 
 h1 {
