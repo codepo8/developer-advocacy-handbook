@@ -27,9 +27,12 @@ h4 {
 article {
   flex: 3;
   max-width: 36em;
+  min-width: 20em;
   gap: 2em;
+  flex-wrap: wrap;
 }
 section {
+  min-width: 10em;
   flex: 1;
 }
 p {
