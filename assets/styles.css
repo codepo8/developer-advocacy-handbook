@@ -25,6 +25,11 @@ body {
   font-size: calc(.6em + 1vw);
 }
 
+img {
+  display: block;
+  width: 100%;
+  margin: 1em 0;
+}
 a {
   color: var(--link);
 }
