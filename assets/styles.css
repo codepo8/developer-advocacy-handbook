@@ -62,7 +62,7 @@ header a {
   padding: 0 0 .5em 0;
   line-height: 1.3;
 }
-li strong {
+li strong, blockquote strong {
   color: var(--stronglist);
 }
 ul {
@@ -139,6 +139,10 @@ nav a {
 blockquote {
     margin: 1em 0;
     border: double 1px var(--line);
-    border-width: 2px 0 1px 0;
+    border-width: 1px 0 1px 0;
     padding: 5px;
 }
+.next {
+  text-align: right;
+}
+
