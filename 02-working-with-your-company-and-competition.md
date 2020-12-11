@@ -85,15 +85,9 @@ to a choir or get shot down in flames.
 
 You work around that in a few ways:
 
-* **Remain an independent voice** -- talk about everything that gets
-    you excited regardless of where it came from.
-
-* **Become a specialist in a certain underlying technology** or
-    methodologies that all these companies and languages rely on.
-
-* **Keep your finger on the pulse** -- have a good collection of news
-    sources to go through daily and tell the world about things you
-    found and tried out.
+* **Remain an independent voice** -- talk about everything that gets you excited regardless of where it came from.
+* **Become a specialist in a certain underlying technology** or methodologies that all these companies and languages rely on.
+* **Keep your finger on the pulse** -- have a good collection of news sources to go through daily and tell the world about things you found and tried out.
 
 The fun thing is that every company out there wants to do what you want
 to achieve -- make developers happy using their products. Therefore it
@@ -290,8 +284,8 @@ yourself. In order to have an impact in the company and to get things
 changed you have to take your hands off the keyboard and start talking
 and persuading.
 
-**Don\'t get discouraged by people seemingly stabbing you in the back**
-- in reality this is exactly the miscommunication and lack of people
+Don\'t get discouraged by people seemingly stabbing you in the back
+-- in reality this is exactly the miscommunication and lack of people
 skills that you try to help out with. See it as a challenge and not as a
 show-stopper. Once you can show successes of improving the standing of
 developers in the company you can go back and ask what they think of

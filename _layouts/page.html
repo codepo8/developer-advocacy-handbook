@@ -19,7 +19,9 @@
     <article class="content">
       {{ content }}
 
-      <p class="next"><a href="{{ page.next }}">Next: {{ page.nexttitle }}</a></p>
+      {% if page.next %}
+      <p class="next">Next: <a href="{{ page.next }}">{{ page.nexttitle }}</a></p>
+      {% endif %}
 
     </article>
   </div>
