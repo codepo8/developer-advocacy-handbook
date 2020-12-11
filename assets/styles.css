@@ -137,7 +137,8 @@ nav a {
   font-weight: normal;
 }
 blockquote {
-  margin: 1em;
-  border: double 2px var(--line);
-  padding:.5em;
+    margin: 1em 0;
+    border: double 1px var(--line);
+    border-width: 2px 0 1px 0;
+    padding: 5px;
 }
