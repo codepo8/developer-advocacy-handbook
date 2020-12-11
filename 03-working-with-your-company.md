@@ -38,7 +38,7 @@ This also is an important step to validate the worth of the developer
 advocate position to developers. After all, you are their advocate,
 right?
 
-Tip: seeing a tech company fail is an excellent thing for online media
+> Tip: seeing a tech company fail is an excellent thing for online media
 outlets. It causes outrage and brings a lot of clicks. Tech companies
 are still seen either as "too clever for normal people" or "probably
 downright evil and arrogant". As it is pretty easy to look up online
@@ -116,7 +116,7 @@ few things to be aware of:
 * **Don\'t act emotional and make assumptions** - almost any change in the company will annoy people. In the heat of the moment this can lead to very dangerous comments, assumptions and truisms which will come back to haunt you a week later. Be aware of this and don\'t fall into the same trap. Instead be ready to bail these people out later on. Get the facts and before you say anything have a backup that can verify what you are saying.
 * **Make your knowledge level clear** - if people ask you what is going on don\'t say "no comment" as that implies you know something but are not allowed to say it. Simply state that you are not in a position to know yet but that you are investigating.
 
-Tip: This last point is very important. As your job is to communicate
+> Tip: This last point is very important. As your job is to communicate
 with everybody in the company people already assume that you have a much
 more in-depth knowledge than they have. As developers get very paranoid
 about changes in the company this can mean that people think you know
@@ -125,7 +125,7 @@ company" or "the management". Don\'t lose your contact with and the
 trust of the developers in the company over something you have no
 control over.
 
-Example: One very interesting example of a change was when in one round
+> Example: One very interesting example of a change was when in one round
 of redundancies a broadly liked and respected very outgoing and
 extremely talented developer got made redundant. The developer was also
 part of a team that built one of the most important products at the
@@ -150,7 +150,7 @@ of you losing interest in being a developer. Work around that by not
 losing the connection with the people in your company that build things
 and listen to what they do.
 
-Tip: Don\'t get bogged down in detailed problems of other developers
+> Tip: Don\'t get bogged down in detailed problems of other developers
 though. You should be a voice of reason, understanding and pragmatic
 solutions and you can only be that if you see the work being done from a
 vantage point.
@@ -170,7 +170,7 @@ never feel the chance to voice their concerns. Make them aware that you
 can be their spokesperson and that you are there to demand time for
 discussing problems with their managers.
 
-Example: I was very touched when one of my former colleagues asked me to
+> Example: I was very touched when one of my former colleagues asked me to
 have a few late night phone calls (over Skype) to talk about his future
 in the company and an offer he had from another company. I was also very
 annoyed about how frustrated he was about not feeling any joy or
@@ -261,7 +261,7 @@ of the woodwork:
 * **Share great responses from the outside world** - send out for example a newsletter of "happy social quotes" with tweets and blog posts about how a certain event or product launch was received in the developer world.
 * **Ask people to challenge your products** - run some internal competitions to change or collect ideas about how people in the company would like your products to change. In a few companies I worked had we had "hack days" for that and more and more companies start doing the same.
 
-Tip: A lot of this will tie in nicely with communication channels that
+> Tip: A lot of this will tie in nicely with communication channels that
 PR and marketing already use. Ask them for help instead of doing your
 own thing and creating confusion and trespass on their territory.
 
@@ -278,7 +278,7 @@ people from sending you Word documents with embedded resized bitmaps,
 translation tools, communication tools, automated social media
 collateral generators - anything that you use to save time every day.
 
-Example: One thing you will find is that if you are an early adopter of
+> Example: One thing you will find is that if you are an early adopter of
 technology the main market will get to know some of them a few months
 later. During my career I had great success helping marketing to set up
 blogs or newsletters and HR to use Twitter. This creates an amazing

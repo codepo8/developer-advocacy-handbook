@@ -63,7 +63,7 @@ a specialist in the technologies of your company, but if you are
 oblivious to the world outside the company and preach a mono-culture you
 will not get far.
 
-**Fact:** Your independence and your integrity is your main power. If
+> **Fact:** Your independence and your integrity is your main power. If
 you lost it you are not effective any longer. People should get excited
 about what you do because they trust your judgment -- not because you
 work for a certain company.
@@ -99,7 +99,7 @@ is very important that you keep an eye on and in contact with the
 competition as much as it is important to be aware of what your own
 company is up to.
 
-**Example:** A really interesting moment happened at a conference. I was
+> **Example:** A really interesting moment happened at a conference. I was
 part of a panel of JavaScript framework developers each representing a
 certain product. The audience was full of fans of all the different
 frameworks and eager to see a big fight on stage. The first thing we did
@@ -152,7 +152,7 @@ Another thing to remember is that the product might be better but for a
 different audience. What gets developers excited does not necessarily
 mean end users can deal with it.
 
-Example: When I started at Microsoft I took people by surprise by using
+> Example: When I started at Microsoft I took people by surprise by using
 a Macbook on stage. I've used Macs for a decade before that and I was
 used to them and more efficient using it. The company didn't have any
 problem with it as it also changed a lot since the 90s. I now use both a
