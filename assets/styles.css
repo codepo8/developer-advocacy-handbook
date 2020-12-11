@@ -2,6 +2,7 @@
   --background: #f8f8f8;
   --text: #333;
   --link: #339966;
+  --line: #111;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -9,6 +10,7 @@
     --background: #111;
     --text: #ccc;
     --link: skyblue;
+    --line: #ccc;
   }
 }
 
@@ -27,6 +29,7 @@ ul {
   padding: 0 0 1em 0;
 }
 ul ul {
+  border-top: 1px solid var(--line);
   padding: 1em 0 1em 0;
 }
 ul a {
@@ -75,7 +78,7 @@ p {
 }
 footer {
   font-size: .8em;
-  border-top: 1px solid #000;
+  border-top: 1px solid var(--line);
   padding: 1em 2em;
 }
 nav {
