@@ -21,7 +21,7 @@
 body {
   background:var(--background);
   color: var(--text);
-  font-family: helvetica,arial,sans-serif;
+  font-family: "Open Sans", "segoe ui", helvetica, arial, sans-serif;
   font-size: calc(.6em + 1vw);
 }
 
