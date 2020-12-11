@@ -7,15 +7,20 @@
   <link rel="stylesheet" href="assets/styles.css">
 </head>
 <body>
-  <nav>
-  {% include_relative nav.md %}
-  </nav>
-  {{ content }}
-
-  {% include prevnext.md %}
-
+  <header>
+  </header>
+  <div id="split">
+  <article>
+    {{ content }}
+  </article>
+  <section>
+    <nav>
+      {% include nav.html %}
+    </nav>
+  </section>
+  </div>
   <footer>
-    {% include_relative footer.md %}
+    {% include footer.html %}
   </footer>
 </body>
 </html>

@@ -1,4 +1,22 @@
 body {
   background: #f8f8f8;
   color: #333;
+  font-family: helvetica,arial,sans-serif;
+  font-size: calc(1em + 1vw);
+}
+h1 {
+  font-size: 1.3em;
+  font-weight: normal;
+}
+h2 {
+  font-size: 1.2em;
+  font-weight: normal;
+}
+h3 {
+  font-size: 1.1em;
+  font-weight: normal;
+}
+h4 {
+  font-size: 1em;
+  font-weight: bold;
 }
