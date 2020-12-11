@@ -23,17 +23,17 @@ h4 {
 #split {
   margin: 1em 2em;
   display: flex;
-}
-article {
-  flex: 3;
-  max-width: 36em;
-  min-width: 20em;
   gap: 2em;
   flex-wrap: wrap;
 }
+article {
+  flex: 5;
+  max-width: 36em;
+  min-width: 20em;
+}
 section {
   min-width: 10em;
-  flex: 1;
+  flex: 2;
 }
 p {
   margin: 0;
