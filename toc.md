@@ -15,7 +15,7 @@ layout: default
 9](01-what-is-developer-advocacy#find-your-role-and-play-to-your-strengths)
 
 
-* [Working with your company and competition
+* [Working with your competition
 10](#working-with-your-company-and-competition)
 
 * [Remove the brand 10](#remove-the-brand)

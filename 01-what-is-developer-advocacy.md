@@ -1,6 +1,6 @@
 ---
-next: 02-working-with-your-company-and-competition
-nexttitle: Working with your company and competition
+next: 02-working-with-your-competition
+nexttitle: Working with your Competition
 ---
 # What is Developer Advocacy / Evangelism?
 
