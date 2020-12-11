@@ -1,4 +1,7 @@
-# Table of Contents {#table-of-contents .TOC-Heading}
+---
+layout: page
+---
+# Table of Contents
 
 * [About this handbook](about#about-this-handbook)
    * [About this version](about#about-this-version)
