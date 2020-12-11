@@ -100,5 +100,3 @@ Check the rest of the handbook and see what resonates best with you.
 Then start advocating. You have nothing to lose and will most probably
 be very surprised how easy things become if you concentrate on one job
 at a time.
-
-{% include_relative footer.md %}
