@@ -6,12 +6,12 @@
   <title>Document</title>
 </head>
 <body>
-  {% include navigation.md %}
+  {% include_relative navigation.md %}
 
   {{ content }}
 
-  {% include prevnext.md %}
+  {% include_relative prevnext.md %}
 
-  {% include footer.md %}
+  {% include_relative footer.md %}
 </body>
 </html>
