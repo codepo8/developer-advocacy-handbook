@@ -124,6 +124,7 @@ all about what annoys them but hold back as you are siding with "the
 company" or "the management". Don\'t lose your contact with and the
 trust of the developers in the company over something you have no
 control over.
+{: .my-class }
 
 > Example: One very interesting example of a change was when in one round
 of redundancies a broadly liked and respected very outgoing and
