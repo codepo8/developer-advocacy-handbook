@@ -3,9 +3,9 @@ layout: default
 ---
 # Table of Contents
 
-* [About this handbook](#about-this-handbook)
-   * [About this version](#about-this-version)
-   * [About the author](#about-the-author)
+* [About this handbook](about#about-this-handbook)
+   * [About this version](about#about-this-version)
+   * [About the author](about#about-the-author)
 
 * [What is Developer Advocacy / Evangelism?
 8](01-what-is-developer-advocacy#what-is-developer-advocacy-evangelism)
