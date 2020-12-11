@@ -1,3 +1,7 @@
+---
+next: 02-working-with-your-company-and-competition
+nexttitle: Working with your company and competition
+---
 # What is Developer Advocacy / Evangelism?
 
 ## Defining Developer Advocacy
