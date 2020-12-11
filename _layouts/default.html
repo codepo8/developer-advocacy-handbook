@@ -7,14 +7,14 @@
 </head>
 <body>
   <nav>
-  {% include navigation.md %}
+  {% include_relative nav.md %}
   </nav>
   {{ content }}
 
   {% include prevnext.md %}
 
   <footer>
-    {% include footer.md %}
+    {% include_relative footer.md %}
   </footer>
 </body>
 </html>
