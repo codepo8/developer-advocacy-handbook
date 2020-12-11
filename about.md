@@ -53,7 +53,7 @@ person asking for great developer experiences inside your company.
 
 # About the author
 
-![Christian Heilmann](media/chrisheilmann.jpg)
+![Christian Heilmann](images/chris-heilmann-dotted-shirt-microphone.jpg)
 
 Christian Heilmann has been working as a web developer for over 20 years
 and spent the last 10 as a developer evangelist/advocate for companies
