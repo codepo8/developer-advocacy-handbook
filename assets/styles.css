@@ -1,9 +1,18 @@
+
+
 body {
   background: #f8f8f8;
   color: #333;
   font-family: helvetica,arial,sans-serif;
   font-size: calc(.6em + 1vw);
 }
+@media (prefers-color-scheme: dark) {
+  body {
+    colour: #f8f8f8;
+    background: #333;
+  }
+}
+
 h1 {
   font-size: 1.3em;
   font-weight: normal;
