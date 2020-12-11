@@ -27,13 +27,13 @@ h4 {
   flex-wrap: wrap;
 }
 article {
-  flex: 5;
+  flex: 4;
   max-width: 36em;
   min-width: 20em;
 }
 section {
   min-width: 10em;
-  flex: 2;
+  flex: 1;
 }
 p {
   margin: 0;
