@@ -66,6 +66,3 @@ He blogs since 2005 at [christianheilmann.com](https://christianheilmann.com)
 and can be found on Twitter as the name of [codepo8](https://twitter.com/codepo8). 
 He lived and worked in Germany, India, United States and the UK. 
 He currently lives in Berlin, Germany and works as a Principal Program Manager at Microsoft.
-
->{.tip}This is the blockquote
-
