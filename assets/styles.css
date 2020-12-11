@@ -5,6 +5,10 @@
   --line: #111;
   --headerbackground: #fff;
   --headertext: #369;
+  --h1colour: green;
+  --h2colour: red;
+  --h3colour: blue;
+  --h4colour: #ccc;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -14,7 +18,11 @@
     --link: skyblue;
     --line: #ccc;
     --headerbackground: #111;
-    --headertext: lime;
+    --headertext: #ffc107;
+    --h1colour: #4caf50;
+    --h2colour: #2196f3;
+    --h3colour: #ff5a4e;
+    --h4colour: #ccc;
     }
 }
 
@@ -75,18 +83,22 @@ ul ul a {
 h1 {
   font-size: 1.3em;
   font-weight: normal;
+  color: var(--h1colour);
 }
 h2 {
   font-size: 1.2em;
   font-weight: normal;
+  color: var(--h2colour);
 }
 h3 {
   font-size: 1.1em;
   font-weight: normal;
+  color: var(--h3colour);
 }
 h4 {
   font-size: 1em;
   font-weight: bold;
+  color: var(--h4colour);
 }
 #split {
   margin: 1em;
