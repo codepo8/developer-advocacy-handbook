@@ -14,10 +14,10 @@
     <section>
       <nav>
         {% include nav.html %}
+        {% include toc.html html=content %}
       </nav>
     </section>
     <article class="content">
-      {% include toc.html html=content %}
 
       {{ content }}
 
