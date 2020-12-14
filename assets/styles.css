@@ -75,6 +75,7 @@ header li a {
   color: var(--link);
   display: inline;
   padding: 0;
+  font-size: .8em;
 }
 .content ul {
   list-style: square;
@@ -135,7 +136,7 @@ h4 {
   color: var(--h4colour);
 }
 #split {
-  margin: 1em;
+  margin: 1em 0;
   display: flex;
   gap: 2em;
   flex-wrap: wrap;
