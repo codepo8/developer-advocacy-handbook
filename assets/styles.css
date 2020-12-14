@@ -7,8 +7,8 @@
   --headertext: #369;
   --h1colour: #08790d;
   --h2colour: #2196f3;
-  --h3colour: blue;
-  --h4colour: #ccc;
+  --h3colour: #369;
+  --h4colour: #333;
   --stronglist: #4caf50;
   --pagetoclink: #666;
 }
@@ -166,9 +166,9 @@ nav a {
   font-weight: normal;
 }
 blockquote {
-    font-size: .8em;
+    font-size: .85em;
     margin: 1em 0;
-    border: double 1px var(--line);
+    border: solid 1px var(--line);
     border-width: 1px 0 1px 0;
     padding: 5px;
 }

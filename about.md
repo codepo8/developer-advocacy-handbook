@@ -2,7 +2,7 @@
 next: what-is-developer-advocacy
 nexttitle: What is developer advocacy?
 ---
-# About this handbook
+ # About this handbook
 
 This handbook will get you on the way to be a great developer advocate
 for any product or company. Naturally, your approach may need tweaking for
@@ -14,7 +14,7 @@ Developer advocacy is a comparatively new field of work and the first
 hurdle you will encounter is people asking what a developer advocate is
 and why any company would need a role like that.
 
-Fifteen years ago I wrote this book for exactly that reason. I had hit a
+Eleven years ago I wrote this book for exactly that reason. I had hit a
 wall in my career as I was lead developer and the next and only role to
 get higher up the ladder for me was manager, which I didn't want to do.
 I already had started reaching out to developers about my company, but
