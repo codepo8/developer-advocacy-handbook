@@ -45,10 +45,13 @@ img {
 a {
   color: var(--link);
 }
+header {
+  margin: 0 20px;
+}
 header a {
   display: block;
   font-size: 1.3em;
-  padding: .5em 1em;
+  padding: .5em 0;
   color: var(--headertext);
   text-decoration: none;
   background: var(--headerbackground);
@@ -136,7 +139,7 @@ h4 {
   color: var(--h4colour);
 }
 #split {
-  margin: 1em 0;
+  margin: 0 20px;
   display: flex;
   gap: 2em;
   flex-wrap: wrap;
