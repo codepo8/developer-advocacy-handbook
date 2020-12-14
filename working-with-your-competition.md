@@ -4,7 +4,7 @@ nexttitle: Working with your company
 ---
 # Working with your competition
 
-![Don't pick things you like and demand people to accomodate to your needs](media/images/dont-pick-things.jpg)
+![Don't pick things you like and demand people to accomodate to your needs](images/dont-pick-things.jpg)
 
 ## Work with the competition
 

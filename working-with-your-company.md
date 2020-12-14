@@ -4,6 +4,8 @@ nexttitle: Working with your competition
 ---
 # Work with your own company
 
+![Chris Heilmann looking up at the Microsoft logo](images/chris-microsoft-logo.jpg)
+
 As a developer advocate you will find that a large part of your work is
 dealing with internal colleagues and unpredictable changes to your
 company.
