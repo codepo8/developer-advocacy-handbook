@@ -17,6 +17,8 @@
       </nav>
     </section>
     <article class="content">
+      {% include toc.html html=content %}
+
       {{ content }}
 
       {% if page.next %}

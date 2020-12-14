@@ -102,7 +102,7 @@ Another thing to remember is that the product might be better but for a
 different audience. What gets developers excited does not necessarily
 mean end users can deal with it.
 
-> Example: When I started at Microsoft I took people by surprise by using
+> **Example:** When I started at Microsoft I took people by surprise by using
 a Macbook on stage. I've used Macs for a decade before that and I was
 used to them and more efficient using it. The company didn't have any
 problem with it as it also changed a lot since the 90s. I now use both a
