@@ -4,57 +4,7 @@ nexttitle: Working with your company
 ---
 # Working with your competition
 
-![A picture containing text, indoor Description automatically
-generated](media/image3.tiff){width="6.263888888888889in"
-height="4.1715277777777775in"}
-
-## Remove the brand
-
-One very crucial part to becoming a successful developer advocate is to
-remove the brand from your thinking.
-
-Yes, you work for a certain company that builds a lot of products, some
-of them cool -- some of them terrible. The point of developer advocacy
-is not to get people excited about the brand or the company behind it
-though. It is about the products the company releases and even more
-specifically about getting developers excited about playing with them.
-Your goal as a developer advocate is to get developers to talk about
-your products and promote them for you. This is why you need to try your
-best to remove yourself from the brand of your company to set an
-example. This is tough. The larger and more known the company you work
-for is, the more people will try to paint you as "the company X person".
-We'll deal with this later in the book, but it is something to prepare
-yourself for.
-
-Separating yourself from the brand and towards the product only works
-when you are excited about the product. If the department that builds
-the product fails to get you interested in the product, don\'t talk
-about it -- instead, work with the department to find the thing that
-makes it worth while for you. Anything you advocate should answer one
-simple question: **What is in it for developers?**
-
-The products you advocate need to get you excited and you need to know
-where they are going and who to ask for detailed information about them.
-If the product has no internal stakeholder or team that is a danger
-sign.
-
-People working on products are actually not the right people to advocate
-them -- they are far too close to the subject matter to find obvious
-flaws in the documentation or are fine with overly complex ways of
-invoking a certain functionality as they are used to them. This goes as
-far as having their own language. Every product I worked with used
-specialist terms that in day-to-day conversation made sense to the team
-but would be cryptic gibberish to put in a blog post.
-
-Your job is to offer them a way to translate this into easier
-understandable documentation and examples and challenge their current
-state of affairs. You do however need them to do a good job so be
-careful not to burn any bridges by being too critical. People spent a
-lot of time building what you want to tell the world about and are
-protective about it.
-
-The real power of removing your brand goggles is that you will be able
-to work with rather than against the competition.
+![Don't pick things you like and demand people to accomodate to your needs](media/images/dont-pick-things.jpg)
 
 ## Work with the competition
 
