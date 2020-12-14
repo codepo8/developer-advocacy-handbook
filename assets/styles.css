@@ -11,6 +11,8 @@
   --h4colour: #333;
   --stronglist: #4caf50;
   --pagetoclink: #666;
+  --footercolour: #666;
+  --footerlink: #333;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -27,6 +29,8 @@
     --h4colour: #ccc;
     --stronglist: #4caf50;
     --pagetoclink: #ccc;
+    --footercolour: #999;
+    --footerlink: #ccc;
   }
 }
 
@@ -154,11 +158,6 @@ p, li {
   padding: 0 0 .5em 0;
   line-height: 1.5;
 }
-footer {
-  font-size: .8em;
-  border-top: 1px solid var(--line);
-  padding: 1em 2em;
-}
 nav {
   margin: 1em 0;
 }
@@ -176,3 +175,27 @@ blockquote {
   text-align: right;
 }
 
+footer {
+  font-size: .8em;
+  border-top: 1px solid var(--line);
+  padding: 1em 2em;
+  margin-top: 5em;
+  color: var(--footercolour);
+}
+footer a {
+  color: var(--footerlink);
+}
+footer div {
+  margin: 1em 0;
+  position: relative;
+  padding-left: 120px;
+}
+footer img {
+  position: absolute;
+  top: 5px;
+  width: auto;
+  left: 5px;
+}
+address {
+  display: inline;
+}
