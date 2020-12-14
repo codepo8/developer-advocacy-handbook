@@ -2,7 +2,7 @@
 next: what-is-developer-advocacy
 nexttitle: What is developer advocacy?
 ---
- # About this handbook
+# About this handbook
 
 This handbook will get you on the way to be a great developer advocate
 for any product or company. Naturally, your approach may need tweaking for
