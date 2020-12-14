@@ -3,14 +3,14 @@
   --text: #333;
   --link: #339966;
   --line: #111;
-  --headerbackground: #fff;
+  --headerbackground: transparent;
   --headertext: #369;
-  --h1colour: green;
-  --h2colour: red;
+  --h1colour: #08790d;
+  --h2colour: #2196f3;
   --h3colour: blue;
   --h4colour: #ccc;
   --stronglist: #4caf50;
-  --pagetoclink: #ccc;
+  --pagetoclink: #666;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -19,7 +19,7 @@
     --text: #ccc;
     --link: skyblue;
     --line: #ccc;
-    --headerbackground: #111;
+    --headerbackground: transparent;
     --headertext: #ffc107;
     --h1colour: #4caf50;
     --h2colour: #2196f3;
@@ -57,10 +57,6 @@ header a {
   background: var(--headerbackground);
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   letter-spacing: -1px;  
-}
-header ul {
-  text-align: left;
-  padding-left: 1.4em;
 }
 header li {
   display: inline;
