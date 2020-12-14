@@ -10,6 +10,7 @@
   --h3colour: blue;
   --h4colour: #ccc;
   --stronglist: #4caf50;
+  --pagetoclink: #ccc;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -25,7 +26,8 @@
     --h3colour: #ff5a4e;
     --h4colour: #ccc;
     --stronglist: #4caf50;
-    }
+    --pagetoclink: #ccc;
+  }
 }
 
 body {
@@ -84,7 +86,12 @@ ul a {
 ul ul a {
   font-weight: normal;
 }
-
+nav ul:nth-child(2){
+  font-size: .9em;
+}
+nav ul:nth-child(2) a {
+  color: var(--pagetoclink);
+}
 h1 {
   font-size: 1.3em;
   font-weight: normal;
