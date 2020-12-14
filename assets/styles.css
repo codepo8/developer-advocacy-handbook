@@ -55,6 +55,24 @@ header a {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   letter-spacing: -1px;  
 }
+header ul {
+  text-align: right;
+}
+header li {
+  display: inline;
+}
+header li::after {
+  content: '|';
+  padding: 0 10px;
+}
+header li:last-child::after {
+  content: '';
+  padding: 0;
+}
+
+header li a {
+  color: var(--link);
+}
 .content ul {
   list-style: square;
   margin: 0;
@@ -86,19 +104,13 @@ ul a {
 ul ul a {
   font-weight: normal;
 }
-
-@media all and (max-width: 650px) {
-    nav ul:nth-child(1) li {
-    display: inline;
-  }
-}
-
-nav ul:nth-child(2){
+nav ul {
   font-size: .9em;
 }
-nav ul:nth-child(2) a {
+nav ul a {
   color: var(--pagetoclink);
 }
+
 h1 {
   font-size: 1.3em;
   font-weight: normal;
