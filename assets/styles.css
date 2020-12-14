@@ -56,7 +56,8 @@ header a {
   letter-spacing: -1px;  
 }
 header ul {
-  text-align: right;
+  text-align: left;
+  padding-left: 1.4em;
 }
 header li {
   display: inline;
@@ -72,6 +73,8 @@ header li:last-child::after {
 
 header li a {
   color: var(--link);
+  display: inline;
+  padding: 0;
 }
 .content ul {
   list-style: square;
