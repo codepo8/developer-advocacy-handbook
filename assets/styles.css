@@ -57,7 +57,6 @@ header {
 header ul {
   flex: 1;
 }
-
 header a {
   flex: 3;
   font-size: 1.3em;
@@ -153,7 +152,7 @@ h4 {
 #split {
   margin: 0 20px;
   display: flex;
-  gap: 2em;
+  gap: 0 2em;
   flex-wrap: wrap;
 }
 article {
