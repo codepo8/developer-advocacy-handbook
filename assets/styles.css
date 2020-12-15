@@ -24,6 +24,7 @@
   --footerbackground: #eee;
   --footershadow: #ccc;
 
+  --blocknamecolour: #333;
   --blockbackground: #eee;
   --blocktopline: #ccc;
   --blockbottomline: transparent;
@@ -55,6 +56,7 @@
     --footerbackground: #eee;
     --footershadow: #ccc;
 
+    --blocknamecolour: #333;
     --blockbackground: #eee;
     --blocktopline: #ccc;
     --blockbottomline: transparent;
@@ -261,6 +263,7 @@ address {
 }
 blockquote[class] strong:nth-child(1) {
   display: block;
+  color: var(--blocknamecolour);
   margin: .5em 0;
 }
 
