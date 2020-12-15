@@ -1,3 +1,7 @@
+---
+next: get-speaking-opportunities
+nexttitle: Get speaking opportunities
+---
 # Prepare for outreach
 
 As a developer advocate a lot of your job is going out there and tell
@@ -78,7 +82,7 @@ presentation do this:
 * **Don\'t expect to be able to go online** - or turn on a hotspot on your mobile as backup if you really need to be.
 * **Aim for resolution independence** and expect the worst possible colour setting and very low contrast. A good idea is to always leave plenty of border around your slides as many projectors cut content off.
 
-**Example:** Once I gave a keynote at a conference about Artificial
+> **Example:** Once I gave a keynote at a conference about Artificial
 Intelligence and my overall message was that whilst machines are faster
 and more efficient than we are they are also not infallible and augment
 the mistakes we made. This was a conference with a complex stage setup
