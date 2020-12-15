@@ -1,17 +1,24 @@
 :root {
   --background: #f8f8f8;
   --text: #333;
-  --link: #339966;
   --line: #111;
+  
+  --link: #339966;
+  --innerlink: #329ac3;
+  --deepestlink: #68838e;
+
   --headerbackground: #eee;
   --headershadow: #ccc;
   --headertext: #369;
+
   --h1colour: #08790d;
   --h2colour: #2196f3;
   --h3colour: #369;
   --h4colour: #333;
+
   --stronglist: #4caf50;
   --pagetoclink: #666;
+
   --footercolour: #666;
   --footerlink: #333;
   --footerbackground: #eee;
@@ -28,7 +35,6 @@
     --text: #ccc;
     --line: #ccc;
 
-
     --link: skyblue;
     --innerlink: #329ac3;
     --deepestlink: #68838e;
@@ -44,8 +50,10 @@
     --stronglist: #4caf50;
     --pagetoclink: #ccc;
 
-    --footercolour: #999;
-    --footerlink: #ccc;
+    --footercolour: #666;
+    --footerlink: #333;
+    --footerbackground: #eee;
+    --footershadow: #ccc;
 
     --blockbackground: #eee;
     --blocktopline: #ccc;
