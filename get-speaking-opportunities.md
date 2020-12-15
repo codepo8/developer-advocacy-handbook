@@ -1,3 +1,8 @@
+---
+next: travel-and-conference-participation
+nexttitle: Travel and conference participation
+---
+
 # Get speaking opportunities
 
 ![A table with a lot of lanyards](images/lanyards.jpg)
