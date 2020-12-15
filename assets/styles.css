@@ -3,7 +3,8 @@
   --text: #333;
   --link: #339966;
   --line: #111;
-  --headerbackground: transparent;
+  --headerbackground: #eee;
+  --headershadow: #ccc;
   --headertext: #369;
   --h1colour: #08790d;
   --h2colour: #2196f3;
@@ -13,6 +14,8 @@
   --pagetoclink: #666;
   --footercolour: #666;
   --footerlink: #333;
+  --footerbackground: #eee;
+  --footershadow: #ccc;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -46,6 +49,8 @@ body {
   color: var(--text);
   font-family: "Open Sans", "segoe ui", helvetica, arial, sans-serif;
   font-size: calc(.7em + 1vw);
+  margin: 0;
+  padding: 0;
 }
 
 img {
@@ -58,9 +63,10 @@ a {
   color: var(--link);
 }
 header {
-  margin: 0 20px;
+  padding: 0 20px;
   display: flex;
   flex-wrap: wrap;
+  background: var(--headerbackground);
 }
 header ul {
   flex: 2;
@@ -75,6 +81,7 @@ header a {
   color: var(--headertext);
   text-decoration: none;
   background: var(--headerbackground);
+  border-bottom: 1px solid var(--headershadow);
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   letter-spacing: -1px;  
 }
@@ -147,7 +154,10 @@ nav ul {
 nav ul a {
   color: var(--pagetoclink);
 }
-
+h1, h2, h3, h4 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  letter-spacing: -1px;  
+}
 h1 {
   font-size: 1.3em;
   font-weight: normal;
@@ -211,6 +221,8 @@ footer {
   padding: 1em 2em;
   margin-top: 5em;
   color: var(--footercolour);
+  background: var(--footerbackground);
+  border-bottom: 1px solid var(--footershadow);
 }
 footer a {
   color: var(--footerlink);
