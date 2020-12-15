@@ -40,8 +40,9 @@
     --innerlink: #329ac3;
     --deepestlink: #68838e;
 
-    --headerbackground: transparent;
+    --headerbackground: #000;
     --headertext: #ffc107;
+    --headershadow: #666;
 
     --h1colour: #4caf50;
     --h2colour: #2196f3;
@@ -53,12 +54,12 @@
 
     --footercolour: #666;
     --footerlink: #333;
-    --footerbackground: #eee;
+    --footerbackground: #000;
     --footershadow: #ccc;
 
-    --blocknamecolour: #333;
-    --blockbackground: #eee;
-    --blocktopline: #ccc;
+    --blocknamecolour: orange;
+    --blockbackground: #000;
+    --blocktopline: #666;
     --blockbottomline: transparent;
   }
 }
@@ -229,7 +230,7 @@ blockquote {
     border: solid 1px var(--line);
     border-width: 1px 0 1px 0;
     border-color: var(--blocktopline) transparent var(--blockbottomline) transparent;
-    padding: 5px;
+    padding: 10px;
 }
 .next {
   text-align: right;
