@@ -51,11 +51,18 @@ a {
 }
 header {
   margin: 0 20px;
+  display: flex;
+  flex-wrap: wrap;
 }
+header ul {
+  flex: 1;
+}
+
 header a {
-  display: block;
+  flex: 3;
   font-size: 1.3em;
   padding: .5em 0;
+  font-weight: normal;
   color: var(--headertext);
   text-decoration: none;
   background: var(--headerbackground);
@@ -67,7 +74,7 @@ header li {
 }
 header li::after {
   content: '|';
-  padding: 0 10px;
+  padding: 0 5px;
 }
 header li:last-child::after {
   content: '';
@@ -204,6 +211,11 @@ footer img {
 address {
   display: inline;
 }
-blockquote.tip::before {
+blockquote.tip strong::before {
+  display: block;
+  margin: .5em 0;
+}
+
+blockquote.tip strong::before {
   content: '💡';
 }
