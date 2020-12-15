@@ -234,6 +234,7 @@ blockquote {
 }
 .next {
   text-align: right;
+  margin: 2em 0;
 }
 
 footer {
