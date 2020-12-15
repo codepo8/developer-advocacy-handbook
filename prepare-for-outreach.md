@@ -1,6 +1,7 @@
 ---
 next: get-speaking-opportunities
 nexttitle: Get speaking opportunities
+title: Prepare for outreach - The developer advocacy handbook
 ---
 # Prepare for outreach
 
@@ -68,7 +69,7 @@ Your communication should be in the right format for the intended
 audience. This can range from slides, over videos and audio to live
 coding exercises, online step-by-step examples or streams.
 
-Tip: My rule of thumb is -- the more technical the audience, the less
+> **Tip:** My rule of thumb is -- the more technical the audience, the less
 you should use powerpoint or keynote. Show how you can code with the
 product, not how shiny it is or what its workflow is.
 

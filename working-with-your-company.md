@@ -1,6 +1,7 @@
 ---
 next: working-with-your-competition
 nexttitle: Working with your competition
+title: Work with your own company - The developer advocacy handbook
 ---
 # Work with your own company
 

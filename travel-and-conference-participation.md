@@ -1,6 +1,7 @@
 ---
 next: travel-and-conference-participation
 nexttitle: Travel and conference participation
+title: Travel and conference participation - The developer advocacy handbook
 ---
 # Travel and conference participation
 
@@ -22,7 +23,7 @@ to avoid this. Be as excited about the event as the organisers and
 attendees are about you being there. The fact that every great advocate
 should always keep in mind is the following:
 
-Fact: If you are invited to speak at a conference, you should be present
+> **Fact:** If you are invited to speak at a conference, you should be present
 at the conference.
 
 People paid money to see you and the organisers rely on you to

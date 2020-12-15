@@ -1,6 +1,7 @@
 ---
 next: prepare-for-outreach
 nexttitle: Prepare for outreach
+title: Work with your competition - The developer advocacy handbook
 ---
 # Working with your competition
 
