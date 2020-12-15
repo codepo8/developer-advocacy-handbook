@@ -4,6 +4,8 @@ nexttitle: Get speaking opportunities
 ---
 # Prepare for outreach
 
+![Lanyard and bag](images/lanyard-and-bag.jpg)
+
 As a developer advocate a lot of your job is going out there and tell
 the world about the things your company does (or technologies,
 techniques and methodologies it uses). Your success in this is to a
