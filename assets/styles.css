@@ -20,6 +20,8 @@
     --background: #111;
     --text: #ccc;
     --link: skyblue;
+    --innerlink: rgb(38, 106, 133);
+    --deepestlink: rgb(53, 106, 128);
     --line: #ccc;
     --headerbackground: transparent;
     --headertext: #ffc107;
@@ -111,6 +113,12 @@ ul ul, nav ul ul {
 }
 ul ul li {
   padding-bottom: .2em;
+}
+ul ul li a {
+  color: var(--innerlink);
+}
+ul ul ul li a {
+  color: var(--deepestlink);
 }
 ul ul ul {
   border-top: none;
