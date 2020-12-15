@@ -4,7 +4,7 @@ nexttitle: Travel and conference participation
 ---
 # Travel and conference participation
 
-![Sitting on a plane with just enough legroom](images/in-plane.jpg)
+![Sitting on a plane with just enough legroom](images/in-plane.jpg =250x250)
 
 Conferences and travels are stressful, no doubt about that. They can
 also be frustrating. For you as an advocate they are work, and as a

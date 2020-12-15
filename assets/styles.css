@@ -73,7 +73,6 @@ header li:last-child::after {
   content: '';
   padding: 0;
 }
-
 header li a {
   color: var(--link);
   display: inline;
@@ -117,6 +116,8 @@ ul ul a {
 }
 nav ul {
   font-size: .9em;
+  margin: 0;
+  padding: 0;
 }
 nav ul a {
   color: var(--pagetoclink);
@@ -163,7 +164,7 @@ p, li {
   line-height: 1.5;
 }
 nav {
-  margin: 1em 0;
+  margin: 1em 0 0 0;
 }
 nav a {
   font-weight: normal;

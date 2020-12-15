@@ -118,7 +118,7 @@ Brownbag presentations are a great opportunity:
 One idea to plant in your head is to **never be shy to ask questions at
 any meeting or conference**. I am a hundred percent sure that my success
 in my job had its main breakthrough after I asked detailed technical
-questions to the speakers at the \@media2005 conference.
+questions to the speakers at the @media2005 conference.
 
 I had spent four months arguing with my boss to get tickets to the
 conference and that it is important for my team to go there and wanted

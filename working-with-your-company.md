@@ -92,7 +92,7 @@ to deal with issues that are beyond of your control. Mergers,
 acquisitions, new products, products being discontinued, rounds of
 layoffs, redundancies - all of these things happen, so be prepared.
 
-**Fact:** The sad fact is that most company changes don't have anything to
+> **Fact:** The sad fact is that most company changes don't have anything to
 do with the quality of your work. The concept of shareholders buying
 into a company because they believe in it has been dead for years - it
 is all about trading stocks and moving them to make money in the
@@ -172,7 +172,7 @@ never feel the chance to voice their concerns. Make them aware that you
 can be their spokesperson and that you are there to demand time for
 discussing problems with their managers.
 
-> Example: I was very touched when one of my former colleagues asked me to
+> **Example:** I was very touched when one of my former colleagues asked me to
 have a few late night phone calls (over Skype) to talk about his future
 in the company and an offer he had from another company. I was also very
 annoyed about how frustrated he was about not feeling any joy or
@@ -263,7 +263,7 @@ of the woodwork:
 * **Share great responses from the outside world** - send out for example a newsletter of "happy social quotes" with tweets and blog posts about how a certain event or product launch was received in the developer world.
 * **Ask people to challenge your products** - run some internal competitions to change or collect ideas about how people in the company would like your products to change. In a few companies I worked had we had "hack days" for that and more and more companies start doing the same.
 
-> Tip: A lot of this will tie in nicely with communication channels that
+> **Tip:** A lot of this will tie in nicely with communication channels that
 PR and marketing already use. Ask them for help instead of doing your
 own thing and creating confusion and trespass on their territory.
 
@@ -280,7 +280,7 @@ people from sending you Word documents with embedded resized bitmaps,
 translation tools, communication tools, automated social media
 collateral generators - anything that you use to save time every day.
 
-> Example: One thing you will find is that if you are an early adopter of
+> **Example:** One thing you will find is that if you are an early adopter of
 technology the main market will get to know some of them a few months
 later. During my career I had great success helping marketing to set up
 blogs or newsletters and HR to use Twitter. This creates an amazing
