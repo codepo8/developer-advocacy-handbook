@@ -114,10 +114,10 @@ ul ul, nav ul ul {
 ul ul li {
   padding-bottom: .2em;
 }
-ul ul li a {
+article ul ul li a {
   color: var(--innerlink);
 }
-ul ul ul li a {
+article ul ul ul li a {
   color: var(--deepestlink);
 }
 ul ul ul {
@@ -221,10 +221,20 @@ footer img {
 address {
   display: inline;
 }
-blockquote.tip strong {
+blockquote[class] p > strong {
   display: block;
   margin: .5em 0;
 }
+
 blockquote.tip strong::before {
-  content: '💡';
+  content: '💡 ';
+}
+blockquote.fact strong::before {
+  content: '✅ ';
+}
+blockquote.example strong::before {
+  content: '👉🏻 ';
+}
+blockquote.warning strong::before {
+  content: '🚨 ';
 }

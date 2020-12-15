@@ -341,7 +341,7 @@ keep being a trustworthy resource and communication channel.
 
 ## Remove the brand
 
-One very crucial part to becoming a successful developer advocate is to
+One crucial part to becoming a successful developer advocate is to
 remove the brand from your thinking.
 
 Yes, you work for a certain company that builds a lot of products, some
