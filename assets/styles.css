@@ -242,12 +242,11 @@ blockquote {
 
 footer {
   font-size: .8em;
-  border-top: 1px solid var(--line);
   padding: 1em 2em;
   margin-top: 5em;
   color: var(--footercolour);
   background: var(--footerbackground);
-  border-bottom: 1px solid var(--footershadow);
+  border-top: 1px solid var(--footershadow);
 }
 footer a {
   color: var(--footerlink);
