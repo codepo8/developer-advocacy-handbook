@@ -3,23 +3,23 @@
   --text: #333;
   --line: #111;
   
-  --link: #339966;
-  --innerlink: #329ac3;
-  --deepestlink: #68838e;
+  --link: #355e37;
+  --innerlink: #1e5b74;
+  --deepestlink: #46585f;
 
   --headerbackground: #eee;
   --headershadow: #ccc;
   --headertext: #369;
 
   --h1colour: #08790d;
-  --h2colour: #2196f3;
-  --h3colour: #369;
+  --h2colour: #04467b;
+  --h3colour: #942a4e;
   --h4colour: #333;
 
-  --stronglist: #4caf50;
-  --pagetoclink: #666;
+  --stronglist: #355e37;
+  --pagetoclink: #555;
 
-  --footercolour: #666;
+  --footercolour: #555;
   --footerlink: #333;
   --footerbackground: #eee;
   --footershadow: #ccc;
@@ -53,7 +53,7 @@
     --pagetoclink: #ccc;
 
     --footercolour: #666;
-    --footerlink: #333;
+    --footerlink: #959595;
     --footerbackground: #000;
     --footershadow: #ccc;
 
@@ -261,6 +261,7 @@ footer img {
 }
 address {
   display: inline;
+  font-style: inherit;
 }
 blockquote[class] strong:nth-child(1) {
   display: block;
@@ -268,15 +269,19 @@ blockquote[class] strong:nth-child(1) {
   margin: .5em 0;
 }
 
-blockquote.tip strong::before {
+blockquote.tip strong:nth-child(1)::before {
   content: '💡 ';
+  padding-right: 8px;
 }
-blockquote.fact strong::before {
+blockquote.fact strong:nth-child(1)::before {
   content: '✅ ';
+  padding-right: 8px;
 }
-blockquote.example strong::before {
+blockquote.example strong:nth-child(1)::before {
   content: '👉🏻 ';
+  padding-right: 8px;
 }
-blockquote.warning strong::before {
+blockquote.warning strong:nth-child(1)::before {
   content: '🚨 ';
+  padding-right: 8px;
 }
