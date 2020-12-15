@@ -56,7 +56,9 @@ header {
   flex-wrap: wrap;
 }
 header ul {
-  flex: 1;
+  flex: 2;
+  line-height: 2.8;
+  text-align: right;
 }
 header a {
   flex: 3;
@@ -74,7 +76,7 @@ header li {
 }
 header li::after {
   content: '|';
-  padding: 0 5px;
+  padding: 0 8px;
 }
 header li:last-child::after {
   content: '';
@@ -211,11 +213,10 @@ footer img {
 address {
   display: inline;
 }
-blockquote.tip strong::before {
+blockquote.tip strong {
   display: block;
   margin: .5em 0;
 }
-
 blockquote.tip strong::before {
   content: '💡';
 }
