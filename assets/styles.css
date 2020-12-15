@@ -203,3 +203,6 @@ footer img {
 address {
   display: inline;
 }
+blockquote.tip::before {
+  content: '💡';
+}
