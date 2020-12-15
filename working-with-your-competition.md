@@ -1,6 +1,6 @@
 ---
-next: 03-working-with-your-company
-nexttitle: Working with your company
+next: prepare-for-outreach
+nexttitle: Prepare for outreach
 ---
 # Working with your competition
 

@@ -104,6 +104,10 @@ ul ul {
 ul ul li {
   padding-bottom: .2em;
 }
+ul ul ul {
+  border-top: none;
+  padding: .5em 0 0 1em;
+}
 ul a {
   font-weight: bold;
   text-decoration: none;
