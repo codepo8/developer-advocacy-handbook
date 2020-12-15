@@ -154,6 +154,9 @@ article ul ul li a {
 article ul ul ul li a {
   color: var(--deepestlink);
 }
+article a[href^="#"] {
+  opacity: 0.3;
+}
 ul ul ul {
   border-top: none;
   padding: .5em 0 0 1em;

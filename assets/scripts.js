@@ -1,5 +1,5 @@
 let bqs = document.querySelectorAll('blockquote');
-bqs.forEach(b => {
+  bqs.forEach(b => {
   b.className = b.
     querySelector('strong').
       innerText.
