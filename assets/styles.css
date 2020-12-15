@@ -16,6 +16,10 @@
   --footerlink: #333;
   --footerbackground: #eee;
   --footershadow: #ccc;
+
+  --blockbackground: #eee;
+  --blocktopline: #ccc;
+  --blockbottomline: transparent;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -23,6 +27,7 @@
     --background: #111;
     --text: #ccc;
     --line: #ccc;
+
 
     --link: skyblue;
     --innerlink: #329ac3;
@@ -41,6 +46,10 @@
 
     --footercolour: #999;
     --footerlink: #ccc;
+
+    --blockbackground: #eee;
+    --blocktopline: #ccc;
+    --blockbottomline: transparent;
   }
 }
 
@@ -67,6 +76,7 @@ header {
   display: flex;
   flex-wrap: wrap;
   background: var(--headerbackground);
+  border-bottom: 1px solid var(--headershadow);
 }
 header ul {
   flex: 2;
@@ -80,8 +90,6 @@ header a {
   font-weight: normal;
   color: var(--headertext);
   text-decoration: none;
-  background: var(--headerbackground);
-  border-bottom: 1px solid var(--headershadow);
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   letter-spacing: -1px;  
 }
@@ -205,10 +213,12 @@ nav a {
   font-weight: normal;
 }
 blockquote {
+    background: var(--blockbackground);
     font-size: .85em;
     margin: 1em 0;
     border: solid 1px var(--line);
     border-width: 1px 0 1px 0;
+    border-color: var(--blocktopline) transparent var(--blockbottomline) transparent;
     padding: 5px;
 }
 .next {
