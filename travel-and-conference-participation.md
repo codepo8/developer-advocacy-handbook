@@ -52,7 +52,7 @@ road.
 * **Stay close to the venue** -- whilst you can save money by being in places somewhere else it means extra commuting time. Also, as you are not likely to know the city commutes can become confusing. My favourite conferences are the ones who are in a hotel and you can book a room there. This means you can travel light at the event -- just your laptop bag and some cables. There is nothing more annoying for you as a presenter to have to carry lots of layers of clothing and luggage around with you. You are there to represent, not to move in.
 * **Travel in affordable style** -- this might sound controversial, but I flat out refuse to use budget airlines. The same goes for trips with lots of changes of modes of transport. Flying is stressful, recycled air is bad for you. Every other person at the airport is a potential obstacle which might make it impossible for you to arrive on time. Ask for a good mid-price ticket and know your airlines and airports. Make sure you sign up for a frequent flyer program. The more your advance in these, the cheaper it gets to get tickets as you can upgrade yourself with air miles.
 
-> **Tip:** conference organisers are the best people to ask about their event.
+> **Tip:** Conference organisers are the best people to ask about their event.
 They will know the best modes of transport and have booked the right
 accommodation for the other speakers and their staff. Ask them about
 these things instead of guessing yourself.

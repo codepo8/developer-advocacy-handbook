@@ -86,7 +86,7 @@ layout: default
         * ["That's why Y(your product) is much better than (competitor) X"](#thats-why-yyour-product-is-much-better-than-competitor-x)
         * ["This can be done in a few lines of code..."](#this-can-be-done-in-a-few-lines-of-code)
         * ["If you want to be professional, do X"](#if-you-want-to-be-professional-do-x)
-    * [A quick check](#a-quick-check)
+        * [A quick check](#a-quick-check)
 * [Write great posts and articles](#write-great-posts-and-articles)
     * [Simple is not stupid](#simple-is-not-stupid)
     * [Say what it is - don't sugar-coat it](#say-what-it-is---dont-sugar-coat-it)
