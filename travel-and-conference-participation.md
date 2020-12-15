@@ -54,7 +54,7 @@ road.
 > **Tip:** conference organisers are the best people to ask about their event.
 They will know the best modes of transport and have booked the right
 accommodation for the other speakers and their staff. Ask them about
-these things instead of guessing yourself.{:class="supertip}
+these things instead of guessing yourself.{:class="supertip"}
 
 ## Who pays what?
 
