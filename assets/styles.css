@@ -221,7 +221,7 @@ footer img {
 address {
   display: inline;
 }
-blockquote[class] p > strong {
+blockquote[class] strong:nth-child(1) {
   display: block;
   margin: .5em 0;
 }
