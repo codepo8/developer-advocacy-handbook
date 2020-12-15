@@ -1,6 +1,7 @@
 ---
 next: working-with-your-company
 nexttitle: Working with your company
+title: What is Developer Advocacy / Evangelism - The developer advocacy handbook
 ---
 # What is Developer Advocacy / Evangelism?
 
@@ -19,7 +20,7 @@ generally considered "deliverers" rather than "thinkers", which is
 simply not true. What this also means is that telling something to
 developers as a company or getting them excited is quite a task.
 
-**Tip:** If you are a clever company you open your products to third
+> **Tip:** If you are a clever company you open your products to third
 party developers and release interfaces to the world. This could be as
 simple as a data feed, APIs, SDKs or going all out and releasing the
 whole thing as open source. The benefits are that millions of developers
