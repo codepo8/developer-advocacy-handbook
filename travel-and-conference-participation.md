@@ -4,7 +4,7 @@ nexttitle: Travel and conference participation
 ---
 # Travel and conference participation
 
-![Sitting on a plane with just enough legroom](images/in-plane.jpg){:height="50%" width="50%"}
+![Sitting on a plane with just enough legroom](images/in-plane.jpg){:height="787" width="1400"}
 
 Conferences and travels are stressful, no doubt about that. They can
 also be frustrating. For you as an advocate they are work, and as a
@@ -54,7 +54,7 @@ road.
 > **Tip:** conference organisers are the best people to ask about their event.
 They will know the best modes of transport and have booked the right
 accommodation for the other speakers and their staff. Ask them about
-these things instead of guessing yourself.
+these things instead of guessing yourself.{:class="supertip}
 
 ## Who pays what?
 
