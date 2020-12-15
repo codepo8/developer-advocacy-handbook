@@ -114,6 +114,9 @@ ul ul, nav ul ul {
 ul ul li {
   padding-bottom: .2em;
 }
+article.standalone {
+  margin: 0 20px;
+}
 article ul ul li a {
   color: var(--innerlink);
 }
