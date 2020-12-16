@@ -1,11 +1,11 @@
 ---
 next: working-with-your-competition
 nexttitle: Working with your competition
-title: Work with your own company - The developer advocacy handbook
+title: Work with your own company - The Developer Advocacy Handbook
 ---
 # Work with your own company
 
-![Chris Heilmann looking up at the Microsoft logo](images/chris-microsoft-logo.jpg)
+![Chris Heilmann looking up at the Microsoft logo](images/chris-microsoft-logo-smaller.jpg){:height="1024" width="577"}
 
 As a developer advocate you will find that a large part of your work is
 dealing with internal colleagues and unpredictable changes to your

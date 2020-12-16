@@ -1,6 +1,8 @@
 ---
 next: what-is-developer-advocacy
 nexttitle: What is developer advocacy?
+layout: default
+title: About the Developer Advocacy Handbook
 ---
 # About this handbook
 
@@ -57,7 +59,7 @@ person asking for great developer experiences inside your company.
 
 # About the author
 
-![Christian Heilmann](images/chris-heilmann-dotted-shirt-microphone.jpg)
+![Christian Heilmann](images/chris-heilmann-dotted-shirt-microphone.jpg){:height="1280" width="853"}
 
 Christian Heilmann has been working as a web developer for over 20 years
 and spent the last 10 as a developer evangelist/advocate for companies

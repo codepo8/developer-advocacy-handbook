@@ -1,9 +1,11 @@
 ---
 next: working-with-your-company
 nexttitle: Working with your company
-title: What is Developer Advocacy / Evangelism - The developer advocacy handbook
+title: What is Developer Advocacy / Evangelism - The Developer Advocacy Handbook
 ---
 # What is Developer Advocacy / Evangelism?
+
+![Chris Heilmann presenting at dotjs 2019 with a slide saying developers are people](images/cover.jpg){:height="1024" width="683"}
 
 ## Defining Developer Advocacy
 
@@ -67,7 +69,7 @@ Develop something with it, then document what you have developed. Then
 write about how you build the thing -- and voilà -- you\'ve got half an
 article or presentation already finished.
 
-As a developer advocate it is very important that you have experience as
+As a developer advocate it is important that you have experience as
 a developer. The more projects the better. For example working in an
 agency is different to working for local government or a large
 multi-national company. Your job will be to make your company\'s
@@ -103,5 +105,5 @@ The most common niches of the whole job to go into are:
 
 Check the rest of the handbook and see what resonates best with you.
 Then start advocating. You have nothing to lose and will most probably
-be very surprised how easy things become if you concentrate on one job
+be surprised how enjoyable things become if you concentrate on one job
 at a time.

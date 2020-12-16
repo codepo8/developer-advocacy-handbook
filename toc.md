@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Table of Contents - The Developer Advocacy Handbook
 ---
 # Table of Contents
 

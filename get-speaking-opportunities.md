@@ -6,7 +6,7 @@ title: Get speaking opportunities - The developer advocacy handbook
 
 # Get speaking opportunities
 
-![A table with a lot of lanyards](images/lanyards.jpg)
+![A table with a lot of lanyards](images/lanyards-smaller.jpg){:height="1024" width="435"}
 
 Like any other skill, becoming a great public speaker means first and
 foremost doing it a lot. Sure, you can read all about the art of public
@@ -150,7 +150,7 @@ about:
 * All the important personal information (name, location, job title, social media names, homepage)
 * Videos of other talks / other presentation slides
 
-I also listed in just the right amount of detail
+I also listed in the right amount of detail:
 
 * What I can do for an event
 * What topics I prefer to cover
@@ -182,4 +182,4 @@ the more likely you are to get invited again. Use any presentation
 opportunity also as a networking and advertising opportunity. Other
 presenters, organisers and even conference partners all talk to each
 other and share opportunities to present. Becoming known as someone
-helpful, nice and easy to work with goes a long way there.
+helpful, nice and convenient to work with goes a long way there.

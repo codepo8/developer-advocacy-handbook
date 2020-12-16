@@ -1,7 +1,7 @@
 ---
 next: travel-and-conference-participation
 nexttitle: Travel and conference participation
-title: Travel and conference participation - The developer advocacy handbook
+title: Travel and conference participation -  The Developer Advocacy Handbook
 ---
 # Travel and conference participation
 

@@ -1,11 +1,11 @@
 ---
 next: prepare-for-outreach
 nexttitle: Prepare for outreach
-title: Work with your competition - The developer advocacy handbook
+title: Work with your competition - The Developer Advocacy Handbook
 ---
 # Working with your competition
 
-![Don't pick things you like and demand people to accomodate to your needs](images/dont-pick-things.jpg)
+![Don't pick things you like and demand people to accommodate to your needs](images/dont-pick-things-smaller.jpg){:height="1024" width="683"}
 
 ## Work with the competition
 
@@ -20,7 +20,7 @@ about what you do because they trust your judgment -- not because you
 work for a certain company.
 
 Developers are loyal to solutions and technologies once they are happy
-with using them. It is very rare to find a developer who is OK with
+with using them. It is rare to find a developer who is OK with
 jumping from PHP to Java to Ruby to C\# to Python and in between
 Windows, Unix and Mac.
 
@@ -46,7 +46,7 @@ You work around that in a few ways:
 
 The fun thing is that every company out there wants to do what you want
 to achieve -- make developers happy using their products. Therefore it
-is very important that you keep an eye on and in contact with the
+is important that you keep an eye on and in contact with the
 competition as much as it is important to be aware of what your own
 company is up to.
 
@@ -72,8 +72,8 @@ out weaknesses of the competition is a cheap shot.
 
 You should also not forget that we are seemingly working in an industry
 that moves and shakes the world but a lot of this is inflation. The
-amount of people on the speaking, training and advocating market is very
-small and whoever you cross will come back to you very soon. Better to
+amount of people on the speaking, training and advocating market is
+small and whoever you cross will come back to you soon. Better to
 work together than to annoy each other.
 
 Showing respect and interest also means that -- once you realise that
@@ -120,7 +120,7 @@ analysis.
 
 In the case of developer advocacy you need to be up to speed with what
 your peers are up to as you will constantly get questions about it.
-\"How does this compare to X, the new product by Y?\" is a very common
+\"How does this compare to X, the new product by Y?\" is a common
 first question.
 
 If you can answer that, your tech integrity gets quite a boost and --
