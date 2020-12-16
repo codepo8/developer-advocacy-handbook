@@ -41,7 +41,7 @@ This also is an important step to validate the worth of the developer
 advocate position to developers. After all, you are their advocate,
 right?
 
-> **Tip:** seeing a tech company fail is an excellent thing for online media
+> **Tip:** Seeing a tech company fail is an excellent thing for online media
 outlets. It causes outrage and brings a lot of clicks. Tech companies
 are still seen either as "too clever for normal people" or "probably
 downright evil and arrogant". As it is pretty easy to look up online
