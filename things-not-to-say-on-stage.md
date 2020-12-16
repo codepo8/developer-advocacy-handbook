@@ -5,6 +5,8 @@ title: Things not to say on stage - The Developer Advocacy Handbook
 ---
 # Things not to say on stage -- and what to do instead
 
+![Getting introduced at an event](images/reasons-to-audience-small.jpg){:height="1024" width="573"}
+
 This is not about a post about trigger words or discriminatory
 expressions. There is a lot of information about this available, and
 even some [excellent linting tools](http://alexjs.com/) for your texts.
@@ -245,7 +247,7 @@ thing and retaining them. Things people say on stage and define as "best
 practice" need validation by professionals. It is not up to you as a
 presenter to define that.
 
-## A quick check
+##     A quick check
 
 There are more unintentional destructive expressions. Read through your
 talks and watch your videos and then ask yourself: "how would I feel

@@ -5,6 +5,8 @@ title: Delivering presentations tips - The Developer Advocacy Handbook
 ---
 # Delivering presentations tips: timekeeping and more
 
+![Getting introduced at an event](images/reasons-to-audience-small.jpg){:height="1024" width="573"}
+
 Talks and presentations are a great tool. They allow you to bring to an
 audience what excites you in an engaging and personal manner. An
 audience that gives you immediate feedback - a lot of it in the form of
