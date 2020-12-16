@@ -55,7 +55,7 @@ cringed a bit. Often they are OK, and no harm done. But,to improve as
 presenters it may be a good idea to be more conscious about what we do
 and what effects it can have.
 
-### "This is easy..."
+## "This is easy..."
 
 We often try to calm down the audience by making what we show appear
 simple. The problem with that is that what is simple for us might still
@@ -80,7 +80,7 @@ Using these you send people on a journey. They don't tell them that the
 end result is already a given. Who knows, they may find a way to improve
 your "easy" one.
 
-### "I'll repeat quickly, for the few of you who don't know..."
+## "I'll repeat quickly, for the few of you who don't know..."
 
 This expression fell at a conference I attended and it made me
 cringe. The presenter meant to be encouraging in a "hey, we all are
@@ -100,7 +100,7 @@ am I doing here".
 
 This adds your repetition into the flow instead of being an excuse.
 
-### "Everybody can do that..."
+## "Everybody can do that..."
 
 If everybody can do it, why do I listen to you? Also, if everybody can
 do it, how come I never managed to? If you use this you either present
@@ -121,7 +121,7 @@ them from "everybody". And that hurts.
 This again makes it a reminder and a starting point of a journey. Not a
 given that is redundant to repeat.
 
-### "X solves this problem, so you don't have to worry about it"
+## "X solves this problem, so you don't have to worry about it"
 
 Hooray for your product -- it solves everything. Now buy it and impress
 people with wisdom you don't have. And feel worse when you get praised
@@ -140,7 +140,7 @@ to fix it.
 Pop open the hood, show how your product works. Don't sell all-healing
 remedies.
 
-### "As everybody knows..."
+## "As everybody knows..."
 
 Common knowledge is a myth and relies on your environment, access to
 information, time to consume news and the way you learn. Presenting
@@ -160,7 +160,7 @@ heard of it?" and stop them in their tracks.
 point. You show people that you did your homework before you make an
 assumption. And you give those who did not the tools to do so.
 
-### "This is just like we learned in school..."
+## "This is just like we learned in school..."
 
 This assumes everybody went to a school with the same curriculum as you.
 A lot of people have not. This is especially destructive when it applies
@@ -178,7 +178,7 @@ to knowledge that was part of a Computer Science degree.
 
 A lot of people create the web. Not all took the official path.
 
-### "That's why Y(your product) is much better than (competitor) X"
+## "That's why Y(your product) is much better than (competitor) X"
 
 This is common in advertising, especially in America. You show off your
 product by making others look worse. This is pointless and only invites
@@ -200,7 +200,7 @@ Showing you know about your competition prevents questions about it.
 Showing how they differ allows people to make up their mind which is
 better instead of you telling them and hoping they agree.
 
-### "This can be done in a few lines of code..."
+## "This can be done in a few lines of code..."
 
 The amount of code has become a contrived way of showing how effective
 our solutions are. Almost always the "quick and small solution" blossoms
@@ -223,7 +223,7 @@ A lot of times, this solves our own issue of showing only a few lines of
 code on a slide. Instead, let's write understandable code that we
 explain in sections rather than one magical tidbit.
 
-### "If you want to be professional, do X"
+## "If you want to be professional, do X"
 
 People have different opinions what a "professional" is. Whilst we worry
 about quality and maintenance, other people put more merit on fast
@@ -245,7 +245,7 @@ thing and retaining them. Things people say on stage and define as "best
 practice" need validation by professionals. It is not up to you as a
 presenter to define that.
 
-### A quick check
+## A quick check
 
 There are more unintentional destructive expressions. Read through your
 talks and watch your videos and then ask yourself: "how would I feel
