@@ -5,6 +5,7 @@ nexttitle: What is developer advocacy?
 ---
 
 ![Chris Heilmann presenting at dotjs 2019 with a slide saying developers are people](images/cover.jpg){:height="1024" width="683"}
+<small>Photo from the DotJS2019 talk [Develop, Debug, Learn?](https://www.youtube.com/watch?v=m4t7cLFksls)</small>
 
 # The Developer Advocacy Handbook
 
