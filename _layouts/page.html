@@ -20,13 +20,12 @@
     </section>
     <article class="content">
 
-      {{ content }}
+      {% include test.html html=content %}
 
       {% if page.next %}
       <p class="next">Next: <a href="{{ page.next }}">{{ page.nexttitle }}</a></p>
       {% endif %}
 
-      {% include test.html html=content %}
     </article>
   </div>
   <footer>
