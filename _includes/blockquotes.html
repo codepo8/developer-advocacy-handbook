@@ -1,0 +1,8 @@
+{% capture newline %}
+{% endcapture %}
+{% assign now = include.html | strip_newlines | replace: '<blockquote>  <p><strong>Tip:</strong>', '<blockquote class="tip"><p><strong>Tip:</strong>' %}
+{% assign now = now | strip_newlines | replace: '<blockquote>  <p><strong>Example:</strong>', '<blockquote class="example"><p><strong>Example:</strong>' %}
+{% assign now = now | strip_newlines | replace: '<blockquote>  <p><strong>Warning:</strong>', '<blockquote class="warning"><p><strong>Warning:</strong>' %}
+{% assign now = now | strip_newlines | replace: '<blockquote>  <p><strong>Fact:</strong>', '<blockquote class="fact"><p><strong>Fact:</strong>' %}
+{{ now }}
+

@@ -25,18 +25,10 @@ listen to the whole document as one big chunk.
 Writing simple texts is hard work. Writing impressive texts is less
 hard. Consider the following traits of simple texts:
 
-* Writing in simple terms takes a lot of work and thorough
-    understanding of the subject matter. You need to be familiar with
-    the topic to be able to explain it in easy terms. If you can't
-    explain it in simple words, chances are you aren't quite mastering
-    the subject yourself yet.
-* If you explain things in as easy as possible terms you make sure
-    that you reach the largest amount of readers.
-* Simple wording allows non-native speakers to get a chance to
-    understand what the whole thing is about and maybe spend some time
-    with a translation tool to make it work for them.
-* Short, easy to grasp sentences are a lot less tiring to read. They
-    also don't come across as daunting when you take a first peek.
+* Writing in simple terms takes a lot of work and thorough understanding of the subject matter. You need to be familiar with the topic to be able to explain it in easy terms. If you can't explain it in simple words, chances are you aren't quite mastering the subject yourself yet.
+* If you explain things in as easy as possible terms you make sure that you reach the largest amount of readers.
+* Simple wording allows non-native speakers to get a chance to understand what the whole thing is about and maybe spend some time with a translation tool to make it work for them.
+* Short, easy to grasp sentences are a lot less tiring to read. They also don't come across as daunting when you take a first peek.
 
 There is, however a fine line between explaining complex things in simple
 terms and sounding condescending. Have someone else look over your texts
@@ -46,19 +38,9 @@ to avoid this issue if you're wondering that you went down too far the
 Comparisons with real life objects work well to simplify complex
 matters.
 
-Example: During the days of "Open Hack Days" working at Yahoo I talked
-to several press people and they were thoroughly confused about the
-concept of a hack day and open APIs. I explained it this way: "If Yahoo
-were a car company our newest models would be here dismantled and we\'d
-allow people to play with the parts. Maybe they\'ll find a cool new way
-to assemble them that is the breakthrough we wanted in making cars
-greener and more efficient."
+> **Example:** During the days of "Open Hack Days" working at Yahoo I talked to several press people and they were thoroughly confused about the concept of a hack day and open APIs. I explained it this way: "If Yahoo were a car company our newest models would be here dismantled and we\'d allow people to play with the parts. Maybe they\'ll find a cool new way to assemble them that is the breakthrough we wanted in making cars greener and more efficient."
 
-> **Tip:** A tool I use a lot in my online writing is Hemingway. You can go to
-[hemingwayapp.com](https://hemingwayapp.com) to try it out. 
-It is an online editor that gives you an
-indicator what reading age your text requires. It flags up common issues
-like sentences that are too long or overly complex words.
+> **Tip:** A tool I use a lot in my online writing is Hemingway. You can go to [hemingwayapp.com](https://hemingwayapp.com) to try it out. It is an online editor that gives you an indicator what reading age your text requires. It flags up common issues like sentences that are too long or overly complex words.
 
 ## Say what it is - don't sugar-coat it
 
@@ -87,20 +69,14 @@ of the post -- either the one in the HTML or the main headline of the
 document. If your headline makes no sense out of context, you won't get
 many people to click them.
 
-> **Tip:** Most social networks have link previews that automatically expand
-the link to its title and the first image. This is important and a
-powerful thing to use. Get acquainted with the meta tags needed in your
-posts to get a sensible and exciting preview in the social media
-platform of your choice.
+> **Tip:** Most social networks have link previews that automatically expand the link to its title and the first image. This is important and a powerful thing to use. Get acquainted with the meta tags needed in your posts to get a sensible and exciting preview in the social media platform of your choice.
 
 ## Size matters
 
 Technical writing for online use is about keeping things short and to
 the point. People are busy and want the facts.
 
-> **Tip:** In order to write great posts, write them, read them, delete what
-is not needed, read again, delete more and so on. If you cannot take
-anything away any longer, you've reached the point of publication.
+> **Tip:** In order to write great posts, write them, read them, delete what is not needed, read again, delete more and so on. If you cannot take anything away any longer, you've reached the point of publication.
 
 If you have a lot to cover, why not split it up into several posts? This
 will allow you to tease at the end of the first post that the next will
@@ -124,11 +100,7 @@ When embedding media make sure to also write explanatory text -- images
 need good alternative text and videos at least a description of what
 they show.
 
-> **Tip:** Slides get much better by providing a text alternative or your
-notes. Many slide hosting platforms automatically create a HTML
-transcript of your slides. Personally I start with my notes and then
-create my slide decks from them -- that way I do always have an HTML
-version to link to from the deck.
+> **Tip:** Slides get much better by providing a text alternative or your notes. Many slide hosting platforms automatically create a HTML transcript of your slides. Personally I start with my notes and then create my slide decks from them -- that way I do always have an HTML version to link to from the deck.
 
 ## Structure your content
 
@@ -157,14 +129,7 @@ even if they are harmful by the technical standards of the future.
 They'll be quoted -- sometimes badly -- and re-iterated over and over
 again and taken as gospel.
 
-> **Example:** When I started as a web developer tables for layout were the
-only way to build a site. And you had to know a lot of tricks to make
-those work for Netscape 3 and IE4 and other fun browsers. I published a
-few articles on how to do that. Nowadays table layouts are
-counterproductive to web development and actually render much slower on
-modern browsers. If my articles didn\'t have a date on them maybe people
-would still consider them relevant. All the "CSS layout is too hard"
-posts out there surely hint at that.
+> **Example:** When I started as a web developer tables for layout were the only way to build a site. And you had to know a lot of tricks to make those work for Netscape 3 and IE4 and other fun browsers. I published a few articles on how to do that. Nowadays table layouts are counterproductive to web development and actually render much slower on modern browsers. If my articles didn\'t have a date on them maybe people would still consider them relevant. All the "CSS layout is too hard" posts out there surely hint at that.
 
 Our technical environment moves at breakneck speed. What was "best
 practice" half a year ago might very well be "considered harmful" now.
@@ -213,27 +178,13 @@ open about the good and the bad you avoid a lot of confused or bad
 feedback that will be taken out of context by the press and cause the PR
 department a lot of work.
 
-> **Tip:** Lately PR departments have also taken on the idea of pre-emptive
-writing. One of the processes I keep seeing is creating a "rude Q&A" for
-a new product that is about to be released. The team of the product
-creates a list of deliberately rude and problematic questions and runs a
-workshop discussing how to deal with those. If they don't come up when
-the real release happens -- excellent. If they do come up, however,
-you're prepared.
+> **Tip:** Lately PR departments have also taken on the idea of pre-emptive writing. One of the processes I keep seeing is creating a "rude Q&A" for a new product that is about to be released. The team of the product creates a list of deliberately rude and problematic questions and runs a workshop discussing how to deal with those. If they don't come up when the real release happens -- excellent. If they do come up, however, you're prepared.
 
 Negative feedback in a lot of cases falls into a few categories, all of
 which are commonly showing the writer in the light of an \"internet
 troll\".
 
-> **Fact:** whilst some people are trolls and enjoy causing trouble or
-\"fighting the system\" with negative feedback, or trying to coax people
-into prolonging discussions unneccesarily, others do it involuntarily
-just by being disappointed one time too many. It is a tough balance to
-keep. Real trolls should simply be ignored, or as the saying goes
-\"don\'t feed the trolls\". But people could have just posted too
-quickly or in anger and become an \"accidental troll. It can be tempting
-to just disregard negative feedback, but sometimes the wording hints at
-another issue that you can and should fix.
+> **Fact:** whilst some people are trolls and enjoy causing trouble or \"fighting the system\" with negative feedback, or trying to coax people into prolonging discussions unneccesarily, others do it involuntarily just by being disappointed one time too many. It is a tough balance to keep. Real trolls should simply be ignored, or as the saying goes \"don\'t feed the trolls\". But people could have just posted too quickly or in anger and become an \"accidental troll. It can be tempting to just disregard negative feedback, but sometimes the wording hints at another issue that you can and should fix.
 
 Here are a few categories of negative feedback and tips to pre-emptively
 avoid them:
