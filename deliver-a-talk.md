@@ -93,7 +93,7 @@ the Q & A**. A lot of times you will have people who don't ask questions
 but profile themselves instead. Deal with that accordingly -- and
 swiftly. People will have real questions that need answering.
 
-Tip: If you find a person in the audience that talks for a minute about
+> **Tip:** If you find a person in the audience that talks for a minute about
 their skills before asking a question cut in. Ask the person for their
 name and single them out as an expert. "Great, X here knows a lot about
 issue XYZ, so during the break you could also ask her about issues
