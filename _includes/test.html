@@ -1,4 +1,4 @@
 <h1>Test</h1>
-{% assign now = html %}
+{% assign now = include.html | replace: '<p>', '<p class="now">' %}
 {{ now }}
 
