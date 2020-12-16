@@ -168,7 +168,7 @@ that you control the server. The bad thing about that is that it is up
 to you to maintain that server. And you want to spend your time
 advocating, not as a server admin.
 
-Warning: I've been using my server as a playground for years and that's
+> **Warning:** I've been using my server as a playground for years and that's
 also painfully obvious when I look at the state of it. Some of my code
 from the past ended up being excellent attack vectors and at one time
 one of my AJAX demos from 2006 ended up allowing for a spam blog being
@@ -248,7 +248,7 @@ Gatsby, Jekyll or similar ones. If you are reading this book online,
 this is what I used. The texts here are in markdown and I am using
 GitHub pages with Jekyll to generate HTML from it.
 
-### Code Sandboxes 
+### Code Sandboxes
 
 Other than platforms that are mainly there to host your code and
 products there are also code sandbox services available. These allow you
@@ -277,8 +277,7 @@ to have is a browser and a connection.
 
 Many of these platforrms also have a presentation and a live mode which
 allows you to develop in real time with other people, much like you can
-use Office 365 and Google Docs to collaboratively write texts. [Code
-Sandbox](https://codesandbox.io/), [Glitch](https://glitch.com/) and
+use Office 365 and Google Docs to collaboratively write texts. [Code Sandbox](https://codesandbox.io/), [Glitch](https://glitch.com/) and
 many others specialise in that and both Codepen and JSBin also have
 upgraded their feature sets to allow for this use case.
 
