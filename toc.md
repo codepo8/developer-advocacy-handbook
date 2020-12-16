@@ -99,6 +99,11 @@ deliver-a-talk
   * [Plan time for and own the questions and answers](#plan-time-for-and-own-the-questions-and-answers)
   * [Be honest and real](#be-honest-and-real)
   * [Follow up communication](#follow-up-communication)
+
+<!-- 
+talk-delivery-tips
+-->
+
 * [Delivering presentations tips: timekeeping and more](#delivering-presentations-tips-timekeeping-and-more)
   * [How will I fit all of this in X minutes?](#how-will-i-fit-all-of-this-in-x-minutes)
   * [Less is more](#less-is-more)
@@ -109,17 +114,22 @@ deliver-a-talk
   * [Things to cut](#things-to-cut)
   * [Talk fillers](#talk-fillers)
   * [Planning Your Talk Summary](#planning-your-talk-summary)
-  * [Things not to say on stage -- and what to do instead](#things-not-to-say-on-stage-and-what-to-do-instead)
-    * ["This is easy..."](#this-is-easy)
-    * ["I'll repeat quickly, for the few of you who don't know..."](#ill-repeat-quickly-for-the-few-of-you-who-dont-know)
-    * ["Everybody can do that..."](#everybody-can-do-that)
-    * ["X solves this problem, so you don't have to worry about it"](#x-solves-this-problem-so-you-dont-have-to-worry-about-it)
-    * ["As everybody knows..."](#as-everybody-knows)
-    * ["This is just like we learned in school..."](#this-is-just-like-we-learned-in-school)
-    * ["That's why Y (your product) is much better than (competitor) X"](#thats-why-yyour-product-is-much-better-than-competitor-x)
-    * ["This can be done in a few lines of code..."](#this-can-be-done-in-a-few-lines-of-code)
-    * ["If you want to be professional, do X"](#if-you-want-to-be-professional-do-x)
-    * [A quick check](#a-quick-check)
+
+<!-- 
+things-not-to-say-on-stage
+-->
+  
+* [Things not to say on stage -- and what to do instead](#things-not-to-say-on-stage-and-what-to-do-instead)
+  * ["This is easy..."](#this-is-easy)
+  * ["I'll repeat quickly, for the few of you who don't know..."](#ill-repeat-quickly-for-the-few-of-you-who-dont-know)
+  * ["Everybody can do that..."](#everybody-can-do-that)
+  * ["X solves this problem, so you don't have to worry about it"](#x-solves-this-problem-so-you-dont-have-to-worry-about-it)
+  * ["As everybody knows..."](#as-everybody-knows)
+  * ["This is just like we learned in school..."](#this-is-just-like-we-learned-in-school)
+  * ["That's why Y (your product) is much better than (competitor) X"](#thats-why-yyour-product-is-much-better-than-competitor-x)
+  * ["This can be done in a few lines of code..."](#this-can-be-done-in-a-few-lines-of-code)
+  * ["If you want to be professional, do X"](#if-you-want-to-be-professional-do-x)
+  * [A quick check](#a-quick-check)
 
 <!-- 
 write-great-posts-and-articles

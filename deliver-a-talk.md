@@ -1,6 +1,6 @@
 ---
 next: talk-delivery-tips
-nexttitle: talk-delivery-tips
+nexttitle: Talk delivery tips
 title: Deliver a talk or workshop - The Developer Advocacy Handbook
 ---
 # Deliver a talk or workshop
