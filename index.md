@@ -1,10 +1,12 @@
 ---
-layout: default
-title: Table of Contents - The Developer Advocacy Handbook
+title: The Developer Advocacy Handbook
+next: what-is-developer-advocacy
+nexttitle: What is developer advocacy?
 ---
-# The Developer Advocacy Handbook
 
 ![Chris Heilmann presenting at dotjs 2019 with a slide saying developers are people](images/cover.jpg){:height="1024" width="683"}
+
+# The Developer Advocacy Handbook
 
 This handbook will get you on the way to be a great developer advocate
 for any product or company. Naturally, your approach may need tweaking for
