@@ -1,6 +1,3 @@
----
-title: The Developer Advocacy Handbook
---- 
 # The Developer Advocacy Handbook
 
 ![Chris Heilmann presenting at dotjs 2019 with a slide saying developers are people](images/cover.jpg){:height="1024" width="683"}
