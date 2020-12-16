@@ -1,4 +1,6 @@
 <h1>Test</h1>
-{% assign now = include.html | replace: '<blockquote><p><strong>Tip:</strong>', '<blockquote><p><strong>Tip:</strong>' %}
+{% capture newline %}
+{% endcapture %}
+{% assign now = include.html | replace: '<blockquote>{{ newline }}  <p><strong>Tip:</strong>', '<blockquote><p><strong>Tip:</strong>' %}
 {{ now }}
 
