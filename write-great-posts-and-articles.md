@@ -5,6 +5,8 @@ title: Write great posts and articles - The Developer Advocacy Handbook
 ---
 # Write great posts and articles
 
+![Reading statistics of posts](images/stats-small.png){:height="260" width="1024"}
+
 Writing for the web is a specialist skill and far too often you\'ll find
 people applying rules of other media when it comes to writing online
 articles or blog posts.
