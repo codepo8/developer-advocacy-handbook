@@ -5,7 +5,7 @@ title: What is Developer Advocacy / Evangelism - The Developer Advocacy Handbook
 ---
 # What is Developer Advocacy / Evangelism?
 
-![Chris Heilmann presenting at dotjs 2019 with a slide saying developers are people](images/cover.jpg){:height="1024" width="683"}
+![Chris Heilmann presenting at dotjs 2019 with a slide saying developers are people](images/cover.jpg){:width="1024" height="683"}
 
 ## Defining Developer Advocacy
 

@@ -5,7 +5,7 @@ title: Things not to say on stage - The Developer Advocacy Handbook
 ---
 # Things not to say on stage -- and what to do instead
 
-![Getting introduced at an event](images/reasons-to-audience-small.jpg){:height="1024" width="573"}
+![Let's adore and endure each other](images/adore-and-endure.jpg){:height="457" width="1024"}
 
 This is not about a post about trigger words or discriminatory
 expressions. There is a lot of information about this available, and

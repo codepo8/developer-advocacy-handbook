@@ -6,7 +6,7 @@ title: Get speaking opportunities - The developer advocacy handbook
 
 # Get speaking opportunities
 
-![A table with a lot of lanyards](images/lanyards-smaller.jpg){:height="1024" width="435"}
+![A table with a lot of lanyards](images/lanyards-smaller.jpg){:width="1024" height="435"}
 
 Like any other skill, becoming a great public speaker means first and
 foremost doing it a lot. Sure, you can read all about the art of public

@@ -5,7 +5,7 @@ title: Work with your own company - The Developer Advocacy Handbook
 ---
 # Work with your own company
 
-![Chris Heilmann looking up at the Microsoft logo](images/chris-microsoft-logo-smaller.jpg){:height="1024" width="577"}
+![Chris Heilmann looking up at the Microsoft logo](images/chris-microsoft-logo-smaller.jpg){:width="1024" height="577"}
 
 As a developer advocate you will find that a large part of your work is
 dealing with internal colleagues and unpredictable changes to your

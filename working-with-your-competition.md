@@ -5,7 +5,7 @@ title: Work with your competition - The Developer Advocacy Handbook
 ---
 # Working with your competition
 
-![Don't pick things you like and demand people to accommodate to your needs](images/dont-pick-things-smaller.jpg){:height="1024" width="683"}
+![Don't pick things you like and demand people to accommodate to your needs](images/dont-pick-things-smaller.jpg){:width="1024" height="683"}
 
 ## Work with the competition
 

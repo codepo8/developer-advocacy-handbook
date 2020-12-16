@@ -5,7 +5,7 @@ title: Deliver a talk or workshop - The Developer Advocacy Handbook
 ---
 # Deliver a talk or workshop
 
-![Getting introduced at an event](images/reasons-to-audience-small.jpg){:height="1024" width="573"}
+![Getting introduced at an event](images/reasons-to-audience-small.jpg){:width="1024" height="573"}
 
 Once you got invited to speak, got your facts right and prepared for all
 kind of technical failure you can think about delivering your talk or
