@@ -7,13 +7,13 @@ title: Things not to say on stage - The Developer Advocacy Handbook
 
 ![Let's adore and endure each other](images/adore-and-endure.jpg){:height="457" width="1024"}
 
-This is not about a post about trigger words or discriminatory
+This is not about trigger words or discriminatory
 expressions. There is a lot of information about this available, and
 even some [excellent linting tools](http://alexjs.com/) for your texts.
 It is also not about unconscious bias. Or well, maybe it is. Learned
 bias for sure.
 
-This is a post about some sentences used in technical presentations that
+This is about some sentences used in technical presentations that
 sound encouraging. In reality they may exclude people in the audience
 and make them feel bad about their level of knowledge. These are the
 following sentences and I'll explain in detail how to replace them with
