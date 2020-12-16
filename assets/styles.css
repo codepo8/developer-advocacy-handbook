@@ -72,7 +72,11 @@ body {
   margin: 0;
   padding: 0;
 }
-
+@media all and (min-width: 900px) {
+  body {
+   font-size: calc(.5em + 1vw);
+  }
+}
 img {
   display: block;
   width: 100%;
