@@ -1,6 +1,6 @@
 ---
-next: working-with-your-competition
-nexttitle: Working with your competition
+# next: working-with-your-competition
+# nexttitle: Working with your competition
 title: Work with your own company - The Developer Advocacy Handbook
 ---
 # Work with your own company
@@ -116,20 +116,20 @@ few things to be aware of:
 * **Every change in the company has a legal process** - while you are not an official press channel to the outside world your statement can be misquoted (oh and it will) and get you into legal trouble with your own company - liaise with PR and legal as soon as possible when there is a change. Then tell the developers in your company the legal implications.
 * **There is no "off the record"** - neither internally and especially not when you are talking to the press/bloggers/outbound channels.
 * **Switch to listening mode** - during the first few hours after a dramatic change listen to everybody and keep your eyes and ears open to what people say. This helps you to stop people from completely destroying their professional standing in the company and the market and to learn about what is really happening. Don\'t be part of the noise that drowns the facts.
-* **Don\'t act emotional and make assumptions** - almost any change in the company will annoy people. In the heat of the moment this can lead to very dangerous comments, assumptions and truisms which will come back to haunt you a week later. Be aware of this and don\'t fall into the same trap. Instead be ready to bail these people out later on. Get the facts and before you say anything have a backup that can verify what you are saying.
+* **Don\'t act emotional and make assumptions** - almost any change in the company will annoy people. In the heat of the moment this can lead to dangerous comments, assumptions and truisms which will come back to haunt you a week later. Be aware of this and don\'t fall into the same trap. Instead be ready to bail these people out later on. Get the facts and before you say anything have a backup that can verify what you are saying.
 * **Make your knowledge level clear** - if people ask you what is going on don\'t say "no comment" as that implies you know something but are not allowed to say it. Simply state that you are not in a position to know yet but that you are investigating.
 
-> **Tip:** This last point is very important. As your job is to communicate
+> **Tip:** This last point is important. As your job is to communicate
 with everybody in the company people already assume that you have a much
-more in-depth knowledge than they have. As developers get very paranoid
+more in-depth knowledge than they have. As developers get paranoid
 about changes in the company this can mean that people think you know
 all about what annoys them but hold back as you are siding with "the
 company" or "the management". Don\'t lose your contact with and the
 trust of the developers in the company over something you have no
 control over.{: .my-class }
 
-> **Example:** One very interesting example of a change was when in one round
-of redundancies a broadly liked and respected very outgoing and
+> **Example:** One interesting example of a change was when in one round
+of redundancies a broadly liked and respected outgoing and
 extremely talented developer got made redundant. The developer was also
 part of a team that built one of the most important products at the
 time. The mailing lists where flaming, people were tweeting about the
@@ -158,7 +158,7 @@ though. You should be a voice of reason, understanding and pragmatic
 solutions and you can only be that if you see the work being done from a
 vantage point.
 
-More importantly listen very hard when developers feel hindered in
+More importantly listen hard when developers feel hindered in
 delivering their job. Then talk to their management about these
 problems. Keep these talks anonymous and show the impact these problems
 have on delivery, employee retention and quality of the products your
@@ -173,7 +173,7 @@ never feel the chance to voice their concerns. Make them aware that you
 can be their spokesperson and that you are there to demand time for
 discussing problems with their managers.
 
-> **Example:** I was very touched when one of my former colleagues asked me to
+> **Example:** I was touched when one of my former colleagues asked me to
 have a few late night phone calls (over Skype) to talk about his future
 in the company and an offer he had from another company. I was also very
 annoyed about how frustrated he was about not feeling any joy or
@@ -182,7 +182,7 @@ his manager. My main question in these calls was how he feels about
 going to the office every day and he said that he dreads it. The
 decision was clear: **if you do not like going to work and you don\'t
 feel you have a chance to cause any change - leave**. He is now in a new
-role in a different company, feels very excited about the challenges
+role in a different company, feels excited about the challenges
 there and left the company not in anger but with a feeling of
 accomplishment and knowledge that there are caring people in his old
 company and not only the ones that made him leave.
@@ -258,7 +258,7 @@ Just like you use your powers of communication and persuasion to bring
 products to developers you can use them to bring potential advocates out
 of the woodwork:
 
-* **Make the company aware of the communication channels** to the outside world. Say that the blog you have is successful and that you are very happy to publish in-depth blog posts about current work and best practices used in the company. Then offer help with writing those. Prove that by giving a social media channel a more human voice more people will follow it than the ones that are basic news announcement channels of the brand.
+* **Make the company aware of the communication channels** to the outside world. Say that the blog you have is successful and that you are happy to publish in-depth blog posts about current work and best practices used in the company. Then offer help with writing those. Prove that by giving a social media channel a more human voice more people will follow it than the ones that are basic news announcement channels of the brand.
 * **Tell the company about events** - both the ones you organise and ones that happen in the area. This is especially necessary when you can\'t attend them. Offer to support a developer who wants to go with free goodies to give out (stickers, shirts...) - if they go and bring back photos and information how it went to write a blog post together.
 * **Offer specialised internal training and talks** - as the prospect of developer advocacy might still be alien and even scary to people cut the training offer down to things that can be applied in any professional role: writing for the web, public speaking tips, finding great web content (well, basically the different chapters here).
 * **Share great responses from the outside world** - send out for example a newsletter of "happy social quotes" with tweets and blog posts about how a certain event or product launch was received in the developer world.
@@ -272,7 +272,7 @@ own thing and creating confusion and trespass on their territory.
 
 As a developer advocate, you will have the hand on the pulse of
 technology. Not everybody has the time to keep up the same way -
-actually hardly anybody has. That\'s why a very interesting part of your
+actually hardly anybody has. That\'s why an interesting part of your
 job is to communicate great technology finds with your company.
 
 If you find great tools that make everybody\'s life easier, share them
@@ -303,7 +303,7 @@ This is how a lot of personal social media presences work, and well at
 that. The issue, however, is that once you publish for a certain company
 you are not just \"you\" any longer. You are a translator and a voice of
 a certain company or product and -- more importantly -- the people
-working in or on it. That\'s why it is a very bad move to use your own
+working in or on it. That\'s why it is a bad move to use your own
 channels as the source for company or product specific information. For
 various reasons:
 
@@ -335,7 +335,7 @@ technology (instead of being it). Think of your company\'s product as a
 movie and you are the one who cuts and releases the trailers in various
 places to get people excited about it.
 
-There is a very fine line between promoting your company\'s work and
+There is a fine line between promoting your company\'s work and
 taking credit for it. Don\'t cross it and you\'ll help the company and
 keep being a trustworthy resource and communication channel.
 

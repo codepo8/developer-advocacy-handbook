@@ -4,14 +4,26 @@ title: Table of Contents - The Developer Advocacy Handbook
 ---
 # Table of Contents
 
+<!--
+about
+-->
+
 * [About this handbook](about#about-this-handbook)
   * [About this version](about#about-this-version)
   * [About the author](about#about-the-author)
+
+<!--
+what-is-developer-advocacy
+-->
 
 * [What is Developer Advocacy / Evangelism?](what-is-developer-advocacy#what-is-developer-advocacy-evangelism)
   * [Defining Developer Advocacy](what-is-developer-advocacy#defining-developer-advocacy)
   * [Start with the right mindset](what-is-developer-advocacy#start-with-the-right-mindset)
   * [Find your role and play to your strengths](what-is-developer-advocacy#find-your-role-and-play-to-your-strengths)
+
+<!--
+working-with-your-company
+-->
 
 * [Work with your own company](working-with-your-company#work-with-your-own-company)
   * [Prepare for prejudice](working-with-your-company#prepare-for-prejudice)
@@ -24,41 +36,61 @@ title: Table of Contents - The Developer Advocacy Handbook
   * [Balance your personal and official channels](working-with-your-company#balance-your-personal-and-official-channels)
   * [Remove the brand](working-with-your-company#remove-the-brand)
 
-* [Working with your competition](working-with-your-competition#working-with-your-competition)
-  * [Work with the competition](working-with-your-competition#work-with-the-competition)
-  * [Show respect to the competition](working-with-your-competition#show-respect-to-the-competition)
-  * [Acknowledge when the competition is better](working-with-your-competition#acknowledge-when-the-competition-is-better)
-  * [Know about the competition](working-with-your-competition#know-about-the-competition)
-  * [Build examples using and try out competitive products](working-with-your-competition#build-examples-using-and-try-out-competitive-products)
+<!-- 
+working-with-your-competition 
+-->
 
-* [Prepare for outreach](prepare-for-outreach#prepare-for-outreach)
-  * [Get your facts right](prepare-for-outreach#get-your-facts-right)
-  * [Know the audience and their needs](prepare-for-outreach#know-the-audience-and-their-needs)
-  * [Have expert backup](prepare-for-outreach#have-expert-backup)
-  * [Choose the right medium](prepare-for-outreach#choose-the-right-medium)
-  * [Plan for failure](prepare-for-outreach#plan-for-failure)
+* [Working with your competition](#working-with-your-competition)
+  * [Work with the competition](#work-with-the-competition)
+  * [Show respect to the competition](#show-respect-to-the-competition)
+  * [Acknowledge when the competition is better](#acknowledge-when-the-competition-is-better)
+  * [Know about the competition](#know-about-the-competition)
+  * [Build examples using and try out competitive products](#build-examples-using-and-try-out-competitive-products)
 
-* [Get speaking opportunities](get-speaking-opportunities#get-speaking-opportunities)
-  * [Take part in podcasts](get-speaking-opportunities#take-part-in-podcasts)
-  * [Take part in panels](get-speaking-opportunities#take-part-in-panels)
-  * [Go to Grass Roots events](get-speaking-opportunities#go-to-grass-roots-events)
-  * [Go to Meetups](get-speaking-opportunities#go-to-meetups)
-  * [Write articles](get-speaking-opportunities#write-articles)
-  * [Offer Brownbags](get-speaking-opportunities#offer-brownbags)
-  * [Ask questions at conferences](get-speaking-opportunities#ask-questions-at-conferences)
-  * [Be a presenter people want to invite -- publish your presenter terms](get-speaking-opportunities#be-a-presenter-people-want-to-invite-publish-your-presenter-terms)
+<!-- 
+prepare-for-outreach 
+-->
 
-* [Travel and conference participation](travel-and-conference-participation#travel-and-conference-participation)
-  * [Getting your travel and accommodation sorted](travel-and-conference-participation#getting-your-travel-and-accommodation-sorted)
-  * [Who pays what?](travel-and-conference-participation#who-pays-what)
-  * [Be at the event](travel-and-conference-participation#be-at-the-event)
-  * [Give the event some social media love](travel-and-conference-participation#give-the-event-some-social-media-love)
-  * [Use the event to build a network](travel-and-conference-participation#use-the-event-to-build-a-network)
-  * [Keep track of your conference participation](travel-and-conference-participation#keep-track-of-your-conference-participation)
-  * [Work with the conference buzz](travel-and-conference-participation#work-with-the-conference-buzz)
-  * [Be a part of the conference you talk at](travel-and-conference-participation#be-a-part-of-the-conference-you-talk-at)
-  * [Release immediately](travel-and-conference-participation#release-immediately)
-  * [Write about conferences](travel-and-conference-participation#write-about-conferences)
+* [Prepare for outreach](#prepare-for-outreach)
+  * [Get your facts right](#get-your-facts-right)
+  * [Know the audience and their needs](#know-the-audience-and-their-needs)
+  * [Have expert backup](#have-expert-backup)
+  * [Choose the right medium](#choose-the-right-medium)
+  * [Plan for failure](#plan-for-failure)
+
+<!-- 
+get-speaking-opportunities
+-->
+
+* [Get speaking opportunities](#get-speaking-opportunities)
+  * [Take part in podcasts](#take-part-in-podcasts)
+  * [Take part in panels](#take-part-in-panels)
+  * [Go to Grass Roots events](#go-to-grass-roots-events)
+  * [Go to Meetups](#go-to-meetups)
+  * [Write articles](#write-articles)
+  * [Offer Brownbags](#offer-brownbags)
+  * [Ask questions at conferences](#ask-questions-at-conferences)
+  * [Be a presenter people want to invite -- publish your presenter terms](#be-a-presenter-people-want-to-invite-publish-your-presenter-terms)
+
+<!-- 
+travel-and-conference-participation
+-->
+
+* [Travel and conference participation](#travel-and-conference-participation)
+  * [Getting your travel and accommodation sorted](#getting-your-travel-and-accommodation-sorted)
+  * [Who pays what?](#who-pays-what)
+  * [Be at the event](#be-at-the-event)
+  * [Give the event some social media love](#give-the-event-some-social-media-love)
+  * [Use the event to build a network](#use-the-event-to-build-a-network)
+  * [Keep track of your conference participation](#keep-track-of-your-conference-participation)
+  * [Work with the conference buzz](#work-with-the-conference-buzz)
+  * [Be a part of the conference you talk at](#be-a-part-of-the-conference-you-talk-at)
+  * [Release immediately](#release-immediately)
+  * [Write about conferences](#write-about-conferences)
+
+<!-- 
+deliver-a-talk
+-->
 
 * [Deliver a talk or workshop](#deliver-a-talk-or-workshop)
   * [Be yourself](#be-yourself)
@@ -88,6 +120,11 @@ title: Table of Contents - The Developer Advocacy Handbook
     * ["This can be done in a few lines of code..."](#this-can-be-done-in-a-few-lines-of-code)
     * ["If you want to be professional, do X"](#if-you-want-to-be-professional-do-x)
     * [A quick check](#a-quick-check)
+
+<!-- 
+write-great-posts-and-articles
+-->
+
 * [Write great posts and articles](#write-great-posts-and-articles)
   * [Simple is not stupid](#simple-is-not-stupid)
   * [Say what it is - don't sugar-coat it](#say-what-it-is---dont-sugar-coat-it)
@@ -98,6 +135,11 @@ title: Table of Contents - The Developer Advocacy Handbook
   * [Cite to prove](#cite-to-prove)
   * [Pre-emptive writing](#pre-emptive-writing)
   * [Ending on an invitation to learn more](#ending-on-an-invitation-to-learn-more)
+
+<!-- 
+write-excellent-code-examples
+-->
+
 * [Write excellent code examples](#write-excellent-code-examples)
   * [Solve a problem with your example](#solve-a-problem-with-your-example)
   * [Show a working example](#show-a-working-example)
@@ -112,6 +154,11 @@ title: Table of Contents - The Developer Advocacy Handbook
     * [Code showcases](#code-showcases)
     * [Code Sandboxes](#code-sandboxes)
     * [Live coding environments](#live-coding-environments)
+
+<!-- 
+slide-decks
+-->
+
 * [Prepare great slide decks for presentations](#prepare-great-slide-decks-for-presentations)
   * [Know your stuff](#know-your-stuff)
   * [Start with the content -- not the slides!](#start-with-the-content-not-the-slides)
@@ -142,11 +189,21 @@ title: Table of Contents - The Developer Advocacy Handbook
     * [Tracking](#tracking)
     * [Insurances](#insurances)
     * [Bonus round](#bonus-round)
+
+<!--
+record
+-->
+
 * [Keep a record of your work](#keep-a-record-of-your-work)
   * [Record the audio of your talks](#record-the-audio-of-your-talks)
   * [Shoot video](#shoot-video)
   * [Link collections](#link-collections)
   * [keep a conference participation list](#keep-a-conference-participation-list)
+
+<!--
+know-and-use-the-social-web
+-->
+
 * [Know and use the (social) web](#know-and-use-the-social-web)
   * [Find great web content](#find-great-web-content)
   * [Redistribute web content](#redistribute-web-content)
@@ -158,6 +215,11 @@ title: Table of Contents - The Developer Advocacy Handbook
   * [Build a network](#build-a-network)
   * [Create or take part in a newsletter](#create-or-take-part-in-a-newsletter)
   * [Create or take part in a podcast](#create-or-take-part-in-a-podcast)
+
+<!-- 
+working-from-your-own-computer
+-->
+
 * [Working from your own computer](#working-from-your-own-computer)
   * [Get a decent setup](#get-a-decent-setup)
   * [Screencasts and screenshots](#screencasts-and-screenshots)
@@ -174,4 +236,8 @@ title: Table of Contents - The Developer Advocacy Handbook
     * [Use accessibility features to add extra video value](#use-accessibility-features-to-add-extra-video-value)
     * [Record in the highest possible quality](#record-in-the-highest-possible-quality)
     * [Keep originals and make it easy to get your video](#keep-originals-and-make-it-easy-to-get-your-video)
+
+<!--
+final-words
+-->
 * [Final words](#final-words)
