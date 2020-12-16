@@ -1,4 +1,4 @@
-{% assign now = include.html | newline_to_br | replace: '<blockquote><br />  <p><strong>Tip:</strong>', '<blockquote class="tip"><p><strong>Tip:</strong>' | replace: '<blockquote><br />  <p><strong>Example:</strong>', '<blockquote class="example"><p><strong>Example:</strong>' | replace: '<blockquote><br />  <p><strong>Warning:</strong>', '<blockquote class="warning"><p><strong>Warning:</strong>' | replace: '<blockquote><br />  <p><strong>Fact:</strong>', '<blockquote class="fact"><p><strong>Fact:</strong>' %}
+{% assign now = include.html | newline_to_br | replace: '<blockquote><br />  <p><strong>Tip:</strong>', '<blockquote class="tip"><p><strong>Tip:</strong>' | replace: '<blockquote><br />  <p><strong>Example:</strong>', '<blockquote class="example"><p><strong>Example:</strong>' | replace: '<blockquote><br />  <p><strong>Warning:</strong>', '<blockquote class="warning"><p><strong>Warning:</strong>' | replace: '<blockquote><br />  <p><strong>Fact:</strong>', '<blockquote class="fact"><><strong>Fact:</strong>' %}
 {% assign now = include.html | newline_to_br %}
-{{ now }}
+{{ now | replace "<br />", "<!-- br --> " }}
 
