@@ -5,7 +5,7 @@ title: Prepare great slide decks for presentations -  The Developer Advocacy Han
 ---
 # Prepare great slide decks for presentations
 
-![Sitting on a plane with just enough legroom](images/in-plane.jpg){:height="787" width="1400"}
+![Sitting on a plane with just enough legroom](images/slide-example.png){:height="900" width="1600"}
 
 **Slides are a tricky thing to get right**. The main problem with them
 is that as a developer advocate you predominantly have a technical
