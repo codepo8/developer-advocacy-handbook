@@ -130,6 +130,12 @@ header li a {
   margin: 0;
   padding: 1em;
 }
+.content h2 + ul {
+  padding-top: 0;
+}
+.content h3 + ul {
+  padding-top: 0;
+}
 .content li {
   padding: 0 0 .5em 0;
   line-height: 1.3;

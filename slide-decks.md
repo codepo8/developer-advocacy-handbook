@@ -1,6 +1,6 @@
 ---
 next: slide-checklist
-nexttitle: A checklist for your slide
+nexttitle: A checklist for your slides
 title: Prepare great slide decks for presentations -  The Developer Advocacy Handbook
 ---
 # Prepare great slide decks for presentations

@@ -55,18 +55,18 @@ will make you a better and more relaxed presenter.
 * Is there an attribution for all media in the slide deck? Has any questionable, possibly copyrighted content been vetted?
 * Is any third party content attributed to the correct author(s)?
 
-### Tracking
+## Tracking
 
 * Are your slides available for download and will you have a handle on who will get them?
 * Is there a call to action at the end of the slides and is the resource unique and available?
 * Is there a way to track traffic from resources you mention (shortURLs, tracking IDs)?
 
-### Insurances
+## Insurances
 
 * Do you have all the materials offline and independent of your computer (memory stick, including code examples, fonts and embedded media)?
 * Have you prepared explanations of embedded media in case the video/audio doesn\'t work?
 
-### Bonus round
+## Bonus round
 
 * Can you have automated captioning and will you use it (Google Slides, Powerpoint - both need an online connection)? Have you told the conference organisers about it?
 * Do you want to make the slides available to organisers beforehand to allow for translation/teasing?
