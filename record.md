@@ -1,6 +1,6 @@
 ---
 next: use-the-web
-nexttitle: know and use the web
+nexttitle: Know and use the web
 title: Keep a record of your work -  The Developer Advocacy Handbook
 ---
 # Keep a record of your work

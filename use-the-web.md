@@ -1,15 +1,12 @@
 ---
 next: use-the-web
-nexttitle: know and use the web
+nexttitle: working-from-your-own-computer
 title: Know and use the (social) web -  The Developer Advocacy Handbook
 ---
 
 # Know and use the (social) web
 
-![A picture containing text, indoor, picture frame Description
-automatically
-generated](myMediaFolder/media/image11.jpg){width="6.263888888888889in"
-height="4.7in"}
+![Checking Twitter in the morning](images/checking-twitter.jpg){:width="1364" height="767}
 
 The web is your biggest playground as a developer advocate. It is a
 world-wide, 24-7 information and communication channel and allows you to
