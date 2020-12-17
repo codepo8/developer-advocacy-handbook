@@ -36,7 +36,7 @@ recordings, it makes sense though to invest some money on a few extras:
 
 Here is what I am using these days:
 
-![My computer setup](images/recording-setup.jpg){width="1024"
+![My computer setup](images/recording-setup.jpg){:width="1024"
 height="976"}
 
 As you can see, there isn't much that is outrageously expensive, but I
