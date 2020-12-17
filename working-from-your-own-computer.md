@@ -34,10 +34,10 @@ recordings, it makes sense though to invest some money on a few extras:
 * **External camera** - for high-end recording it makes sense to have an external camera (which is also great to take to events to do some quick interviews) but at a stretch your mobile phone is also be good enough. Having a camera on the secondary monitor also means you will have a nice central camera placement and look at the audience without bending over too much.
 * **Proper lighting** - LED ring lights by now are really affordable and positioned behind the laptop or secondary monitor give an excellent look. Avoid any lighting from behind.
 
-Here is what I am using these days:![A picture containing text, wall,
-indoor, computer Description automatically
-generated](myMediaFolder/media/image12.jpeg){width="6.263888888888889in"
-height="5.973611111111111in"}
+Here is what I am using these days:
+
+![My computer setup](images/recording-setup.jpg){width="1024"
+height="976"}
 
 As you can see, there isn't much that is outrageously expensive, but I
 manage to get some good results out of it. The fox is there to be the

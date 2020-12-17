@@ -65,7 +65,7 @@ also important to keep your contact details in your slides.
 Here are a few things that helped me record talks that are on time and
 high quality.
 
-### Check your setup and your surroundings
+## Check your setup and your surroundings
 
 Much like when you give a live talk over the internet, it is important
 to check your setup and surroundings**.** Before you record yourself or
@@ -79,7 +79,7 @@ record your talk. Try to avoid having to deal with any outside noise and
 keep the door closed with a sign outside that this is a recording in
 session and art in the making.
 
-### Record the different pieces of the talk separately
+## Record the different pieces of the talk separately
 
 The fun thing about recording your talk is that unless you have
 animations on your slides, you don't really need to go through the deck
@@ -99,7 +99,7 @@ because your computer is also busy recording video and audio. Creating
 screencasts of tech demos and narrating them afterwards is a much more
 reliable way to get a lot of information into a short amount of time.
 
-### Remember that you need to share the screen with your slides
+## Remember that you need to share the screen with your slides
 
 As you are not physically next to your slides you will have to find a
 space on the screen to place your video. This often means you need to
@@ -109,7 +109,7 @@ conference on older computers or even mobile devices. It makes sense to
 err on the side of caution when it comes to how much you can show on
 screen and how big your font settings should be.
 
-### Use accessibility features to add extra video value
+## Use accessibility features to add extra video value
 
 Many slide systems create automatic captions of what you say. Not every
 conference has the same feature or the place where they store the videos
@@ -118,10 +118,10 @@ captioning on your system when you record your talk. In Powerpoint, for
 example, this is part of the Slide Show menu and all you need to do is
 tick the "always use subtitles" feature.
 
-![](myMediaFolder/media/image13.png){width="6.263888888888889in"
-height="1.3930555555555555in"}
+![Subtitle option in Powerpoint](images/powerpoint-subtitles.png){:width="1898"
+height="422"}
 
-### Record in the highest possible quality 
+## Record in the highest possible quality 
 
 That should be a given, but it is important to record in the highest
 possible quality. Sure, this results in huge files, but it gives you an
@@ -132,7 +132,7 @@ but you shouldn't have that as the material you work with when it comes
 to editing your videos. Again, this also means using a good microphone
 and -- if possible -- an external camera.
 
-### Keep originals and make it easy to get your video
+## Keep originals and make it easy to get your video
 
 Most video recording tools will have an own format that is huge. It is
 tempting to delete those files once you're happy with your video but

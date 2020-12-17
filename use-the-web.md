@@ -1,6 +1,6 @@
 ---
-next: use-the-web
-nexttitle: working-from-your-own-computer
+next: working-from-your-own-computer
+nexttitle: Working from your own computer
 title: Know and use the (social) web -  The Developer Advocacy Handbook
 ---
 
