@@ -1,3 +1,11 @@
-{% assign now = include.html | strip_newlines | replace: '<blockquote>  <p><strong>Tip:</strong>', '<blockquote class="tip"><p><strong>Tip:</strong>' | replace: '<blockquote>  <p><strong>Example:</strong>', '<blockquote class="example"><p><strong>Example:</strong>' | replace: '<blockquote>  <p><strong>Warning:</strong>', '<blockquote class="warning"><p><strong>Warning:</strong>' | replace: '<blockquote> <p><strong>Fact:</strong>', '<blockquote class="fact"><strong>Fact:</strong>' %}
+{% capture newline %}
+{% endcapture %}
+{% assign newline = newline | rstrip %} 
+{% capture tip %}<blockquote>{{newline}}  <p><strong>Tip:</strong>{% endcapture%}
+{% capture example %}<blockquote>{{newline}}  <p><strong>Example/strong>{% endcapture%}
+{% capture warning %}<blockquote>{{newline}}  <p><strong>Warning:</strong>{% endcapture%}
+{% capture fact %}<blockquote>{{newline}}  <p><strong>Fact:</strong>{% endcapture%}
+
+{% assign now = include.html | replace: tip, '<blockquote class="tip"><p><strong>Tip:</strong>' | replace: example, '<blockquote class="example"><p><strong>Example:</strong>' | replace: warning, '<blockquote class="warning"><p><strong>Warning:</strong>' | replace: fact, '<blockquote class="fact"><strong>Fact:</strong>' %}
 {{ now }}
 
