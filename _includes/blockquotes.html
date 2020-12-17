@@ -6,6 +6,13 @@
 {% capture warning %}<blockquote>{{newline}}  <p><strong>Warning:</strong>{% endcapture%}
 {% capture fact %}<blockquote>{{newline}}  <p><strong>Fact:</strong>{% endcapture%}
 
-{% assign now = include.html | replace: tip, '<blockquote class="tip"><p><strong>Tip:</strong>' | replace: example, '<blockquote class="example"><p><strong>Example:</strong>' | replace: warning, '<blockquote class="warning"><p><strong>Warning:</strong>' | replace: fact, '<blockquote class="fact"><strong>Fact:</strong>' %}
+{% assign now = include.html | 
+  replace: tip, '<blockquote class="tip"><p><strong>Tip:</strong>' |
+  replace: example, '<blockquote class="example"><p><strong>Example:</strong>' |
+  replace: warning, '<blockquote class="warning"><p><strong>Warning:</strong>' |
+  replace: fact, '<blockquote class="fact"><strong>Fact:</strong>' 
+%}
 {{ now }}
+
+{{tip}}
 
