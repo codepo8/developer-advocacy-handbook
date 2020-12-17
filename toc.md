@@ -211,7 +211,7 @@ record
   * [keep a conference participation list](#keep-a-conference-participation-list)
 
 <!--
-know-and-use-the-social-web
+use-the-web
 -->
 
 * [Know and use the (social) web](#know-and-use-the-social-web)
@@ -239,13 +239,17 @@ working-from-your-own-computer
   * [Technical issues to prepare for](#technical-issues-to-prepare-for)
   * [Design limitations to prepare for](#design-limitations-to-prepare-for)
   * [Personal issues to prepare for](#personal-issues-to-prepare-for)
-  * [Recording your own talks](#recording-your-own-talks)
-    * [Check your setup and your surroundings](#check-your-setup-and-your-surroundings)
-    * [Record the different pieces of the talk separately](#record-the-different-pieces-of-the-talk-separately)
-    * [Remember that you need to share the screen with your slides](#remember-that-you-need-to-share-the-screen-with-your-slides)
-    * [Use accessibility features to add extra video value](#use-accessibility-features-to-add-extra-video-value)
-    * [Record in the highest possible quality](#record-in-the-highest-possible-quality)
-    * [Keep originals and make it easy to get your video](#keep-originals-and-make-it-easy-to-get-your-video)
+
+<!-- 
+recording-talks
+-->
+* [Recording your own talks](#recording-your-own-talks)
+  * [Check your setup and your surroundings](#check-your-setup-and-your-surroundings)
+  * [Record the different pieces of the talk separately](#record-the-different-pieces-of-the-talk-separately)
+  * [Remember that you need to share the screen with your slides](#remember-that-you-need-to-share-the-screen-with-your-slides)
+  * [Use accessibility features to add extra video value](#use-accessibility-features-to-add-extra-video-value)
+  * [Record in the highest possible quality](#record-in-the-highest-possible-quality)
+  * [Keep originals and make it easy to get your video](#keep-originals-and-make-it-easy-to-get-your-video)
 
 <!--
 final-words
