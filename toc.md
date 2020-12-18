@@ -192,13 +192,18 @@ slide-decks
     * [Pace yourself](#pace-yourself)
     * [Avoid "Hello World"](#avoid-hello-world)
     * [Be fresh](#be-fresh)
-  * [A checklist for more inclusive, accessible and understandable talks](#a-checklist-for-more-inclusive-accessible-and-understandable-talks)
-    * [Talk materials](#talk-materials)
-    * [Format](#format)
-    * [Content](#content)
-    * [Tracking](#tracking)
-    * [Insurances](#insurances)
-    * [Bonus round](#bonus-round)
+
+<!-- 
+    slide-checklist.md
+-->
+
+* [A checklist for more inclusive, accessible and understandable talks](#a-checklist-for-more-inclusive-accessible-and-understandable-talks)
+  * [Talk materials](#talk-materials)
+  * [Format](#format)
+  * [Content](#content)
+  * [Tracking](#tracking)
+  * [Insurances](#insurances)
+  * [Bonus round](#bonus-round)
 
 <!--
 record
