@@ -1,7 +1,7 @@
 ---
 next: travel-and-conference-participation
 nexttitle: Travel and conference participation
-title: Get speaking opportunities - The developer advocacy handbook
+title: Get speaking opportunities - The Developer Advocacy Handbook
 ---
 
 # Get speaking opportunities

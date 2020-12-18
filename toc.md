@@ -40,23 +40,23 @@ working-with-your-company
 working-with-your-competition 
 -->
 
-* [Working with your competition](#working-with-your-competition)
-  * [Work with the competition](#work-with-the-competition)
-  * [Show respect to the competition](#show-respect-to-the-competition)
-  * [Acknowledge when the competition is better](#acknowledge-when-the-competition-is-better)
-  * [Know about the competition](#know-about-the-competition)
-  * [Build examples using and try out competitive products](#build-examples-using-and-try-out-competitive-products)
+* [Working with your competition](working-with-your-competition#working-with-your-competition)
+  * [Work with the competition](working-with-your-competition#work-with-the-competition)
+  * [Show respect to the competition](working-with-your-competition#show-respect-to-the-competition)
+  * [Acknowledge when the competition is better](working-with-your-competition#acknowledge-when-the-competition-is-better)
+  * [Know about the competition](working-with-your-competition#know-about-the-competition)
+  * [Build examples using and try out competitive products](working-with-your-competition#build-examples-using-and-try-out-competitive-products)
 
 <!-- 
 prepare-for-outreach 
 -->
 
-* [Prepare for outreach](#prepare-for-outreach)
-  * [Get your facts right](#get-your-facts-right)
-  * [Know the audience and their needs](#know-the-audience-and-their-needs)
-  * [Have expert backup](#have-expert-backup)
-  * [Choose the right medium](#choose-the-right-medium)
-  * [Plan for failure](#plan-for-failure)
+* [Prepare for outreach](prepare-for-outreach#prepare-for-outreach)
+  * [Get your facts right](prepare-for-outreach#get-your-facts-right)
+  * [Know the audience and their needs](prepare-for-outreach#know-the-audience-and-their-needs)
+  * [Have expert backup](prepare-for-outreach#have-expert-backup)
+  * [Choose the right medium](prepare-for-outreach#choose-the-right-medium)
+  * [Plan for failure](prepare-for-outreach#plan-for-failure)
 
 <!-- 
 get-speaking-opportunities

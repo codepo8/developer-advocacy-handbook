@@ -1,6 +1,6 @@
 ---
-next: get-speaking-opportunities
-nexttitle: Get speaking opportunities
+# next: get-speaking-opportunities
+# nexttitle: Get speaking opportunities
 title: Prepare for outreach - The Developer Advocacy Handbook
 ---
 # Prepare for outreach
