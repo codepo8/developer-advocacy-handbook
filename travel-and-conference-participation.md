@@ -1,6 +1,6 @@
 ---
-next: travel-and-conference-participation
-nexttitle: Travel and conference participation
+# next: travel-and-conference-participation
+# nexttitle: Travel and conference participation
 title: Travel and conference participation -  The Developer Advocacy Handbook
 ---
 # Travel and conference participation
@@ -34,7 +34,7 @@ need organisers and attendees to do your job. This starts by planning
 your trip to the event the right way.
 
 Be reachable by the conference organisers and ask the right questions
-upfront so you can independently get to the venue and be at the right
+upfront so you can independently get to the venue to be at the right
 time at the right place. Offer to be flexible but make sure you don't
 need anyone to hold your hand. Give yourself enough time to be there
 when the conference needs you. Nothing is more stressful for an
@@ -43,14 +43,14 @@ organiser than not being able to find a presenter.
 ## Getting your travel and accommodation sorted
 
 I could write a whole book about this, seeing how much I traveled and
-how many conferences I attended. Of course, things are different from
+how many conferences I attended. Things are different from
 conference to conference. But here are some points that are important
 and helped me keep me effective and healthy during all the time on the
 road.
 
-* **Book your travels with at least one buffer day before and after the event** -- there is no way you can be a great presence when you parachute in. Have a good night's sleep beforehand. Conferences tend to start early, and you should be awake, bright and bushy-tailed. There is a whole day ahead of you -- if not two.
-* **Stay close to the venue** -- whilst you can save money by being in places somewhere else it means extra commuting time. Also, as you are not likely to know the city commutes can become confusing. My favourite conferences are the ones who are in a hotel and you can book a room there. This means you can travel light at the event -- just your laptop bag and some cables. There is nothing more annoying for you as a presenter to have to carry lots of layers of clothing and luggage around with you. You are there to represent, not to move in.
-* **Travel in affordable style** -- this might sound controversial, but I flat out refuse to use budget airlines. The same goes for trips with lots of changes of modes of transport. Flying is stressful, recycled air is bad for you. Every other person at the airport is a potential obstacle which might make it impossible for you to arrive on time. Ask for a good mid-price ticket and know your airlines and airports. Make sure you sign up for a frequent flyer program. The more your advance in these, the cheaper it gets to get tickets as you can upgrade yourself with air miles.
+* **Book your travels with at least one buffer day before and after the event** - there is no way you can be a great presence when you parachute in. Have a good night's sleep beforehand. Conferences tend to start early, and you should be awake, bright and bushy-tailed. There is a whole day ahead of you - if not two.
+* **Stay close to the venue** - whilst you can save money by being in places somewhere else it means extra commuting time. Also, as you are not likely to know the city commutes can become confusing. My favourite conferences are the ones that are in a hotel and you can book a room there. This means you can travel light at the event - just your laptop bag and some cables. There is nothing more annoying for you as a presenter to have to carry lots of layers of clothing and luggage around with you. You are there to represent - not to move in.
+* **Travel in affordable style** - this might sound controversial, but I flat out refuse to use budget airlines. The same goes for trips with lots of changes of modes of transport. Flying is stressful, recycled air is bad for you. Every other person at the airport is a potential obstacle which might make it impossible for you to arrive on time. Ask for a good mid-price ticket and know your airlines and airports. Make sure you sign up for a frequent flyer program. The more your advance in these, the cheaper it gets to get tickets as you can upgrade yourself with air miles.
 
 > **Tip:** Conference organisers are the best people to ask about their event.
 They will know the best modes of transport and have booked the right
@@ -87,11 +87,11 @@ organisers. Neither should be able to tell you what to cover but instead
 trust your professionalism to do the right thing. If that is not
 possible, you need to work on that first. It is trust going both ways.
 Many companies will want to pay for your presence so that the organisers
-can\'t tell you what to do. This is nonsense, as it just means your
+can\'t tell you what to do. This is nonsense, as it means your
 company wants to be in that position.
 
 There are many facets to this, but one thing should be high on your
-list: Avoid any sponsored speaking slots
+list: **Avoid any sponsored speaking slots**.
 
 These are not for advocates. These are for sales people. And nobody
 wants them. Audiences are annoyed when something is obviously a veiled
@@ -102,13 +102,13 @@ convenience.
 
 In the best of scenarios try to aim for the following:
 
-* **Have the conference organisers cover your travel and > accommodation** - after all, they know best.
-* **Repay your company by representing them and by delivering a report > after the event** - how was your talk received? What did the > competition do? What contacts do you have to follow up on? Did you > meet a prospective hire?
-* **Split the difference** - your company can cover the extra days in > the hotel and expenses on your travel. That makes it cheaper for > the conference organisers.
-* **Have a clear separation between your presence at the event and any > form of sponsorship** - you should not become something to barter > with. You should pick the events you go to and not have to go as a > speaking slot was part of the package. This is insulting to anyone > involved and will neither help you nor your company.
+* **Have the conference organisers cover your travel and accommodation** - after all, they know best.
+* **Repay your company by representing them and by delivering a report after the event** - how was your talk received? What did the competition do? What contacts do you have to follow up on? Did you meet a prospective hire?
+* **Split the difference** - your company can cover the extra days in the hotel and expenses on your travel. That makes it cheaper for the conference organisers.
+* **Have a clear separation between your presence at the event and any form of sponsorship** - you should not become something to barter with. You should pick the events you go to and not have to go as a speaking slot was part of the package. This is insulting to anyone involved and will neither help you nor your company.
 
 This will be something you have to define rigidly and fight for. Being a
-speaker that paid for getting into the conference is reputation suicide.
+speaker that paid for getting into the conference is a reputation killer.
 Do not try to get into that position. Your reputation is that of being
 an independent technical person - not a marketeer.
 
@@ -130,7 +130,7 @@ good ones.
 
 Try to be at the event when it starts and take part. Look at other
 presenters and see what they are doing. Talk to the people at the booths
-there, you know how boring that job can be. The more you soak up before
+there - you know how boring that job can be. The more you soak up before
 your talk the more you can bring in later. How cool is it to remind the
 audience of something you heard in another presentation at the same
 event? How happy are sponsors when you mention what they show on their
@@ -176,8 +176,8 @@ demand for you. Make it easy for you by having a good calendar where you
 track your events. Follow up each of your conference participation with
 a debrief for your colleagues and for the conference organisers. This
 makes it easy to decide next time if the same event is worth you going
-or someone else. It also gives organisers something to think about and
-you a chance to say \"thanks\". And that goes a long way.
+or handing it over to someone else. It also gives organisers something 
+to think about and you a chance to say \"thanks\". And that goes a long way.
 
 ## Work with the conference buzz
 
@@ -205,10 +205,10 @@ support the conference you speak at. Tweet about it, tell people you\'ll
 be there, maybe organize a small informal breakfast or dinner meetup in
 the days and hours around the conference.
 
-The main benefit of going to conferences -- regardless of being a
-speaker or attendee -- is to mingle with others and exchange thoughts,
+The main benefit of going to conferences --regardless of being a
+speaker or attendee - is to mingle with others and exchange thoughts,
 ideas and information during the breaks, before and after the event.
-Don\'t just show up for your talk and leave -- you\'d miss out on most
+Don\'t just show up for your talk and leave - you\'d miss out on most
 of the fun.
 
 ### Release immediately
@@ -228,12 +228,12 @@ bookmarking sites and you\'ll be part of the first wave of information.
 The same goes for your photos. Upload them, tag them appropriately and
 people will find them as everybody checks conference photos. Make sure
 to tag photos with the name of the people in them to make searching even
-easier.
+easier (after you asked for permission!).
 
 ### Write about conferences
 
 Another good way to give back to the conference is to cover it in your
 communication channels. Write a small blog post about your session at
-the conference (of course), but also a general post about the conference
+the conference, but also a general post about the conference
 and what you liked about it. I also give personal feedback via email to
 the organizers after each conference and got a lot of thanks for that.

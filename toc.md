@@ -62,31 +62,31 @@ prepare-for-outreach
 get-speaking-opportunities
 -->
 
-* [Get speaking opportunities](#get-speaking-opportunities)
-  * [Take part in podcasts](#take-part-in-podcasts)
-  * [Take part in panels](#take-part-in-panels)
-  * [Go to Grass Roots events](#go-to-grass-roots-events)
-  * [Go to Meetups](#go-to-meetups)
-  * [Write articles](#write-articles)
-  * [Offer Brownbags](#offer-brownbags)
-  * [Ask questions at conferences](#ask-questions-at-conferences)
-  * [Be a presenter people want to invite -- publish your presenter terms](#be-a-presenter-people-want-to-invite-publish-your-presenter-terms)
+* [Get speaking opportunities](get-speaking-opportunities#get-speaking-opportunities)
+  * [Take part in podcasts](get-speaking-opportunities#take-part-in-podcasts)
+  * [Take part in panels](get-speaking-opportunities#take-part-in-panels)
+  * [Go to Grass Roots events](get-speaking-opportunities#go-to-grass-roots-events)
+  * [Go to Meetups](get-speaking-opportunities#go-to-meetups)
+  * [Write articles](get-speaking-opportunities#write-articles)
+  * [Offer Brownbags](get-speaking-opportunities#offer-brownbags)
+  * [Ask questions at conferences](get-speaking-opportunities#ask-questions-at-conferences)
+  * [Be a presenter people want to invite -- publish your presenter terms](get-speaking-opportunities#be-a-presenter-people-want-to-invite-publish-your-presenter-terms)
 
 <!-- 
 travel-and-conference-participation
 -->
 
-* [Travel and conference participation](#travel-and-conference-participation)
-  * [Getting your travel and accommodation sorted](#getting-your-travel-and-accommodation-sorted)
-  * [Who pays what?](#who-pays-what)
-  * [Be at the event](#be-at-the-event)
-  * [Give the event some social media love](#give-the-event-some-social-media-love)
-  * [Use the event to build a network](#use-the-event-to-build-a-network)
-  * [Keep track of your conference participation](#keep-track-of-your-conference-participation)
-  * [Work with the conference buzz](#work-with-the-conference-buzz)
-  * [Be a part of the conference you talk at](#be-a-part-of-the-conference-you-talk-at)
-  * [Release immediately](#release-immediately)
-  * [Write about conferences](#write-about-conferences)
+* [Travel and conference participation](travel-and-conference-participation#travel-and-conference-participation)
+  * [Getting your travel and accommodation sorted](travel-and-conference-participation#getting-your-travel-and-accommodation-sorted)
+  * [Who pays what?](travel-and-conference-participation#who-pays-what)
+  * [Be at the event](travel-and-conference-participation#be-at-the-event)
+  * [Give the event some social media love](travel-and-conference-participation#give-the-event-some-social-media-love)
+  * [Use the event to build a network](travel-and-conference-participation#use-the-event-to-build-a-network)
+  * [Keep track of your conference participation](travel-and-conference-participation#keep-track-of-your-conference-participation)
+  * [Work with the conference buzz](travel-and-conference-participation#work-with-the-conference-buzz)
+  * [Be a part of the conference you talk at](travel-and-conference-participation#be-a-part-of-the-conference-you-talk-at)
+  * [Release immediately](travel-and-conference-participation#release-immediately)
+  * [Write about conferences](travel-and-conference-participation#write-about-conferences)
 
 <!-- 
 deliver-a-talk
