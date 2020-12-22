@@ -19,14 +19,14 @@ and make them feel bad about their level of knowledge. These are the
 following sentences and I'll explain in detail how to replace them with
 something less destructive:
 
-* "This is easy..."
-* "I'll repeat quickly, for the few of you who don't know..."
-* "Everybody can do that..."
+* "This is easy…"
+* "I'll repeat quickly, for the few of you who don't know…"
+* "Everybody can do that…"
 * "X solves this problem, so you don't have to worry about it"
-* "As everybody knows..."
+* "As everybody knows…"
 * "That's why Y(your product) is much better than (competitor) X"
-* "This is just like we learned in school..."
-* "This can be done in a few lines of code..."
+* "This is just like we learned in school…"
+* "This can be done in a few lines of code…"
 * "If you want to be professional, do X"
 
 None of these are a show-stopper and make you a terrible presenter.
@@ -49,24 +49,27 @@ a presenter.
 It is stressful to be at an expert event. As an audience member you
 don't want to appear less able than others. As a presenter, it is worse.
 Presenting is a balancing act. You neither want to sound condescending,
-overload the audience, make people feel stupid, appear too basic ...
-and, and, and...
+overload the audience, make people feel stupid, appear too basic …
+and, and, and…
 
 I've heard the following expressions at a lot of events and I always
-cringed a bit. Often they are OK, and no harm done. But,to improve as
+cringed a bit. Often they are OK, and no harm done. But,to get better as
 presenters it may be a good idea to be more conscious about what we do
 and what effects it can have.
 
-## "This is easy..."
+## "This is easy…"
 
 We often try to calm down the audience by making what we show appear
 simple. The problem with that is that what is simple for us might still
-be confusing to the people in the room. Add peer-pressure to that and
+be confusing to the people in the room or online . Add peer-pressure to that and
 people will neither speak up that they don't understand, nor feel
 empowered. The opposite applies -- by saying something is easy and
 people failing to grasp or apply it, we make them feel stupid. If you
 make me feel stupid, you may inspire me to get better. But I don't do it
-for the right reason -- I do it out of guilt and self-doubt.
+for the right reason -- I do it out of guilt and self-doubt. Even worse,
+depending on who you are, making you feel stupid may inspire you to
+attack instead. Often you see people shoot down things in flames as
+stupid and not needed because they don't see its usefulness.
 
 The worst way to use "this is easy" is when you rely on a lot of
 abstractions or tools to achieve the easy bit. Each of those could be a
@@ -74,19 +77,19 @@ stumbling block for people applying your wisdom.
 
 **Replacements:**
 
-* "Here are a few steps how to achieve this..."
-* "By using these tools, which are all well documented, you can..."
-* "The way to get this done is..."
+* "Here are a few steps how to achieve this…"
+* "By using these tools, which are all well documented, you can…"
+* "The way to get this done is…"
 
 Using these you send people on a journey. They don't tell them that the
 end result is already a given. Who knows, they may find a way to improve
 your "easy" one.
 
-## "I'll repeat quickly, for the few of you who don't know..."
+## "I'll repeat quickly, for the few of you who don't know…"
 
 This expression fell at a conference I attended and it made me
 cringe. The presenter meant to be encouraging in a "hey, we all are
-already on board" way, but it can come across as arrogant. Even worse,
+already on board" way, but it came across as arrogant. Even worse,
 it already singles out those who do not know, and makes them feel like
 they are under a spotlight.
 
@@ -96,13 +99,13 @@ am I doing here".
 
 **Replacements**
 
-* "Just as a reminder, here is what X is about..."
-* "As you may remember, X is about..."
-* "We're building this using X, which is..."
+* "Just as a reminder, here is what X is about…"
+* "As you may remember, X is about…"
+* "We're building this using X, which is…"
 
 This adds your repetition into the flow instead of being an excuse.
 
-## "Everybody can do that..."
+## "Everybody can do that…"
 
 If everybody can do it, why do I listen to you? Also, if everybody can
 do it, how come I never managed to? If you use this you either present
@@ -113,12 +116,9 @@ them from "everybody". And that hurts.
 
 **Replacements:**
 
-* "If you know your way around X, Y and Z, you should find it easy
-    to..."
-* "Once you managed to do that, you'll find it makes the rest of your
-    work easier..."
-* "It is a very effective way to work, if it works for you, tell
-    others about it"
+* "If you know your way around X, Y and Z, you should find it rewarding to…"
+* "Once you managed to do that, you'll find it makes the rest of your work more enjoyable…"
+* "It is a very effective way to work, if it works for you, tell others about it"
 
 This again makes it a reminder and a starting point of a journey. Not a
 given that is redundant to repeat.
@@ -135,14 +135,13 @@ to fix it.
 **Replacements:**
 
 * "X solves the problems around Y, so you can build Z"
-* "X was created to make Y easier and is used in production, the
-    results are encouraging..."
-* "Here are the steps you can do by hand that X does for you..."
+* "X was created to make Y easier and is used in production, the results are encouraging…"
+* "Here are the steps you can do by hand that X does for you…"
 
 Pop open the hood, show how your product works. Don't sell all-healing
 remedies.
 
-## "As everybody knows..."
+## "As everybody knows…"
 
 Common knowledge is a myth and relies on your environment, access to
 information, time to consume news and the way you learn. Presenting
@@ -151,18 +150,15 @@ heard of it?" and stop them in their tracks.
 
 **Replacements:**
 
-* "This has been around for a while and was explained wonderfully in X
-    (X being a resource you link to)"
-* "Tests have shown that X is a given for a lot of solutions (point to
-    research, give proof)"
-* "I base this on the fact that X, as proven many times by... (and add
-    a list a resources)"
+* "This has been around for a while and was explained wonderfully in X (X being a resource you link to)"
+* "Tests have shown that X is a given for a lot of solutions (point to research, give proof)"
+* "I base this on the fact that X, as proven many times by… (and add  a list a resources)"
 
 "Citation needed" is a wonderful way to say something and prove your
 point. You show people that you did your homework before you make an
 assumption. And you give those who did not the tools to do so.
 
-## "This is just like we learned in school..."
+## "This is just like we learned in school…"
 
 This assumes everybody went to a school with the same curriculum as you.
 A lot of people have not. This is especially destructive when it applies
@@ -170,17 +166,13 @@ to knowledge that was part of a Computer Science degree.
 
 **Replacements:**
 
-* "This has been part of Computer Science teaching for years, and for
-    good reason because \$x"
-* "This should look familiar to anyone who went to a similar school as
-    me, and for those who didn't, there's truckloads of information
-    available online about it"
-* "You might remember this from school -- now you see how it can be
-    applied in a real job. Who knew?"
+* "This has been part of Computer Science teaching for years, and for good reason because X"
+* "This should look familiar to anyone who went to a similar school as me, and for those who didn't, there's truckloads of information available online about it at X"
+* "You might remember this from school -- now you see how it can be applied in a real job. Who knew?"
 
 A lot of people create the web. Not all took the official path.
 
-## "That's why Y(your product) is much better than (competitor) X"
+## "That's why Y( your product) is much better than (competitor) X"
 
 This is common in advertising, especially in America. You show off your
 product by making others look worse. This is pointless and only invites
@@ -191,18 +183,15 @@ shot.
 
 **Replacements:**
 
-* "Here's how to do that with product X, we took a different path and
-    here's why..."
-* "There are many solutions to this. We found that some were lacking a
-    feature that made us more effective, which is X"
-* "You can use whatever makes you happy to achieve X. We added the
-    following, as we found it was missing..."
+* "Here's how to do that with product X, we took a different path and here's why…"
+* "There are many solutions to this. We found that some were lacking a feature that made us more effective, which is X"
+* "You can use whatever makes you happy to achieve X. We added the following, as we found it was missing…"
 
 Showing you know about your competition prevents questions about it.
 Showing how they differ allows people to make up their mind which is
 better instead of you telling them and hoping they agree.
 
-## "This can be done in a few lines of code..."
+## "This can be done in a few lines of code…"
 
 The amount of code has become a contrived way of showing how effective
 our solutions are. Almost always the "quick and small solution" blossoms
@@ -212,14 +201,10 @@ small starting point for what it is -- a start.
 
 **Replacements:**
 
-* "As you can see, starting this is a few lines of code. I simplified
-    this to show here, the source code is available at X"
-* "For now, this is all that is needed to achieve this. No doubt, you
-    will need to add more to it, but it is a starting point"
-* "By abstracting some of the issues out, we can cut down our code to
-    a few lines"
-* "As we rely on functionality of X, this means our implementation can
-    be very small..."
+* "As you can see, starting this is a few lines of code. I simplified this to show here, the source code is available at X"
+* "For now, this is all that is needed to achieve this. No doubt, you will need to add more to it, but it is a starting point"
+* "By abstracting some of the issues out, we can cut down our code to a few lines"
+* "As we rely on functionality of X, this means our implementation can be very small…"
 
 A lot of times, this solves our own issue of showing only a few lines of
 code on a slide. Instead, let's write understandable code that we
@@ -234,27 +219,23 @@ this can look silly in a few weeks.
 
 **Replacements:**
 
-* "X, Y and Z are using this heavily to deliver their products. Here
-    are some case studies that show the positive results..."
-* "Using X gives you a starting point you can rely on and makes it
-    easier to explain to your replacement how to take over the
-    product..."
-* "The benefits of X are Y, which makes it a professional tool to
-    use..."
+* "X, Y and Z are using this heavily to deliver their products. Here are some case studies that show the positive results…"
+* "Using X gives you a starting point you can rely on and makes it easier to explain to your replacement how to take over the product…"
+* "The benefits of X are Y, which makes it a professional tool to use…"
 
 You achieve professionalism with experience and by learning about new
-thing and retaining them. Things people say on stage and define as "best
+things and retaining them. Things people say on stage and define as "best
 practice" need validation by professionals. It is not up to you as a
 presenter to define that.
 
-##     A quick check
+## A quick check
 
 There are more unintentional destructive expressions. Read through your
 talks and watch your videos and then ask yourself: "how would I feel
 listening to this if I didn't know what I know?". Then remove or
 rephrase accordingly.
 
-Our market grew as fast as it did by being non-discriminatory of
+> **Fact:** Our market grew as fast as it did by being non-discriminatory of
 background or level of education. Granted, most of us grew up in safe
 environments and were lucky enough to have free schooling. But there are
 a lot of people in our midst who came from nowhere or at least nowhere
