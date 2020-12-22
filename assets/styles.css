@@ -130,6 +130,12 @@ header li a {
   margin: 0;
   padding: 1em;
 }
+p.buycoffee{
+  border: var(--blocktopline) 1px solid;
+  padding: 5px 10px;
+  background: var(--blockbackground);
+}
+}
 .content h2 + ul {
   padding-top: 0;
 }
