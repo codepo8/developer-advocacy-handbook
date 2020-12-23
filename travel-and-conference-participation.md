@@ -1,6 +1,6 @@
 ---
-# next: travel-and-conference-participation
-# nexttitle: Travel and conference participation
+next: deliver-a-talk
+nexttitle: Deliver a talk
 title: Travel and conference participation -  The Developer Advocacy Handbook
 ---
 # Travel and conference participation

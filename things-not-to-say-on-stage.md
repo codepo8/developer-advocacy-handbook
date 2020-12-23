@@ -1,6 +1,6 @@
 ---
-next: write-great-posts-and-articles
-nexttitle: Write great posts and articles
+# next: write-great-posts-and-articles
+# nexttitle: Write great posts and articles
 title: Things not to say on stage - The Developer Advocacy Handbook
 ---
 # Things not to say on stage -- and what to do instead
