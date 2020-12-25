@@ -135,16 +135,16 @@ things-not-to-say-on-stage
 write-great-posts-and-articles
 -->
 
-* [Write great posts and articles](#write-great-posts-and-articles)
-  * [Simple is not stupid](#simple-is-not-stupid)
-  * [Say what it is - don't sugar-coat it](#say-what-it-is---dont-sugar-coat-it)
-  * [Size matters](#size-matters)
-  * [Add media](#add-media)
-  * [Structure your content](#structure-your-content)
-  * [Time-stamp your content](#time-stamp-your-content)
-  * [Cite to prove](#cite-to-prove)
-  * [Pre-emptive writing](#pre-emptive-writing)
-  * [Ending on an invitation to learn more](#ending-on-an-invitation-to-learn-more)
+* [Write great posts and articles](write-great-posts-and-articles#write-great-posts-and-articles)
+  * [Simple is not stupid](write-great-posts-and-articles#simple-is-not-stupid)
+  * [Say what it is - don't sugar-coat it](write-great-posts-and-articles#say-what-it-is---dont-sugar-coat-it)
+  * [Size matters](write-great-posts-and-articles#size-matters)
+  * [Add media](write-great-posts-and-articles#add-media)
+  * [Structure your content](write-great-posts-and-articles#structure-your-content)
+  * [Time-stamp your content](write-great-posts-and-articles#time-stamp-your-content)
+  * [Cite to prove](write-great-posts-and-articles#cite-to-prove)
+  * [Pre-emptive writing](write-great-posts-and-articles#pre-emptive-writing)
+  * [Ending on an invitation to learn more](write-great-posts-and-articles#ending-on-an-invitation-to-learn-more)
 
 <!-- 
 write-excellent-code-examples
