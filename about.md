@@ -33,7 +33,7 @@ Fast forward to now. I had a long career as a "developer evangelist" in
 a few companies and this handbook has inspired a lot of people to go the
 same route. Developer Relations (DevRel) with all its different roles is
 a much more common market now. Many companies have taken on the ideas
-outlined here and it the follow-up books, posts and videos. 
+outlined here and in the follow-up books, posts and videos. 
 There are dedicated mailing lists, communities and even
 conferences that don't only feature DevRel people and are all about
 DevRel.
