@@ -35,7 +35,7 @@ same route. Developer Relations (DevRel) with all its different roles is
 a much more common market now. Many companies have taken on the ideas
 outlined here and in the follow-up books, posts and videos. 
 There are dedicated mailing lists, communities and even
-conferences that don't only feature DevRel people and are all about
+conferences that don't only feature DevRel people but are exclusively about
 DevRel.
 
 Naturally this brought a lot of change along the way. I also stepped
@@ -43,8 +43,8 @@ back from the role of Developer Relations and went into Program
 Management. Mainly because I found it time to let other people bring in their
 ideas and skills that speak to a newer audience.
 
-When I got approached to release a print version of this book, I took a
-look at it again and found it at times quaintly outdated, speaking about
+When someone approached me about a print version of this book, I took a
+look at it again. I found it at times quaintly outdated, speaking about
 now defunct tools and products, but the general message and ideas still
 valid. Even more so, that in a world where you can drown in an avalanche
 of information about developer advocacy, I took a "zoom out" approach
