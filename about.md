@@ -8,8 +8,8 @@ title: About the Developer Advocacy Handbook
 
 This handbook will get you on the way to be a great developer advocate
 for any product or company. Naturally, your approach may need tweaking for
-different markets and audiences - and in accordance with your own
-personality - but the main principles are the same for everybody and
+different markets and audiences -- and in accordance with your own
+personality -- but the main principles are the same for everybody and
 anywhere in the world.
 
 Developer advocacy is a comparatively new field of work and the first
@@ -17,30 +17,30 @@ hurdle you will encounter is people asking what a developer advocate is
 and why any company would need a role like that.
 
 Eleven years ago I wrote this book for exactly that reason. I had hit a
-wall in my career as I was lead developer and the next and only role to
+wall in my career. I was a lead developer and the next and only role to
 get higher up the ladder for me was manager, which I didn't want to do.
 I already had started reaching out to developers about my company, but
-there was no recognition for it internally or it plain and simply wasn't
-my job. This is why I came up with the idea of "developer evangelist"
+there was no recognition for it as it plain and simply wasn't
+my job. This is why I came up with the role of "developer evangelist"
 not only as a good idea, but as a full time job in a technical company.
 Lucky for me, the company agreed that it would be a beneficial thing to
 do. That's why I wrote this handbook to help other people to get the
-same option.
+same opportunity.
 
 # About this version
 
 Fast forward to now. I had a long career as a "developer evangelist" in
 a few companies and this handbook has inspired a lot of people to go the
 same route. Developer Relations (DevRel) with all its different roles is
-a much more common market and many companies have taken on the ideas
-outlined here and it the follow-up books and posts and videos that
-followed. There are dedicated mailing lists, communities and even
-conferences that don't only feature DevRel people but are all about
+a much more common market now. Many companies have taken on the ideas
+outlined here and it the follow-up books, posts and videos. 
+There are dedicated mailing lists, communities and even
+conferences that don't only feature DevRel people and are all about
 DevRel.
 
 Naturally this brought a lot of change along the way. I also stepped
-back from the role of plain Developer Relations and went into Program
-Management, because I found it time to let other people bring in their
+back from the role of Developer Relations and went into Program
+Management. Mainly because I found it time to let other people bring in their
 ideas and skills that speak to a newer audience.
 
 When I got approached to release a print version of this book, I took a
