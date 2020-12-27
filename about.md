@@ -1,9 +1,8 @@
 ---
 next: what-is-developer-advocacy
 nexttitle: What is developer advocacy?
-layout: default
 title: About the Developer Advocacy Handbook
-audio: The Developer Adocacy Handbook - About this handbook.mp3
+audio: The Developer Advocacy Handbook - About this handbook.mp3
 ---
 # About this handbook
 
