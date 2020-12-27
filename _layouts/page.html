@@ -17,6 +17,11 @@
       <nav>
         {% include toc.html html=content %}
       </nav>
+      {% if page.audio %}
+      <p class="audio"> 
+        <a href="/audio/{{ page.audio }}">Audio version</a>.
+      </p>
+      {% endif %}
       <p class="buycoffee">
         If you find this helpful, you can 
         <a href="https://ko-fi.com/chrisheilmann">buy me a coffee</a>.
