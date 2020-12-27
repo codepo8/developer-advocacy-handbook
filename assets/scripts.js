@@ -14,6 +14,7 @@ if (audiolink) {
     let a = document.createElement('audio');
     a.src = audiolink.href;
     a.width = "100%";
-    audiolink.parentNode.replaceChild(audiolink, a);
+    audiolink.parentNode.appendChild(a);
+    audiolink.remove();
   })
 }
