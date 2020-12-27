@@ -14,6 +14,7 @@ if (audiolink) {
     let a = document.createElement('audio');
     a.src = audiolink.href;
     a.controls = true;
+    a.autoplay = true;
     audiolink.parentNode.appendChild(a);
     audiolink.remove();
   })
