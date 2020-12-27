@@ -13,7 +13,7 @@ if (audiolink) {
     e.preventDefault();
     let a = document.createElement('audio');
     a.src = audiolink.href;
-    a.width = "100%";
+    a.controls = true;
     audiolink.parentNode.appendChild(a);
     audiolink.remove();
   })

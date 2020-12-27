@@ -136,6 +136,13 @@ p.buycoffee{
   background: var(--blockbackground);
   margin: 2em 0;
 }
+p.audio {
+  margin: 1em 0;
+}
+audio {
+  display: block;
+  width: 100%;
+}
 .content h2 + ul {
   padding-top: 0;
 }
