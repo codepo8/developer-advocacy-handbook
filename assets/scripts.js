@@ -6,3 +6,11 @@
 //         toLowerCase().
 //           replace(':','');
 // });
+
+const audiolink = document.querySelector('.audio a');
+if (audiolink) {
+  audiolink.addEventListener('click', e => {
+    console.log(e.target.href);
+    e.preventDefault();
+  })
+}
