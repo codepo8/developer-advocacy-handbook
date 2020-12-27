@@ -134,7 +134,7 @@ p.buycoffee{
   border: var(--blocktopline) 1px solid;
   padding: 5px 10px;
   background: var(--blockbackground);
-}
+  margin: 2em 0;
 }
 .content h2 + ul {
   padding-top: 0;
