@@ -10,12 +10,11 @@
 const audiolink = document.querySelector('.audio a');
 if (audiolink) {
   audiolink.addEventListener('click', e => {
+    e.preventDefault();
     console.log(e.target.href);
     let a = document.createElement('audio');
     a.src = e.target.href;
     a.width = "100%";
-    e.target.parentNode.addChild(a);
-    e.target.remove();
-    e.preventDefault();
+    e.target.parentNode.replaceChild(e.target, a);
   })
 }
