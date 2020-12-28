@@ -13,25 +13,27 @@ company.
 
 This can actually be a much harder job than dealing with the outside.
 The reason is that people on the inside have both more information about
-and a different relationship to the products you advocate. That can mean
-that whilst the outside world is excited about a certain product, people
-on the inside aren't proud of it at all. And getting praise for a job
+and a different relationship to the products you advocate. 
+
+That can mean that whilst the outside world is excited about a certain product, 
+people on the inside aren't proud of it at all. And getting praise for a job
 you considered not done well isn't a good feeling. It makes you feel
-like people don't appreciate your efforts. The journey towards releasing
-a product can be painful, frustrating and sometimes just plain
-confusing. Sometimes products are highly successful but bleed money.
-That could lead to a lot of bad blood in the company as other, more
+like people don't appreciate your efforts at all. 
+
+The journey towards releasing a product can be painful, frustrating and sometimes plain
+confusing. For example, highly successful products can bleed money.
+That could lead to a lot of frustration in the company as other, more
 lucrative or efficient products don't get the same resources.
 
 Your job as a developer advocate is to listen to people on the inside,
 understand their problems and communicate with management to try and
-sort out these issues. You also need to ensure that you remind people of
-facts instead of chiming in with bad rumours - what the outside world
+fix these issues. You also need to ensure that you remind people of
+facts instead of chiming in with bad rumours. What the outside world
 says about the company and products might not necessarily be the real
 picture.
 
-Frustrated people are also likely to say bad things about their company
-on social media and elsewhere and that isn't only a problem for your
+Frustrated people are likely to say bad things about their company
+on social media and elsewhere. That isn't only a problem for your
 products but could also be a bad move for their career. Often you will
 find yourself being a sounding board for the frustrations of the people
 building the products and a mentor to keep them from saying things
