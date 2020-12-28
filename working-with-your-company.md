@@ -36,7 +36,7 @@ Frustrated people are likely to say bad things about their company
 on social media and elsewhere. That isn't only a problem for your
 products but could also be a bad move for their career. Often you will
 find yourself being a sounding board for the frustrations of the people
-building the products and a mentor to keep them from saying things
+building products and a mentor to keep them from saying things
 publicly they may regret later. It is important to build up a reputation
 as someone people can vent at about their work without repercussions.
 This also is an important step to validate the worth of the developer
@@ -122,13 +122,13 @@ few things to be aware of:
 * **Make your knowledge level clear** - if people ask you what is going on don\'t say "no comment" as that implies you know something but are not allowed to say it. Simply state that you are not in a position to know yet but that you are investigating.
 
 > **Tip:** This last point is important. As your job is to communicate
-with everybody in the company people already assume that you have a much
-more in-depth knowledge than they have. As developers get paranoid
+with everybody in the company people already assume that you know a lot
+more than they do. As developers get paranoid
 about changes in the company this can mean that people think you know
 all about what annoys them but hold back as you are siding with "the
 company" or "the management". Don\'t lose your contact with and the
 trust of the developers in the company over something you have no
-control over.{: .my-class }
+control over.
 
 > **Example:** One interesting example of a change was when in one round
 of redundancies a broadly liked and respected outgoing and
@@ -264,7 +264,7 @@ of the woodwork:
 * **Tell the company about events** - both the ones you organise and ones that happen in the area. This is especially necessary when you can\'t attend them. Offer to support a developer who wants to go with free goodies to give out (stickers, shirts...) - if they go and bring back photos and information how it went to write a blog post together.
 * **Offer specialised internal training and talks** - as the prospect of developer advocacy might still be alien and even scary to people cut the training offer down to things that can be applied in any professional role: writing for the web, public speaking tips, finding great web content (well, basically the different chapters here).
 * **Share great responses from the outside world** - send out for example a newsletter of "happy social quotes" with tweets and blog posts about how a certain event or product launch was received in the developer world.
-* **Ask people to challenge your products** - run some internal competitions to change or collect ideas about how people in the company would like your products to change. In a few companies I worked had we had "hack days" for that and more and more companies start doing the same.
+* **Ask people to challenge your products** - run some internal competitions to collect ideas about how people in the company would like your products to change. In a few companies I worked had we had "hack days" for that and more and more companies start doing the same.
 
 > **Tip:** A lot of this will tie in nicely with communication channels that
 PR and marketing already use. Ask them for help instead of doing your
@@ -373,8 +373,8 @@ sign.
 
 People working on products are actually not the right people to advocate
 them -- they are far too close to the subject matter to find obvious
-flaws in the documentation or are fine with overly complex ways of
-invoking a certain functionality as they are used to them. This goes as
+flaws in the documentation. They are also fine with overly complex functionality
+as they are used to it. This goes as
 far as having their own language. Every product I worked with used
 specialist terms that in day-to-day conversation made sense to the team
 but would be cryptic gibberish to put in a blog post.
