@@ -18,8 +18,14 @@
         {% include toc.html html=content %}
       </nav>
       {% if page.audio %}
-      <p class="audio"> 
-        <a href="https://christianheilmann.com/bookmp3/{{ page.audio }}">Audio version</a>
+      <p class="audio">
+        Audio version:  
+        <audio src="https://christianheilmann.com/bookmp3/{{ page.audio }}" controls></audio>
+        <div>
+          <label for="pbrate">Speed:</label>
+          <input type="range" id="pbrate" min=.5 max=3 value=1 step=.1>
+          <span></span>
+        </div>
       </p>
       {% endif %}
       <p class="buycoffee">

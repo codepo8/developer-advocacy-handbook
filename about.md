@@ -2,7 +2,7 @@
 next: what-is-developer-advocacy
 nexttitle: What is developer advocacy?
 title: About the Developer Advocacy Handbook
-# audio: The_Developer_Advocacy_Handbook_-_About_this_handbook.mp3
+audio: The_Developer_Advocacy_Handbook_-_About_this_handbook.mp3
 ---
 # About this handbook
 
