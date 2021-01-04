@@ -1,6 +1,6 @@
 ---
-# next: write-excellent-code-examples
-# nexttitle: Write excellent code examples
+next: write-excellent-code-examples
+nexttitle: Write excellent code examples
 title: Write great posts and articles - The Developer Advocacy Handbook
 ---
 # Write great posts and articles
