@@ -150,20 +150,20 @@ write-great-posts-and-articles
 write-excellent-code-examples
 -->
 
-* [Write excellent code examples](#write-excellent-code-examples)
-  * [Solve a problem with your example](#solve-a-problem-with-your-example)
-  * [Show a working example](#show-a-working-example)
-  * [Explain the necessary environment](#explain-the-necessary-environment)
-  * [Write working copy and paste code](#write-working-copy-and-paste-code)
-  * [Have the example as a download](#have-the-example-as-a-download)
-  * [Write clean and clever examples](#write-clean-and-clever-examples)
-  * [Build code generators](#build-code-generators)
-  * [Hosting code and demos](#hosting-code-and-demos)
-    * [Version Control is your friend](#version-control-is-your-friend)
-    * [Automated Hosting](#automated-hosting)
-    * [Code showcases](#code-showcases)
-    * [Code Sandboxes](#code-sandboxes)
-    * [Live coding environments](#live-coding-environments)
+* [Write excellent code examples](write-excellent-code-examples#write-excellent-code-examples)
+  * [Solve a problem with your example](write-excellent-code-examples#solve-a-problem-with-your-example)
+  * [Show a working example](write-excellent-code-examples#show-a-working-example)
+  * [Explain the necessary environment](write-excellent-code-examples#explain-the-necessary-environment)
+  * [Write working copy and paste code](write-excellent-code-examples#write-working-copy-and-paste-code)
+  * [Have the example as a download](write-excellent-code-examples#have-the-example-as-a-download)
+  * [Write clean and clever examples](write-excellent-code-examples#write-clean-and-clever-examples)
+  * [Build code generators](write-excellent-code-examples#build-code-generators)
+  * [Hosting code and demos](write-excellent-code-examples#hosting-code-and-demos)
+    * [Version Control is your friend](write-excellent-code-examples#version-control-is-your-friend)
+    * [Automated Hosting](write-excellent-code-examples#automated-hosting)
+    * [Code showcases](write-excellent-code-examples#code-showcases)
+    * [Code Sandboxes](write-excellent-code-examples#code-sandboxes)
+    * [Live coding environments](write-excellent-code-examples#live-coding-environments)
 
 <!-- 
 slide-decks
