@@ -163,6 +163,13 @@ p.buycoffee{
   flex: 1;
   text-align: center;
 }
+.audio button {
+  font-family: inherit;
+  background: transparent;
+  border: none;
+  flex: 1;
+  text-align: center;
+}
 .content h2 + ul {
   padding-top: 0;
 }

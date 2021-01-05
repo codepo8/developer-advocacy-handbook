@@ -9,9 +9,13 @@
 
 const audiolink = document.querySelector('.audio');
 if (audiolink) {
-  const audio = document.querySelector('.audio  audio');
+  const audio = document.querySelector('.audio audio');
   const playbackrate = document.querySelector('.audio input');
   const display = document.querySelector('.audio span');
+  const button = document.querySelector('.audio button');
+  button.addEventListener('click', e => {
+    audio.currentTime = audio.currentTime - 10; 
+  });
   const displayvalue = val => {
     return parseInt(val * 100, 10) + '%'
   }
