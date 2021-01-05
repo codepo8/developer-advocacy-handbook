@@ -2,6 +2,8 @@
 next: travel-and-conference-participation
 nexttitle: Travel and conference participation
 title: Get speaking opportunities - The Developer Advocacy Handbook
+summary: Some tips and tricks how to get invited to become a presenter at conferences.
+heroimage: https://developer-advocacy.com/images/lanyards-smaller.jpg
 ---
 
 # Get speaking opportunities

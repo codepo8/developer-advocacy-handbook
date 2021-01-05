@@ -4,6 +4,17 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }}</title>
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@codepo8">
+  <meta name="twitter:creator" content="@codepo8">
+  <meta name="twitter:title" content="{{ page.title }}>">
+  <meta name="twitter:description" content="{{ page.summary }}">
+  <meta name="twitter:image" content="{{ page.heroimage }}">
+  <meta property="og:url" content="https://developer-advocacy.com/{{ page.url }}" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title"content="{{ page.title }}" />
+  <meta property="og:description" content="{{ page.summary }}" />
+  <meta property="og:image"content="{{ page.heroimage }}" />
   <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📕</text></svg>">
   <link rel="stylesheet" href="/assets/styles.css">
 </head>
