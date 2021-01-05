@@ -39,12 +39,14 @@
       {% if page.audio %}
       <div class="audio">
         <p>Audio version:</p>  
-        <audio src="https://christianheilmann.com/bookmp3/{{ page.audio }}" controls preload="metadata"></audio>
+        <div>
+          <button>≪ 10s</button> 
+          <audio src="https://christianheilmann.com/bookmp3/{{ page.audio }}" controls preload="metadata"></audio>
+        </div>  
         <div>
           <label for="pbrate">Speed:</label>
           <input type="range" id="pbrate" min=.5 max=3 value=1 step=.1>
           <span></span>
-          <button>≪ 10s</button> 
         </div>
       </div>
       {% endif %}

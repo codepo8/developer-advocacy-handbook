@@ -146,6 +146,7 @@ p.buycoffee{
 .audio audio {
   width: 100%;
   display: block;
+  flex: 6;
 }
 .audio div {
   display: flex;
@@ -164,6 +165,7 @@ p.buycoffee{
   text-align: center;
 }
 .audio button {
+  flex: 1;
   font-family: inherit;
   background: transparent;
   border: none;
