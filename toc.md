@@ -8,7 +8,7 @@ title: Table of Contents - The Developer Advocacy Handbook
 about
 -->
 
-* [About this handbook](about#about-this-handbook)
+* [About this handbook](about)
   * [About this version](about#about-this-version)
   * [About the author](about#about-the-author)
 
@@ -16,7 +16,7 @@ about
 what-is-developer-advocacy
 -->
 
-* [What is Developer Advocacy / Evangelism?](what-is-developer-advocacy#what-is-developer-advocacy-evangelism)
+* [What is Developer Advocacy / Evangelism?](what-is-developer-advocacy)
   * [Defining Developer Advocacy](what-is-developer-advocacy#defining-developer-advocacy)
   * [Start with the right mindset](what-is-developer-advocacy#start-with-the-right-mindset)
   * [Find your role and play to your strengths](what-is-developer-advocacy#find-your-role-and-play-to-your-strengths)
@@ -25,7 +25,7 @@ what-is-developer-advocacy
 working-with-your-company
 -->
 
-* [Work with your own company](working-with-your-company#work-with-your-own-company)
+* [Work with your own company](working-with-your-company)
   * [Prepare for prejudice](working-with-your-company#prepare-for-prejudice)
   * [Deal with company changes](working-with-your-company#deal-with-company-changes)
   * [Be there for internal developers](working-with-your-company#be-there-for-internal-developers)
@@ -40,7 +40,7 @@ working-with-your-company
 working-with-your-competition 
 -->
 
-* [Working with your competition](working-with-your-competition#working-with-your-competition)
+* [Working with your competition](working-with-your-competition)
   * [Work with the competition](working-with-your-competition#work-with-the-competition)
   * [Show respect to the competition](working-with-your-competition#show-respect-to-the-competition)
   * [Acknowledge when the competition is better](working-with-your-competition#acknowledge-when-the-competition-is-better)
@@ -51,7 +51,7 @@ working-with-your-competition
 prepare-for-outreach 
 -->
 
-* [Prepare for outreach](prepare-for-outreach#prepare-for-outreach)
+* [Prepare for outreach](prepare-for-outreach)
   * [Get your facts right](prepare-for-outreach#get-your-facts-right)
   * [Know the audience and their needs](prepare-for-outreach#know-the-audience-and-their-needs)
   * [Have expert backup](prepare-for-outreach#have-expert-backup)
@@ -62,7 +62,7 @@ prepare-for-outreach
 get-speaking-opportunities
 -->
 
-* [Get speaking opportunities](get-speaking-opportunities#get-speaking-opportunities)
+* [Get speaking opportunities](get-speaking-opportunities)
   * [Take part in podcasts](get-speaking-opportunities#take-part-in-podcasts)
   * [Take part in panels](get-speaking-opportunities#take-part-in-panels)
   * [Go to Grass Roots events](get-speaking-opportunities#go-to-grass-roots-events)
@@ -76,7 +76,7 @@ get-speaking-opportunities
 travel-and-conference-participation
 -->
 
-* [Travel and conference participation](travel-and-conference-participation#travel-and-conference-participation)
+* [Travel and conference participation](travel-and-conference-participation)
   * [Getting your travel and accommodation sorted](travel-and-conference-participation#getting-your-travel-and-accommodation-sorted)
   * [Who pays what?](travel-and-conference-participation#who-pays-what)
   * [Be at the event](travel-and-conference-participation#be-at-the-event)
@@ -92,7 +92,7 @@ travel-and-conference-participation
 deliver-a-talk
 -->
 
-* [Deliver a talk or workshop](deliver-a-talk#deliver-a-talk-or-workshop)
+* [Deliver a talk or workshop](deliver-a-talk)
   * [Be yourself](deliver-a-talk#be-yourself)
   * [Invite communication](deliver-a-talk#invite-communication)
   * [Prepare takeaways](deliver-a-talk#prepare-takeaways)
@@ -104,7 +104,7 @@ deliver-a-talk
 talk-delivery-tips
 -->
 
-* [Delivering presentations tips: timekeeping and more](talk-delivery-tips#delivering-presentations-tips-timekeeping-and-more)
+* [Delivering presentations tips: timekeeping and more](talk-delivery-tips)
   * [How will I fit all of this in X minutes?](talk-delivery-tips#how-will-i-fit-all-of-this-in-x-minutes)
   * [Less is more](talk-delivery-tips#less-is-more)
   * [Your talk is only extremely important to you](talk-delivery-tips#your-talk-is-only-extremely-important-to-you)
@@ -119,7 +119,7 @@ talk-delivery-tips
 things-not-to-say-on-stage
 -->
   
-* [Things not to say on stage -- and what to do instead](things-not-to-say-on-stage#things-not-to-say-on-stage-and-what-to-do-instead)
+* [Things not to say on stage -- and what to do instead](things-not-to-say-on-stage)
   * ["This is easy..."](things-not-to-say-on-stage#this-is-easy)
   * ["I'll repeat quickly, for the few of you who don't know..."](things-not-to-say-on-stage#ill-repeat-quickly-for-the-few-of-you-who-dont-know)
   * ["Everybody can do that..."](things-not-to-say-on-stage#everybody-can-do-that)
@@ -135,7 +135,7 @@ things-not-to-say-on-stage
 write-great-posts-and-articles
 -->
 
-* [Write great posts and articles](write-great-posts-and-articles#write-great-posts-and-articles)
+* [Write great posts and articles](write-great-posts-and-articles)
   * [Simple is not stupid](write-great-posts-and-articles#simple-is-not-stupid)
   * [Say what it is - don't sugar-coat it](write-great-posts-and-articles#say-what-it-is---dont-sugar-coat-it)
   * [Size matters](write-great-posts-and-articles#size-matters)
@@ -150,7 +150,7 @@ write-great-posts-and-articles
 write-excellent-code-examples
 -->
 
-* [Write excellent code examples](write-excellent-code-examples#write-excellent-code-examples)
+* [Write excellent code examples](write-excellent-code-examples)
   * [Solve a problem with your example](write-excellent-code-examples#solve-a-problem-with-your-example)
   * [Show a working example](write-excellent-code-examples#show-a-working-example)
   * [Explain the necessary environment](write-excellent-code-examples#explain-the-necessary-environment)
