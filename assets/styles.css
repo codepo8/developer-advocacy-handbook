@@ -169,6 +169,8 @@ p.buycoffee{
   border: none;
   flex: 1;
   text-align: center;
+  color: var(--text);
+  font-size: 0.9em;
 }
 .content h2 + ul {
   padding-top: 0;
