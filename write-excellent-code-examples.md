@@ -1,7 +1,9 @@
 ---
-# next: slide-decks
+# next: prepare-slide-decks
 # nexttitle: Prepare great slide decks for presentations
 title: Write excellent code examples - The Developer Advocacy Handbook
+summary: Some tips and tricks how to write code examples that educate and entertain.
+heroimage: https://developer-advocacy.com/images/back-to-basics.png
 ---
 # Write excellent code examples
 

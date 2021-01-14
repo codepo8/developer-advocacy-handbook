@@ -166,7 +166,7 @@ write-excellent-code-examples
     * [Live coding environments](write-excellent-code-examples#live-coding-environments)
 
 <!-- 
-slide-decks
+prepare-slide-decks
 -->
 
 * [Prepare great slide decks for presentations](#prepare-great-slide-decks-for-presentations)
@@ -175,23 +175,28 @@ slide-decks
   * [Start with a highly portable Format - Text](#start-with-a-highly-portable-format---text)
   * [Quick Presentation creation tip: unpacking bullets](#quick-presentation-creation-tip-unpacking-bullets)
   * [Pick a presentation tool that helps you present](#pick-a-presentation-tool-that-helps-you-present)
-  * [Illustrate, don\'t transcribe](#illustrate-dont-transcribe)
-  * [Use and find images](#use-and-find-images)
-  * [About code examples](#about-code-examples)
-  * [Sound and videos](#sound-and-videos)
-  * [Don\'t bling it up](#dont-bling-it-up)
-  * [Keep it brief](#keep-it-brief)
-  * [Consider the audience](#consider-the-audience)
-  * [Corporate and conference templates](#corporate-and-conference-templates)
-  * [Don\'t reuse without personalising](#dont-reuse-without-personalising)
-  * [Share and enjoy](#share-and-enjoy)
-  * [Additional presentation tips](#additional-presentation-tips)
-    * [Introduce yourself](#introduce-yourself)
-    * [Use humour](#use-humour)
-    * [Build bridges to the real world](#build-bridges-to-the-real-world)
-    * [Pace yourself](#pace-yourself)
-    * [Avoid "Hello World"](#avoid-hello-world)
-    * [Be fresh](#be-fresh)
+
+<!-- 
+create-slide-decks
+-->
+
+* [Illustrate, don\'t transcribe](#illustrate-dont-transcribe)
+* [Use and find images](#use-and-find-images)
+* [About code examples](#about-code-examples)
+* [Sound and videos](#sound-and-videos)
+* [Don\'t bling it up](#dont-bling-it-up)
+* [Keep it brief](#keep-it-brief)
+* [Consider the audience](#consider-the-audience)
+* [Corporate and conference templates](#corporate-and-conference-templates)
+* [Don\'t reuse without personalising](#dont-reuse-without-personalising)
+* [Share and enjoy](#share-and-enjoy)
+* [Additional presentation tips](#additional-presentation-tips)
+  * [Introduce yourself](#introduce-yourself)
+  * [Use humour](#use-humour)
+  * [Build bridges to the real world](#build-bridges-to-the-real-world)
+  * [Pace yourself](#pace-yourself)
+  * [Avoid "Hello World"](#avoid-hello-world)
+  * [Be fresh](#be-fresh)
 
 <!-- 
     slide-checklist.md

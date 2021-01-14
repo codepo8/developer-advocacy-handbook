@@ -1,6 +1,6 @@
 ---
-next: record
-nexttitle: Keep a record of your work
+# next: record
+# nexttitle: Keep a record of your work
 title: A checklist for more inclusive, accessible and understandable talks
  -  The Developer Advocacy Handbook
 ---
