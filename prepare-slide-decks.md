@@ -3,12 +3,12 @@ next: create-slide-decks
 nexttitle: Create great slide decks for presentations
 title: Prepare great slide decks for presentations -  The Developer Advocacy Handbook
 summary: Some tips and tricks what to prepare for before writing your slide decks.
-heroimage: https://developer-advocacy.com/images/lanyards-smaller.jpg
+heroimage: https://developer-advocacy.com/images/preparation.jpg
 ---
 
 # Prepare great slide decks for presentations
 
-![Sitting on a plane with just enough legroom](images/slide-example.png){:height="900" width="1600"}
+![Getting ready to work out at home - weights, mat and shoes](images/preparation.jpg){:height="626" width="1500"}
 
 **Slides are a tricky thing to get right**. The main problem with them
 is that as a developer advocate you predominantly have a technical

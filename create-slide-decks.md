@@ -2,7 +2,10 @@
 next: slide-checklist
 nexttitle: A checklist for your slides
 title: Create great slide decks for presentations -  The Developer Advocacy Handbook
+summary: Lots of tips and tricks on creating great slide decks.
+heroimage: https://developer-advocacy.com/images/slide-example.png
 ---
+
 # Create great slide decks for presentations
 
 ![Slide example](images/slide-example.png){:height="900" width="1600"}
@@ -23,23 +26,24 @@ what you are on about at this point in your talk.
 Human communication is to a large part body language and you standing
 there and reading from your slide deck or --even worse-- turning away
 from your audience to see what happens on the big screen is
-communication suicide.
+a communication disaster.
 
 In addition to that it means that you cannot concentrate on the
 audience. Checking the audience and their body language is a large part
-of giving a good presentation. **It is not about you celebrating
-yourself and giving a show but about you bringing information to the
-audience in an engaging and interesting way**. You can only do that when
-you can see the effect you have -- not when you have to read what you
-want to say.
+of giving a good presentation. 
+
+> **Fact:** Presenting is not about you celebrating yourself and performing a show but about you bringing information to the audience in an engaging and interesting way.
+
+You can only do that when you can see the effect you have -- not when you 
+have to read what you want to say.
 
 Thus you need to find a single sentence or even a word, a picture, a
 screenshot, some graph or some illustration that explains and
 accentuates what you want to talk about in this segment of your
-presentation. That way you don\'t overwhelm the audience with things to
-read and look at but you enable them to concentrate on you and you
-enable yourself to be free in your delivery and -- if needed -- alter
-your delivery style to stop the audience from nodding off or leaving.
+presentation. You don\'t overwhelm the audience with things to
+read and look at but enable them to concentrate on you. You free yourself 
+in your delivery and -- if needed -- alter your delivery style to stop 
+the audience from nodding off or leaving.
 
 Let\'s have a quick example from a long time ago. The following
 information is what I had [in my
@@ -85,7 +89,7 @@ the web can become a relatively short-lived experience. A lot of these
 services are now defunct whilst my blog still loves on. One important
 bit to remember when it comes to your presence on the web is to always
 keep a local copy of your content you could import into a new service in
-the future. Also, if any service you use doesn't get you options to
+the future. Also, if any service you use doesn't give you options to
 export your own data, that's a warning sign.
 
 ## Use and find images
@@ -114,7 +118,7 @@ pretty you got colours and typography.
 resources that offer free to use imagery and frankly most phones have
 good enough cameras that you could take the photo yourself. Don't get
 beat up on having to have the perfect shot when a good enough one does
-the trick. Again, slides are there to aid your presentation. They are
+the trick. Slides are there to aid your presentation. They are
 wallpaper to your performance.
 
 > **Example:** Say for example you want the photo of a lock, [check this
@@ -137,16 +141,16 @@ resources that ripped of artists. You want to get paid for your work,
 too. So make sure that where you found the image is also where it
 originated.
 
-**Screenshots are amazingly powerful**. Instead of just pointing out a
+**Screenshots are amazingly powerful**. Instead of pointing out a
 resource on the web your audience can check later, make a screenshot of
 the web site and overlay the URL on the slide. That way people have a
 visual idea of what the resource looks like and get a much stronger \"Oh
 I remember this\" moment when they visit it. The same applies to
-interfaces of systems - if you show and explain you reach more people
+interfaces of systems -- if you show and explain you reach more people
 than when you just explain.
 
 > **Tip:** Most operating systems have a built-in editor to add
-annotations to an image like arrows, highlighting parts of them or add
+annotations to an image like arrows, highlight parts of them or add
 some text. Make sure to repeat these additions in the alternative
 description, too.
 
@@ -174,25 +178,23 @@ font size a bit and then take screenshots. This has a few benefits:
 * **I have the right font and code layout** and none of the \"magic quotes\" annoyances.
 * **I maintain the code in one spot** and a code change means simply having to create another screen shot.
 
-Provide live demos and downloadable source packages of your code as
-explained in the "[Write excellent code examples](write-excellent-code-examples)" chapter and everybody
-wins.
+Provide live demos and downloadable source packages of your code as explained in the "[Write excellent code examples](write-excellent-code-examples)" chapter and everybody wins.
 
 ## Sound and videos
 
 Sound and video are powerful tools for training and illustrating. For
 example I found that a two minute screencast of some system makes it
-much easier for people to find their way into a system than lots of
-clever copy (which you\'d need anyways cause not everybody can see and
-hear video). In presentations, however, I find it more distracting and
+much easier for people to find their way into it than lots of
+clever text. You need text anyways cause not everybody can see and
+hear video. In presentations, however, I find it more distracting and
 anything else. Yes, it enriches your slides and teleports you into the
 post 1990 presentation league, but let\'s face it -- it is also terribly
-interupting.
+interrupting.
 
 As a presenter you normally want to be the person listened to. You also
 can use your body language to emphasize the message you want to give.
 From time to time you point out information on your slides but you bring
-back people to your narration. If you use music or video in a
+people back to your narration. If you use music or video in a
 presentation you create a pause as all the senses of the audience are
 busy following what is going on on the screen. It also creates some time
 in your presentation where you are part of the audience as you turn and
@@ -203,7 +205,7 @@ Given the disruptive nature of multimedia elements I try to avoid them
 whenever I can. They look cool but you\'ll find soon that they are more
 hassle than they are worth. For example:
 
-* You expect the AV equipment of the location you give your talk to be able to show video and have audio for you and your computer (good luck with that one).
+* You expect the AV equipment to be able to show video and have audio for you and your computer (good luck with that one).
 * You expect the projector to be able to show video.
 * You make your slide deck impossible to distribute unless you turn it into a video.
 * You lose the rhythm of your talk, in essence you create a break that you need to pull people out of again.
@@ -217,7 +219,7 @@ happens in the video and how it is relevant to what we are talking
 about. And people who can\'t see videos still have an idea what is going
 on here.
 
-Tip: An exception here are screencasts, which I am a big fan of. Instead
+> **Tip:** An exception here are screencasts, which I am a big fan of. Instead
 of clicking around an interface and entering live data it makes sense to
 record a screencast and then talk over it. The distribution problem
 still happens, but I found a lot less conference set-ups having an issue
@@ -225,14 +227,10 @@ with soundless video than with real "movies" that need sound.
 
 > **Example:** another exception to my rule is when you want to provoke a
 very emotional response and make people understand something beyond
-their own experience that is very human. One example is that when I talk
-about the (now defunct as YouTube is good at it) accessible version of
-YouTube I created a long time ago. Rather than me explaining what effect
-these changes to the interface had it is more powerful to show [how
-Lizzie, a user with learning
-disabilities](http://www.youtube.com/watch?v=CwsDKaalgq8) and [Kirin, a
-blind user](http://www.youtube.com/watch?v=QiuT0y0KR6I) can now enjoy
-online video. Especially Kirin\'s end sentence \"The thing is the power
+their own experience that is very human. One example is that when I talked
+about the accessible version of YouTube I created a long time ago. 
+Rather than me explaining what effect these changes to the interface had 
+it was more powerful to show [how Lizzie, a user with learning disabilities](http://www.youtube.com/watch?v=CwsDKaalgq8) and [Kirin, a blind user](http://www.youtube.com/watch?v=QiuT0y0KR6I) were able to enjoy online video. Especially Kirin\'s end sentence \"The thing is the power
 ... this has given me the power that it should give me in the
 beginning.\" is a wonderful emotional moment to get you back into your
 talk.
@@ -247,7 +245,7 @@ transitions and effects.
 ## Don\'t bling it up
 
 A lot of presenters are happy to use every transition and animation the
-presentation software comes with but that doesn\'t make it better --
+presentation software comes with. But that doesn\'t make it better --
 especially when they look bad on a slow computer. Animation rhymes with
 moderation and this is what you should always keep in mind. You want to
 make a point with your presentation and not overload the audience with
@@ -263,7 +261,7 @@ parts overlaid or to focus on one part of an interface.
 
 Used correctly, animation can be a very powerful tool to make a step by
 step process more obvious. If you are not skilled in usability and
-design though it will most likely appear tacked on and, yes, tacky as
+design though it will most likely appear tacked on and, yes, tacky, as
 animation has been traditionally used to spice up very boring
 presentations.
 
@@ -279,11 +277,6 @@ a video service of the university which meant the streaming server had
 to remotely connect into my laptop. As everything is wonky over VPN
 neither the animations nor the transitions worked.
 
-One thing you can do is use overly outrageous animation in an ironic
-manner to show how annoying they can be. I\'ve done that before when
-talking about accessibility or over-using JavaScript libraries. Only to
-be used in countries that understand irony though.
-
 ## Keep it brief
 
 **Keep your talks brief and if possible cover one topic**. If you need
@@ -298,25 +291,23 @@ As mentioned earlier, your slides should contain only what is necessary
 and not more. There is no point in reading from your slides as that
 would make you a member of the audience and you have a race who can read
 it faster. I tend to have either only a theme per slide or one sentence
-(depending on the audience, which is the next section in this chapter)
 and I try to avoid bullet-lists at all costs -- especially nested ones.
 These are old school presentation style and conjure up unpleasant
 memories of having to sit through two days of boring training sessions.
 
 As mentioned earlier, an agenda up front can be a good idea if you cover
 a lot of things but it also allows the audience to pick their faves and
-shut down in between which probably means they miss important parts of
+shut down in between. This probably means they miss important parts of
 your talk. If you do a good job as a presenter the amount of slides is
 not a problem and neither is at which stage of the overall talk you are.
 People will be lead through it without realising it. The overall amount
 of slides is only limited by your ability to go through them quickly. My
-rough estimate is a slide (which is one topic) a minute but I am also a
-very fast speaker.
+rough estimate is a slide a minute but I am also a very fast speaker.
 
 ## Consider the audience
 
 One instance where I break my own rules of brevity is when the audience
-consists of people who do not speak English natively and might have a
+consists of people who do not speak my language natively and might have a
 harder time keeping up with my pace and accent. When dealing with an
 audience like this, having a simple sentence per slide or even some
 bullet points and repeating them has quite an impact.
@@ -326,7 +317,7 @@ bullet points and repeating them has quite an impact.
 * **You allow for better translation** in case you get transcribed afterwards or have live translation at the conference.
 
 In these scenarios I also tend to keep my slides much more technical.
-Code is international and people can even repeat it easily and write
+Code is international and people can repeat it and write
 essays about it in their own languages.
 
 Another thing to remember when giving presentations in different
@@ -338,13 +329,14 @@ excited about.
 about the [Swedish Chef from the Muppet Show (here in my favourite
 sketch of all time -- \"Chocolate
 Moose\")](http://www.youtube.com/watch?v=CAsYwW7pt7o). Nobody got it as
-the chef is not called Swedish in the Swedish version of the show. I
+the chef is obviously not called Swedish in the Swedish version of the show. I
 also added a \"have a break, have a Kit-Kat\" joke in there, and this
-was another ad only aired in the UK (I only knew it from \"world\'s
-funniest TV ads\" on German TV).
+was another ad only aired in the UK. I only knew it from \"world\'s
+funniest TV ads\" on German TV. Either reference landed like a lead balloon 
+and didn't add to the talk at all.
 
 As stated at the beginning, a lot of the tips here are for creating
-presentations for developer crowds. If you speak mostly to designers or
+presentations for developer crowds. If you speak mostly to designers, PMs or
 management, other tactics have to be applied. All in all it is a good
 idea to question the classic way of presenting and slide design though.
 
@@ -353,9 +345,8 @@ idea to question the classic way of presenting and slide design though.
 During your job as a developer advocate you will be asked to use
 conference or corporate slide templates. Try to avoid doing that. The
 reason is that these templates are almost all the time targeted to the
-classic presentation style of one heading and 20 nested bullet points
-followed by a copyright line nobody cares about and other legalese
-things.
+classic presentation style of one heading and dozens of nested bullet points
+followed by a copyright line nobody cares about and other legalese.
 
 The reason is that using a corporate or conference template is good for
 the conference and the company but distracts you as a presenter -- it is
@@ -402,15 +393,8 @@ are treading on very thin ice. It is you on the line as the speaker and
 the success of your talk stands and falls with how you come across. If
 you can\'t be you, then don\'t do it.
 
-> **Example:** This happened to me when Yahoo came out with the open
-strategy and our chief technologist couldn\'t come over for the Future
-of Web Apps London. Here [are the slides where I refer to Neil\'s
-slides](http://www.slideshare.net/cheilmann/opening-up-yahoo-to-users-and-developers-presentation/4).
-As you can see, there was no way I can present his deck as our styles
-are totally different.
-
 That said, nothing stops you from using the information on the slide
-deck and translate it to your \"language\". Instead of flat out refusing
+deck and translating it to your \"language\". Instead of flat out refusing
 to use the deck say that you are happy to take over and use the
 information but that you want to have a chat and information hand-over
 from the original author. Every speaker has extra information that makes
@@ -433,10 +417,10 @@ your information doesn\'t become stale.
 Once you\'re done with your slides and you are happy with them don\'t
 forget that sharing is caring.
 
-This could happen internally and/or externally. Sharing your decks in
+This could happen internally and externally. Sharing your decks in
 the company in a remix-able format is a great way to inform your company
-of your work and also allows people to re-use your approach to
-explaining different products. It is also a great training material for
+of your work and allows people to re-use your approach to
+explaining different products. It is great training material for
 other people in the company who are interested in presenting more or
 plan to become developer advocates themselves.
 
@@ -473,11 +457,12 @@ put in things that people just don't expect -- to keep both me and them
 on the ball. Humour also makes things more approachable. We tend to use
 humour to deal with things that scare us. Furthermore humour allows for
 a memorable moment -- it is a way of structuring and providing landmarks
-in your presentation. That said, be careful though. Edgy humour may work
-for stand-up comedians, but quoting their material can get you in big
-trouble. If you use humour, make sure you don't offend people. What you
-sometimes see as a funny way to describe something can be immensely
-offensive to people who suffer from a certain disorder or had terrible
+in your presentation. That said, be careful though. 
+
+Edgy humour may work for stand-up comedians, but quoting their material 
+can get you in big trouble. If you use humour, make sure you don't offend 
+people. What you sometimes see as a funny way to describe something can be 
+immensely offensive to people who suffer from a certain disorder or had terrible
 experiences. The best way is to ask a few people not like you what they
 think of the joke and if it adds some levity or fun. Also remember that
 not all humour translates to other cultures and languages.
@@ -485,13 +470,12 @@ not all humour translates to other cultures and languages.
 ### Build bridges to the real world
 
 I like to bring up real world examples and comparisons. The rationale is
-that they make very theoretical and hard to grasp data more easy to
+that they make theoretical and hard to grasp data more easy to
 consume for humans. Real world comparisons also allow for emotion -- and
-emotional responses are very powerful and make us remember.
+emotional responses are powerful and make us remember.
 
 > **Example:** If you for example talk about code standards and re-use of
-code without a proper review a good case to mention is [the Ariane 5
-disaster](http://en.wikipedia.org/wiki/Ariane_5_Flight_501). This rocket
+code without a proper review a good case to mention is [the Ariane 5 disaster](http://en.wikipedia.org/wiki/Ariane_5_Flight_501). This rocket
 self-destructed because it veered off its intended path 37 seconds after
 lift-off. The reason was re-use of the code used to launch Ariane 4,
 which had different flight specs. 370 million dollars were lost due to
@@ -506,7 +490,7 @@ concentrate on pronouncing things thoroughly. **Pauses are good**. They
 allow listeners to take information in and digest it in the way they
 know best.
 
-Tip: This is of utmost importance when your talk is being live
+> **Tip:** This is of utmost importance when your talk is being live
 transcribed, or translated into other languages or sign language. In
 this case it is also important to have a list of special terms that
 should not get translated as a handout for the translators.
@@ -526,7 +510,7 @@ It is much better to have a real production example to build upon:
 * "Here's what we used to deliver this job"
 * "\... and here is how you can do it yourself!"
 
-Build on top of what people are asked to do, not what you expect them to
+Write for what people are asked to do, not what you expect them to
 do for you.
 
 ### Be fresh
@@ -537,5 +521,5 @@ Check what is hot at the moment, research it and add it to the talk.
 That way you show that your content is not only good but also relevant
 at this moment in time. It also means for seasoned conference attendees
 that you don\'t bore them with something you told them before. Seasoned
-conference attendees are also adamant bloggers and Twitter users - so
+conference attendees are also adamant bloggers and Twitter users -- so
 this can only be a good thing.

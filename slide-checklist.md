@@ -1,9 +1,11 @@
 ---
 # next: record
 # nexttitle: Keep a record of your work
-title: A checklist for more inclusive, accessible and understandable talks
- -  The Developer Advocacy Handbook
+title: A checklist for more inclusive, accessible and understandable talks -  The Developer Advocacy Handbook
+summary: Use this checklist to make sure that your slides work, are easy to grasp and don't offend anyone.
+heroimage: https://developer-advocacy.com/images/slide-checklist.jpg
 ---
+
 # A checklist for more inclusive, accessible and understandable talks
 
 This is a checklist for presenters to ensure that their talk materials
