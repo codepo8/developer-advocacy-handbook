@@ -179,25 +179,24 @@ prepare-slide-decks
 <!-- 
 create-slide-decks
 -->
-
 * [Illustrate, don\'t transcribe](create-slide-decks)
-* [Use and find images](create-slide-decks#use-and-find-images)
-* [About code examples](create-slide-decks#about-code-examples)
-* [Sound and videos](create-slide-decks#sound-and-videos)
-* [Don\'t bling it up](create-slide-decks#dont-bling-it-up)
-* [Keep it brief](create-slide-decks#keep-it-brief)
-* [Consider the audience](create-slide-decks#consider-the-audience)
-* [Corporate and conference templates](create-slide-decks#corporate-and-conference-templates)
-* [Don\'t reuse without personalising](create-slide-decks#dont-reuse-without-personalising)
-* [Share and enjoy](create-slide-decks#share-and-enjoy)
-* [Additional presentation tips](create-slide-decks#additional-presentation-tips)
-  * [Introduce yourself](create-slide-decks#introduce-yourself)
-  * [Use humour](create-slide-decks#use-humour)
-  * [Build bridges to the real world](create-slide-decks#build-bridges-to-the-real-world)
-  * [Pace yourself](create-slide-decks#pace-yourself)
-  * [Avoid "Hello World"](create-slide-decks#avoid-hello-world)
-  * [Be fresh](create-slide-decks#be-fresh)
-
+  * [Use and find images](create-slide-decks#use-and-find-images)
+  * [About code examples](create-slide-decks#about-code-examples)
+  * [Sound and videos](create-slide-decks#sound-and-videos)
+  * [Don\'t bling it up](create-slide-decks#dont-bling-it-up)
+  * [Keep it brief](create-slide-decks#keep-it-brief)
+  * [Consider the audience](create-slide-decks#consider-the-audience)
+  * [Corporate and conference templates](create-slide-decks#corporate-and-conference-templates)
+  * [Don\'t reuse without personalising](create-slide-decks#dont-reuse-without-personalising)
+  * [Share and enjoy](create-slide-decks#share-and-enjoy)
+  * [Additional presentation tips](create-slide-decks#additional-presentation-tips)
+    * [Introduce yourself](create-slide-decks#introduce-yourself)
+    * [Use humour](create-slide-decks#use-humour)
+    * [Build bridges to the real world](create-slide-decks#build-bridges-to-the-real-world)
+    * [Pace yourself](create-slide-decks#pace-yourself)
+    * [Avoid "Hello World"](create-slide-decks#avoid-hello-world)
+    * [Be fresh](create-slide-decks#be-fresh)
+    
 <!-- 
 slide-checklist
 -->
