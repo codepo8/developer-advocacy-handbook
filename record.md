@@ -2,8 +2,13 @@
 next: use-the-web
 nexttitle: Know and use the web
 title: Keep a record of your work -  The Developer Advocacy Handbook
+summary: Learn about simple ways to record yourself to get better over time
+heroimage: https://developer-advocacy.com/images/filing.jpg
 ---
 # Keep a record of your work
+
+![A filing folder](images/filing.jpg){:width="800" height="403"}
+[Photo by Takashi Toyooka](https://www.flickr.com/photos/takashi/18862634/)
 
 Most conferences will shoot a video or recording of your presentations
 and it is important for you to watch your talks afterwards. Seeing
@@ -81,8 +86,7 @@ later on -- simply get the link collection with the presentation tag.
 
 The other benefit of this is that people can tag and add notes to your
 links in the social bookmarking system, thus making them even more
-findable. Which brings us to a very important part of your job as a
-developer advocate: using and knowing the web and the social web.
+findable. 
 
 ## Keep a conference participation list
 
@@ -99,7 +103,7 @@ reviews come around.
 
 Having a list of upcoming talks also helps people who are in the same
 location of the event to contact you. I've had quite a few interesting
-brownbag offers by hard-to-access customers as they knew I'd be around
+brown-bag offers by hard-to-access customers as they knew I'd be around
 their town and they didn't have the budget to send all their developers
 to the event.
 

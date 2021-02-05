@@ -225,16 +225,16 @@ use-the-web
 -->
 
 * [Know and use the (social) web](#know-and-use-the-social-web)
-  * [Find great web content](#find-great-web-content)
-  * [Redistribute web content](#redistribute-web-content)
-  * [Be known on the web](#be-known-on-the-web)
-  * [Use powerful social web sites and products](#use-powerful-social-web-sites-and-products)
-  * [Use the web for storage, distribution and cross-promotion](#use-the-web-for-storage-distribution-and-cross-promotion)
-  * [Hint, tease and preview](#hint-tease-and-preview)
-  * [Track your impact](#track-your-impact)
-  * [Build a network](#build-a-network)
-  * [Create or take part in a newsletter](#create-or-take-part-in-a-newsletter)
-  * [Create or take part in a podcast](#create-or-take-part-in-a-podcast)
+  * [Find great web content](use-the-web#find-great-web-content)
+  * [Redistribute web content](use-the-web#redistribute-web-content)
+  * [Be known on the web](use-the-web#be-known-on-the-web)
+  * [Use powerful social web sites and products](use-the-web#use-powerful-social-web-sites-and-products)
+  * [Use the web for storage, distribution and cross-promotion](use-the-web#use-the-web-for-storage-distribution-and-cross-promotion)
+  * [Hint, tease and preview](use-the-web#hint-tease-and-preview)
+  * [Track your impact](use-the-web#track-your-impact)
+  * [Build a network](use-the-web#build-a-network)
+  * [Create or take part in a newsletter](use-the-web#create-or-take-part-in-a-newsletter)
+  * [Create or take part in a podcast](use-the-web#create-or-take-part-in-a-podcast)
 
 <!-- 
 working-from-your-own-computer

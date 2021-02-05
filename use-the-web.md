@@ -1,7 +1,9 @@
 ---
-next: working-from-your-own-computer
-nexttitle: Working from your own computer
+# next: working-from-your-own-computer
+# nexttitle: Working from your own computer
 title: Know and use the (social) web -  The Developer Advocacy Handbook
+summary: A quick overview how to use social media as a developer advocate
+heroimage: https://developer-advocacy.com/images/checking-twitter.jpg
 ---
 
 # Know and use the (social) web
@@ -20,10 +22,10 @@ Social media had a meteoric rise in the last few years and took over a
 lot of our time. A lot of money is being made by giving "social media
 consulting" and "growth hacking" trainings and it is tempting to use the
 same tricks that are reminiscent of "search engine optimisation" back in
-the days. While the tricks told in most of these will give you instant
+the days. While the tricks taught in most of these will give you instant
 success, this success will also fizz out faster than you can say "hype".
 
-Be aware of that -- your job is to use the web as a communication and
+> **Warning:** Be aware of that -- your job is to use the web as a communication and
 distribution channel -- not to make a mint in a week selling snake oil.
 This would kill your reputation and as stated before your reputation,
 integrity and honesty is what makes you a developer advocate. Losing
@@ -35,10 +37,10 @@ idea of developer advocacy a bad name.
 
 As the web is where you want to publish, you also need to be interested
 in it and find great things to tell people about. As explained in the
-Brand and Competition chapter of this handbook you cannot exclusively
+[Brand and Competition chapter](working-with-your-competition) of this handbook you cannot exclusively
 talk about your products.
 
-Tip: the most time-efficient way to find content is to use a news
+> **Tip:** the most time-efficient way to find content is to use a news
 reader. With the demise of Google Reader I switched to Feedly and whilst
 RSS as a news source seems to be an anachronism I still find a lot of
 good information with it without the noise of other, more in-the-moment
@@ -51,7 +53,7 @@ re-distribute it.
 
 ## Redistribute web content
 
-Once you found great content, re-distribute it. The reason is that you
+Once you found great content -- re-distribute it. The reason is that you
 have a different network than other people have and you should never
 assume that people already know about the things you find. It also makes
 sense to add more information to a link and tell people what it is about
@@ -67,8 +69,7 @@ You can re-distribute web content in several ways:
 * You can **tweet** about it.
 * You can mention it in one of your videos or tutorials. For example you can show an implementation and point to a resource for in-depth information on one of the things you use as a step.
 
-In any case, the most important thing is that you **attribute the
-content to the original creator** by name and resource. The reason is
+In any case, the most important thing is that you **attribute the content to the original creator** by name and resource. The reason is
 simple: publishers track what people do with their content, so if you
 blog about a subject, your blog will show up on their radar. The same
 works for re-tweeting. In other words, you get known to them which could
@@ -82,7 +83,7 @@ be a stranger on the web either.
 
 Sign up to mailing lists, post on forums, use Twitter, poke around all
 kind of channels, leave comments on interesting news articles of tech
-magazines and online magazines - simply don\'t be shy to give your point
+magazines and online magazines -- simply don\'t be shy to give your point
 of view or real advice whenever you can. Sometimes this can be as simple
 as saying what you like about a certain piece of information. We don't
 give enough praise online, and it does feel good to get it.
@@ -91,16 +92,16 @@ Be aware of new and upcoming networks and social apps and sign up for
 them as soon as you get the chance.
 
 Being visible is especially important when you work for a large company.
-Tech news portals love to bring news about big companies - especially
+Tech news portals love to bring news about big companies -- especially
 bad news. It is also stunning how many times these news items contain
-distorted if not outright wrong information.
+distorted if not outright false information.
 
 As the marketing and PR departments of your company are most likely not
 aware of these tech publications and hardly ever would step in to
 rectify the mistakes this is a good chance for you to act. Stick to
-technical, real information and show proof of your points. Of course
-some commenters will side with the misinformation as it is just cool to
-stick it to the man and fight large organisations but the lesser vocal
+technical, real information and show proof of your points. Some comments will 
+side with the misinformation as it is just cool to
+"stick it to the man" and fight large organisations but the lesser vocal
 majority will at least get the real story straight from the horses\'
 mouth. **Be absolutely sure about your facts if you do that though!**
 
@@ -131,20 +132,19 @@ are a lot of companies being shut down or others emerging in weekly
 cycles. This is OK -- it is an evolution after all. For you as an
 developer advocate this can be an opportunity:
 
-* **Write about new social media products** -- have a play with them, note your first impression.
-
-* **Be on the lookout of new products** -- if you sign up quickly you normally get invite codes (a very common practice in launches) - and having those as one of the first and saying so on Twitter is way cool.
+* **Write about new social media products** -- have a play with them, jot down your first impression.
+* **Be on the lookout of new products** -- if you sign up quickly you normally get invite codes (a very common practice in launches) -- and having those as one of the first and saying so on Twitter is way cool.
 
 In addition to the new kids on the block of the media space, it is
 important for you to be aware of great resources that are already
 established, have a network of specialists and allow you to easily store
 and access content:
 
-* [Flickr](http://flickr.com) used to be a leading photo sharing community that allows you to store photos and screenshots. A lot of tools can talk to it via its API and it comes with a bulk uploader. Flickr is also a great resource for Creative Commons licensed photos for your presentation. Users can leave comments, tag your photos (add keywords to ease finding) and leave notes on the photo itself. It used to be a massive community and a great way to interact with people. It is still around and has high-quality content but for quick fire and forget image posting it's been replaced by the likes of Instagram and imgur quite some time ago.
-* [YouTube](http://youtube.com) is the \#1 video sharing web site in the world, run by Google. It is very easy to store video on YouTube and embed the videos back into your blog or web sites. Users can comment and tag. YouTube also has a great API to use the video and create your own custom players if you want to. The support for annotations and captions helps to create accessible content and allows you to easily add extra information to video content. You can have your own channel and have drafts and timed video releases. You can also go live on YouTube and have your own show. Quite a few people make a living on YouTube these days, so it might be tough to stand out.
+* [Flickr](http://flickr.com) used to be a leading photo sharing community that allows you to store photos and screenshots. Flickr is still a great resource for Creative Commons licensed photos for your presentation. It used to be a massive community and a great way to interact with people. It is still around and has high-quality content but for quick fire and forget image posting it's been replaced by the likes of Instagram and imgur quite some time ago.
+* [YouTube](http://youtube.com) is the \#1 video sharing web site in the world, run by Google. It is very easy to store video on YouTube and embed the videos back into your blog or web sites. Users can comment and tag. The support for annotations and captions helps to create accessible content and allows you to add extra information to video content. You can have your own channel and have drafts and timed video releases. You can also go live on YouTube and have your own show. Quite a few people make a living on YouTube these days, so it might be tough to stand out.
 * [Vimeo](http://vimeo.com) is another video sharing site, which does the same as YouTube but has higher quality content. I found that it works better for higher quality and longer media.
 * [Archive.org](http://archive.org) is the Internet Archive which allows you to easily store videos, audio and pictures that you want to release to the public.
-* [GitHub](http://github.com) is a social code sharing network. Git is a version control system and GitHub allows you to store code there, have a Wiki to explain the information and make it easy for other developers to fork and watch your code. GitHub also comes with a nice code displayer and automatically creates archives of your code for people to download so you don\'t need to zip it up after each change.
+* [GitHub](http://github.com) is a social code sharing network. Git is a version control system and GitHub allows you to store code there, have a Wiki to explain the information and make it easy for other developers to fork and watch your code. GitHub also comes with a nice code display and automatically creates archives of your code for people to download so you don\'t need to zip it up after each change. If you stick to HTML, CSS and JavaScript you can also host your product there next to the source code. The online version of this book is hosted on GitHub.
 * [LinkedIn](http://linkedin.com) is a professional network where you can find other advocates and key people in companies you want to reach.
 * [Facebook](http://facebook.com) I am sure I don\'t have to explain. Good for event organisation and contacting people quickly, less useful for photo storage because of their terms and conditions.
 * [Meetup](http://meetup.com) revolves around real-life meetings and events.
@@ -161,7 +161,7 @@ responsibilities and have different colleagues cover different channels
 
 > **Tip:** I found that every successful social network does not have the
 network as its main core idea but revolves around a thing people get
-emotionally attached to - pictures, videos, travel, music and so on.
+emotionally attached to -- pictures, videos, travel, music and so on.
 Pure networks hardly ever keep the attention of the audience for long.
 
 As with anything, these resources are as useful as you make them. Good
