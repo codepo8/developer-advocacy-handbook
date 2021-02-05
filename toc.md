@@ -179,7 +179,8 @@ prepare-slide-decks
 <!-- 
 create-slide-decks
 -->
-* [Illustrate, don\'t transcribe](create-slide-decks)
+* [Create great slide decks for presentations](create-slide-decks)
+  * [Illustrate, don\'t transcribe](create-slide-decks#illustrate-dont-transcribe)
   * [Use and find images](create-slide-decks#use-and-find-images)
   * [About code examples](create-slide-decks#about-code-examples)
   * [Sound and videos](create-slide-decks#sound-and-videos)
