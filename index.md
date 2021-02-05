@@ -16,11 +16,7 @@ different markets and audiences - and in accordance with your own
 personality - but the main principles are the same for everybody and
 anywhere in the world.
 
-## New version 
-
 This is a new, 2020 version of this 11 year old book and I added quite a few new chapters and removed outdated materials. You can read more about this in the [about section](about).
-
-## Let's get started
 
 Now, why not get right into it? Choose from the [table of contents](toc) or [read the book](what-is-developer-advocacy).
 

@@ -8,7 +8,7 @@ heroimage: https://developer-advocacy.com/images/filing.jpg
 # Keep a record of your work
 
 ![A filing folder](images/filing.jpg){:width="800" height="403"}
-[Photo by Takashi Toyooka](https://www.flickr.com/photos/takashi/18862634/)
+<small>[Photo by Takashi Toyooka](https://www.flickr.com/photos/takashi/18862634/)</small>
 
 Most conferences will shoot a video or recording of your presentations
 and it is important for you to watch your talks afterwards. Seeing

@@ -7,7 +7,6 @@ title: Table of Contents - The Developer Advocacy Handbook
 <!--
 about
 -->
-
 * [About this handbook](about)
   * [About this version](about#about-this-version)
   * [About the author](about#about-the-author)
