@@ -7,7 +7,7 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@codepo8">
   <meta name="twitter:creator" content="@codepo8">
-  <meta name="twitter:title" content="{{ page.title }}>">
+  <meta name="twitter:title" content="{{ page.title }}">
   {% if page.summary %}
   <meta name="twitter:description" content="{{ page.summary }}">
   {% endif %}
@@ -25,6 +25,10 @@
   {% endif %}
   <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📕</text></svg>">
   <link rel="stylesheet" href="/assets/styles.css">
+
+  <link rel="stylesheet" href="light-theme.css" media="prefers-color-scheme: dark" />
+  <link rel="stylesheet" href="dark-theme.css" media="prefers-color-scheme: light" />
+
 </head>
 <body>
   <header>
