@@ -214,17 +214,17 @@ slide-checklist
 record
 -->
 
-* [Keep a record of your work](#keep-a-record-of-your-work)
-  * [Record the audio of your talks](#record-the-audio-of-your-talks)
-  * [Shoot video](#shoot-video)
-  * [Link collections](#link-collections)
-  * [keep a conference participation list](#keep-a-conference-participation-list)
+* [Keep a record of your work](record)
+  * [Record the audio of your talks](record#record-the-audio-of-your-talks)
+  * [Shoot video](record#shoot-video)
+  * [Link collections](record#link-collections)
+  * [keep a conference participation list](record#keep-a-conference-participation-list)
 
 <!--
 use-the-web
 -->
 
-* [Know and use the (social) web](#know-and-use-the-social-web)
+* [Know and use the (social) web](use-the-web)
   * [Find great web content](use-the-web#find-great-web-content)
   * [Redistribute web content](use-the-web#redistribute-web-content)
   * [Be known on the web](use-the-web#be-known-on-the-web)
