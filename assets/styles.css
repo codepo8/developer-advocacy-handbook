@@ -84,8 +84,7 @@ img {
   margin: 1em 0;
 }
 .index img {
-  float: left;
-  width: 20%;
+  max-width: 500px;
 }
 
 a {
