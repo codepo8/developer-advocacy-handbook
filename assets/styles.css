@@ -83,6 +83,11 @@ img {
   height: auto;
   margin: 1em 0;
 }
+.index img {
+  float: left;
+  width: 20%;
+}
+
 a {
   color: var(--link);
 }
