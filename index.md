@@ -2,7 +2,7 @@
 title: The Developer Advocacy Handbook
 next: what-is-developer-advocacy
 nexttitle: What is developer advocacy?
-layout: page
+layout: index
 ---
 
 # The Developer Advocacy Handbook
