@@ -130,7 +130,7 @@ header li a {
 }
 .content ul {
   list-style: square;
-  margin: 0;
+  margin: 0 0 0 .2em;
   padding: 1em;
 }
 p.buycoffee{
@@ -235,7 +235,16 @@ nav ul a {
 }
 h1, h2, h3, h4 {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  letter-spacing: -1px;  
+  letter-spacing: -1px;
+  position: sticky;
+  background: var(--background);
+  padding: .5em 0;
+  top: 0;  
+}
+h1:after, h2:after, h3:after, h4:after {
+  content: '';
+  height: 1em;
+  background: linear-gradient(0deg, transparent, var(--background));
 }
 h1 {
   font-size: 1.3em;
