@@ -241,11 +241,6 @@ h1, h2, h3, h4 {
   padding: .5em 0;
   top: 0;  
 }
-h1:after, h2:after, h3:after, h4:after {
-  content: '';
-  height: 1em;
-  background: linear-gradient(0deg, transparent, var(--background));
-}
 h1 {
   font-size: 1.3em;
   font-weight: normal;
