@@ -6,7 +6,7 @@ audio: The_Developer_Advocacy_Handbook_-_What_is_Developer_Advocacy.mp3
 summary: A quick explanation about Developer Advocacy.
 heroimage: https://developer-advocacy.com/images/cover.jpg
 ---
-# What is Developer Advocacy / Evangelism?
+# What is Developer Advocacy?
 
 ![Chris Heilmann presenting at dotjs 2019 with a slide saying developers are people](images/cover.jpg){:width="1024" height="683"}
 
