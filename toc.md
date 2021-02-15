@@ -239,15 +239,15 @@ use-the-web
 working-from-your-own-computer
 -->
 
-* [Working from your own computer](#working-from-your-own-computer)
-  * [Get a decent setup](#get-a-decent-setup)
-  * [Screencasts and screenshots](#screencasts-and-screenshots)
-  * [Streaming](#streaming)
-  * [Taking part in live online chats](#taking-part-in-live-online-chats)
-  * [Attending live online events](#attending-live-online-events)
-  * [Technical issues to prepare for](#technical-issues-to-prepare-for)
-  * [Design limitations to prepare for](#design-limitations-to-prepare-for)
-  * [Personal issues to prepare for](#personal-issues-to-prepare-for)
+* [Working from your own computer](working-from-your-own-computer)
+  * [Get a decent setup](working-from-your-own-computer#get-a-decent-setup)
+  * [Screencasts and screenshots](working-from-your-own-computer#screencasts-and-screenshots)
+  * [Streaming](working-from-your-own-computer#streaming)
+  * [Taking part in live online chats](working-from-your-own-computer#taking-part-in-live-online-chats)
+  * [Attending live online events](working-from-your-own-computer#attending-live-online-events)
+  * [Technical issues to prepare for](working-from-your-own-computer#technical-issues-to-prepare-for)
+  * [Design limitations to prepare for](working-from-your-own-computer#design-limitations-to-prepare-for)
+  * [Personal issues to prepare for](working-from-your-own-computer#personal-issues-to-prepare-for)
 
 <!-- 
 recording-talks

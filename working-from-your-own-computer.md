@@ -1,7 +1,9 @@
 ---
-next: recording-talks
-nexttitle: Recording your own talks
+#next: recording-talks
+#nexttitle: Recording your own talks
 title: Working from your own computer -  The Developer Advocacy Handbook
+summary: How to set up your computer for recording, streaming and tips how to take part in online video chats
+heroimage: https://developer-advocacy.com/images/recording-setup.jpg
 ---
 # Working from your own computer
 
@@ -13,14 +15,14 @@ show the world what you are working on. The main benefit is that you can
 concentrate on your production value. A lot of the randomness and
 physically stressful part of travel is gone which means you can do a lot
 from the familiar space of your home. You also have predictable
-connectivity and can upload materials faster. Of course, this also comes
-with some problems. Not getting any feedback to your delivery can feel
+connectivity and can upload materials faster This also comes
+with some problems. Not getting any feedback on your delivery can feel
 strange and you need to act more as if an audience is there in front of
 you. Furthermore, not deliberately going somewhere to present makes it
 harder to get into the right mindset. We can do almost any physical
 exercise we need at home, and yet we go to gyms. The reason is that we
 shift from one mode (being at home) to another (exercising). You need to
-find a way to trick yourself into doing that in this case of presenter,
+find a way to trick yourself into doing that in the case of presenter,
 too.
 
 ## Get a decent setup
@@ -31,7 +33,7 @@ recordings, it makes sense though to invest some money on a few extras:
 
 * **External microphones** - if you do a lot of recording or streaming from your device, it makes sense to spend some money on an external microphone. The reason is that they sound a lot better and block out external noise. Another big benefit of external microphones is that you can type and speak/record at the same time without annoying your audience with the clicking sounds of your keyboard.
 * **External monitor** - the benefit of having a second monitor is that you can use one screen to record talks and have your speaker notes on the other one. It is also simpler to have the app you want to do a screencast of on the second monitor without any distractions around it.
-* **External camera** - for high-end recording it makes sense to have an external camera (which is also great to take to events to do some quick interviews) but at a stretch your mobile phone is also be good enough. Having a camera on the secondary monitor also means you will have a nice central camera placement and look at the audience without bending over too much.
+* **External camera** - for high-end recording it makes sense to have an external camera (which is also great to take to events to do some quick interviews) but at a stretch your mobile phone is also good enough. Having a camera on the secondary monitor also means you will have a nice central camera placement and look at the audience without bending over too much.
 * **Proper lighting** - LED ring lights by now are really affordable and positioned behind the laptop or secondary monitor give an excellent look. Avoid any lighting from behind.
 
 Here is what I am using these days:
@@ -138,7 +140,7 @@ successful is following the same principles any virtual meeting does:
 * Using your real name in conference calls makes sure there isn't any confusion. Make sure to set it to that. Most systems also have more profile settings and it makes sense to add more information there as people who click on your name will get that information.
 * Check that there is a recording of the call. It is important that you watch what you've done afterwards and learn how you can improve.
 
-Tip: You don't need to wait for official conference calls and take part
+> **Tip:** You don't need to wait for official conference calls and take part
 in those. You can also offer these as a replacement for a brownbag
 session.
 

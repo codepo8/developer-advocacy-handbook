@@ -1,6 +1,6 @@
 ---
-# next: working-from-your-own-computer
-# nexttitle: Working from your own computer
+next: working-from-your-own-computer
+nexttitle: Working from your own computer
 title: Know and use the (social) web -  The Developer Advocacy Handbook
 summary: A quick overview how to use social media as a developer advocate
 heroimage: https://developer-advocacy.com/images/checking-twitter.jpg
@@ -181,7 +181,7 @@ you put parts of the product in different places which were designed to
 host a certain content you give web surfers and app users a lot more
 opportunities to find your content.
 
-> **Tip:** don\'t forget that social networks can be very insular - not
+> **Tip:** don\'t forget that social networks can be very insular -- not
 everybody has the time and dedication to be active on all of them.
 Therefore having information useful to the nature of a certain network
 pointing to a full product elsewhere makes you a part of the network but
@@ -198,7 +198,7 @@ Spreading your content across different platforms has a lot of benefits:
 explaining it, put screenshots on Flickr and Instagram, a screencast of
 how to use the interface (or install the solution) on YouTube, have a
 presentation about the solution on slide sharing platforms and host the
-code on GitHub. This quintuples the potential audience just by using all
+code on GitHub. This quintuples the potential audience by using all
 these systems in the way they were meant to be used.
 
 Spreading the content is one part of the solution that will make this a
@@ -211,7 +211,7 @@ multimedia resource on the web when nobody knows what it belongs to.
 
 ## Hint, tease and preview
 
-Social media is a lot about exploration and showing off just how much
+Social media is a lot about exploration and showing off how much
 better you are in finding new information and learning about new
 products than anybody else.
 
@@ -230,7 +230,7 @@ releasing too early -- which is disastrous -- I started doing some of
 the following:
 
 * **Upload screenshots of upcoming products** -- this results in pretty cool comments and people tagging the photo with keywords you may not have thought of adding as content to the product docs.
-* **Upload screencasts to video sharing sites** -- same reason, but bigger impact. However, remember that watching a screencast expects more buy-in from the consumer than just looking at a screenshot.
+* **Upload screencasts to video sharing sites** -- same reason, but bigger impact. However, remember that watching a screencast expects more buy-in from the consumer than looking at a screenshot.
 * **Hint about cool stuff coming up on Twitter** -- this will result in a lot of your followers directly messaging you asking for more details -- and you can give out previews and insights for them to be the first to talk about it.
 * **Flat out ask for beta testers** -- people love poking at things before they are public. Feedback I got this way helped me on several occasions to spot sources of confusion I wasn't aware of and allowed me to fix them before release.
 
@@ -262,8 +262,7 @@ you can give information to the right people with the right networks
 almost instantly.
 
 You achieve this by contacting people, re-posting cool things they talk
-about, reporting problems you found with systems and other, similar
-tricks that really are not rocket science.
+about and reporting problems you found with systems.
 
 > **Example:** Sometimes being at the right time in the right mindset is
 everything. For example when Microsoft released their Bing API, I played
@@ -279,7 +278,7 @@ was.
 People who really grasp the social web are happy to answer to you once
 you\'ve proven that you have interesting things to say and that you find
 and re-tweet, bookmark or blog about great content. All of this is to
-make our research time shorter and our lives easier. Other advocates are
+make our research time shorter and our lives easier. Advocates are
 by definition social people, so don\'t be afraid of talking to people
 and pointing them to things that get you excited.
 
