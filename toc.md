@@ -217,7 +217,7 @@ record
   * [Record the audio of your talks](record#record-the-audio-of-your-talks)
   * [Shoot video](record#shoot-video)
   * [Link collections](record#link-collections)
-  * [keep a conference participation list](record#keep-a-conference-participation-list)
+  * [Keep a conference participation list](record#keep-a-conference-participation-list)
 
 <!--
 use-the-web
