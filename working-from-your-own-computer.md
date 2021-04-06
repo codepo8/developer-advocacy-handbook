@@ -1,6 +1,6 @@
 ---
-#next: recording-talks
-#nexttitle: Recording your own talks
+next: recording-talks
+nexttitle: Recording your own talks
 title: Working from your own computer -  The Developer Advocacy Handbook
 summary: How to set up your computer for recording, streaming and tips how to take part in online video chats
 heroimage: https://developer-advocacy.com/images/recording-setup.jpg
@@ -149,7 +149,7 @@ Lately this has been the number one way of communication and currently I
 have eight different systems on this computer as every call wanted to
 use a different one. Luckily they all work in a similar manner.
 
-## Attending live online events 
+## Attending live online events
 
 With the Covid-19 situation a lot of events moved from being physical to
 virtual, which means that you need to give your presentations and

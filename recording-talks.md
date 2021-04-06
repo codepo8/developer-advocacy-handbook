@@ -1,7 +1,9 @@
 ---
-next: final-words
-nexttitle: Final Words
+# next: final-words
+# nexttitle: Final Words
 title:  Recording your own talks -  The Developer Advocacy Handbook
+summary: How to record talks on your own computer and prepare them for re-use by conferences.
+heroimage: https://developer-advocacy.com/images/recording-setup.jpg
 ---
 # Recording your own talks
 
@@ -35,9 +37,13 @@ feedback. Telling a joke to a camera in your own room feels strange and
 much more like acting than presenting. That shouldn't dampen your
 excitement though and putting some extra effort in to appear
 enthusiastic and as if you are talking to an audience leads to great
-videos.
+videos. As silly as it may sound, but I had great results by talking to
+the fox puppet on my desk. Don't worry, he doesn't answer.
 
-I tend to create a lot of versions of my video and criticize myself much
+![Computer setup with fox puppet](images/recording-setup.jpg){:width="1024"
+height="976"}
+
+I tend to create a lot of versions of my video and criticise myself much
 more harshly than when I am on stage. On stage you have the excuse of a
 stressful surrounding and some "uhm" and "errs" or forgetting a detail
 is forgivable. It feels less so when you record and deliver a video.
@@ -56,7 +62,7 @@ demos and don't do much editing because of that reason. However, I've
 done this for a long time and feel comfortable in not being perfect. If
 you just start out, you might want to give it a bit more effort.
 
-Tip: It is important to remember that any video you publish is a
+> **Tip:** It is important to remember that any video you publish is a
 potential way in for more work. Many conference organisers want to see
 at least one good video of speakers before inviting them. This means
 that any video you got out there is a calling card. That's why it is
@@ -68,18 +74,19 @@ high quality.
 ## Check your setup and your surroundings
 
 Much like when you give a live talk over the internet, it is important
-to check your setup and surroundings**.** Before you record yourself or
+to check your setup and surroundings. Before you record yourself or
 stream make sure that nothing behind you could be distracting, confusing
 or -- in the worst case -- offending. While a lot of recording and
 screencasting software has virtual backgrounds or blur options it is
 still a good call to get everything out of the way. To avoid annoying
 distractions make sure you turn off any notifications, automatic
 software updates and make sure you have some uninterrupted time to
-record your talk. Try to avoid having to deal with any outside noise and
+record your talk. I tend to set up an own OS and browser profile for
+recordings to make that easier. Try to avoid having to deal with any outside noise and
 keep the door closed with a sign outside that this is a recording in
 session and art in the making.
 
-## Record the different pieces of the talk separately
+## Record different parts of the talk separately
 
 The fun thing about recording your talk is that unless you have
 animations on your slides, you don't really need to go through the deck
@@ -91,7 +98,7 @@ and hand movements show your excitement.
 You can also show and hide your video if you don't want to be in the way
 of the screen and you can record the audio of your talk separately. Some
 conference organisers want that anyway as they need to splice the slides
-and the video in their template.
+and the video into their template.
 
 As explained earlier in this book, this is a great opportunity to show
 tech demos without long loading pauses or things becoming inactive
@@ -107,7 +114,9 @@ resize the slides. Whilst you may have a huge screen to record and it
 feels there is enough space, remember that people might watch the
 conference on older computers or even mobile devices. It makes sense to
 err on the side of caution when it comes to how much you can show on
-screen and how big your font settings should be.
+screen and how big your font settings should be. I tend to create my
+slides with that in mind and keep one rectangle on screen free for
+my face to appear in. You can even make that part of the design.
 
 ## Use accessibility features to add extra video value
 
@@ -121,7 +130,7 @@ tick the "always use subtitles" feature.
 ![Subtitle option in Powerpoint](images/powerpoint-subtitles.png){:width="1898"
 height="422"}
 
-## Record in the highest possible quality 
+## Record in the highest possible quality
 
 That should be a given, but it is important to record in the highest
 possible quality. Sure, this results in huge files, but it gives you an
