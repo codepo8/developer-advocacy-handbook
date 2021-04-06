@@ -252,15 +252,17 @@ working-from-your-own-computer
 <!-- 
 recording-talks
 -->
-* [Recording your own talks](#recording-your-own-talks)
-  * [Check your setup and your surroundings](#check-your-setup-and-your-surroundings)
-  * [Record the different pieces of the talk separately](#record-the-different-pieces-of-the-talk-separately)
-  * [Remember that you need to share the screen with your slides](#remember-that-you-need-to-share-the-screen-with-your-slides)
-  * [Use accessibility features to add extra video value](#use-accessibility-features-to-add-extra-video-value)
-  * [Record in the highest possible quality](#record-in-the-highest-possible-quality)
-  * [Keep originals and make it easy to get your video](#keep-originals-and-make-it-easy-to-get-your-video)
+
+* [Recording your own talks](recording-talks#recording-your-own-talks)
+  * [Check your setup and your surroundings](recording-talks#check-your-setup-and-your-surroundings)
+  * [Record the different pieces of the talk separately](recording-talks#record-the-different-pieces-of-the-talk-separately)
+  * [Remember that you need to share the screen with your slides](recording-talks#remember-that-you-need-to-share-the-screen-with-your-slides)
+  * [Use accessibility features to add extra video value](recording-talks#use-accessibility-features-to-add-extra-video-value)
+  * [Record in the highest possible quality](recording-talks#record-in-the-highest-possible-quality)
+  * [Keep originals and make it easy to get your video](recording-talks#keep-originals-and-make-it-easy-to-get-your-video)
 
 <!--
 final-words
 -->
+
 * [Final words](#final-words)
