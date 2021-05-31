@@ -253,7 +253,7 @@ working-from-your-own-computer
 recording-talks
 -->
 
-* [Recording your own talks](recording-talks#recording-your-own-talks)
+* [Recording your own talks](recording-talks)
   * [Check your setup and your surroundings](recording-talks#check-your-setup-and-your-surroundings)
   * [Record the different pieces of the talk separately](recording-talks#record-the-different-pieces-of-the-talk-separately)
   * [Remember that you need to share the screen with your slides](recording-talks#remember-that-you-need-to-share-the-screen-with-your-slides)
@@ -265,4 +265,4 @@ recording-talks
 final-words
 -->
 
-* [Final words](#final-words)
+* [Final words](final-words)
