@@ -1,13 +1,6 @@
-![Chris Heilmann presenting at dotjs 2019 with a slide saying developers are people](images/cover.jpg){:height="1024" width="683"}
+# The Developer Advocacy Handbook
 
-This handbook will get you on the way to be a great developer advocate
-for any product or company. Naturally, your approach may need tweaking for
-different markets and audiences - and in accordance with your own
-personality - but the main principles are the same for everybody and
-anywhere in the world.
+This is the GitHub repository of the [Developer Advocacy Handbook](https://developer-advocacy.com/). Here you can file issues, offer additional content or provide translations of the book. 
 
-This is a new, 2020 version of this 11 year old book and I added quite a few new chapters and removed outdated materials. You can read more about this in the [about section](about).
-
-Now, why not get right into it? Choose from the [table of contents](toc) or [read the book](what-is-developer-advocacy).
-
+If you want to start reading the book, check out the [table of contents](https://developer-advocacy.com/toc) or [go directly to the first chapter](https://developer-advocacy.com/what-is-developer-advocacy).
 
