@@ -34,20 +34,20 @@
     {% include nav.html %}
   </header>
   <div id="split">
+    <article class="content">
+
+      {% include blockquotes.html html=content %}
+
+    </article>
     <section>
       <nav>
-        {% include toc.html html=content sanitize=true h_min=1 h_max=1 %}
+        {% include toc.html html=content h_max=2 %}
       </nav>
       <p class="buycoffee">
         If you find this helpful, you can 
         <a href="https://ko-fi.com/chrisheilmann">buy me a coffee</a>.
       </p>
     </section>
-    <article class="content">
-
-      {% include blockquotes.html html=content %}
-
-    </article>
   </div>
   <footer>
     {% include footer.html %}
