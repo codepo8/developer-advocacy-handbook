@@ -167,6 +167,10 @@ nav ul {
 nav ul a {
   color: var(--pagetoclink);
 }
+nav #short_toc a {
+  color: var(--link);
+}
+
 h1, h2, h3, h4 {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   letter-spacing: -1px;
