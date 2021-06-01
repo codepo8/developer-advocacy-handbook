@@ -7,6 +7,7 @@ title: Table of Contents - The Developer Advocacy Handbook
 <!--
 about
 -->
+
 * [About this handbook](about)
   * [About this version](about#about-this-version)
   * [About the author](about#about-the-author)
@@ -178,6 +179,7 @@ prepare-slide-decks
 <!-- 
 create-slide-decks
 -->
+
 * [Create great slide decks for presentations](create-slide-decks)
   * [Illustrate, don\'t transcribe](create-slide-decks#illustrate-dont-transcribe)
   * [Use and find images](create-slide-decks#use-and-find-images)
@@ -196,7 +198,7 @@ create-slide-decks
     * [Pace yourself](create-slide-decks#pace-yourself)
     * [Avoid "Hello World"](create-slide-decks#avoid-hello-world)
     * [Be fresh](create-slide-decks#be-fresh)
-    
+
 <!-- 
 slide-checklist
 -->

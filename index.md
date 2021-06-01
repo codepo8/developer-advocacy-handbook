@@ -16,4 +16,5 @@ This is a new, 2020 version of this 11 year old book and I added quite a few new
 
 Now, why not get right into it? Choose from the [table of contents](toc) or [read the book](what-is-developer-advocacy).
 
+
 <small>Photo from the DotJS2019 talk [Develop, Debug, Learn?](https://www.youtube.com/watch?v=m4t7cLFksls)</small>

@@ -33,9 +33,22 @@
     {% include header.html %}
     {% include nav.html %}
   </header>
-  <article class="standalone index">
-       {{ content }}
-  </article>
+  <div id="split">
+    <section>
+      <nav>
+        {% include toc.html html=content sanitize=true h_min=1 h_max=1 %}
+      </nav>
+      <p class="buycoffee">
+        If you find this helpful, you can 
+        <a href="https://ko-fi.com/chrisheilmann">buy me a coffee</a>.
+      </p>
+    </section>
+    <article class="content">
+
+      {% include blockquotes.html html=content %}
+
+    </article>
+  </div>
   <footer>
     {% include footer.html %}
   </footer>
