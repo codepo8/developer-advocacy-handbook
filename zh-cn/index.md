@@ -1,21 +1,16 @@
 ---
 title: 开发者倡导手册
 next: what-is-developer-advocacy
-nexttitle: What is developer advocacy?
+nexttitle: 什么是开发者倡导？
 layout: index
 lang: zh-cn
 ---
 ![Chris Heilmann presenting at dotjs 2019 with a slide saying developers are people](../images/cover.jpg){:height="1024" width="683"}
 
-This handbook will get you on the way to be a great developer advocate
-for any product or company. Naturally, your approach may need tweaking for
-different markets and audiences - and in accordance with your own
-personality - but the main principles are the same for everybody and
-anywhere in the world.
+这本手册将帮助您成为任何产品或公司的优秀开发者倡导者。自然地，您的方法可能需要针对不同的市场和受众进行调整 - 并根据您自己的个性 - 但主要原则对于世界上的每个人和任何地方都是相同的。
 
-This is a new, 2020 version of this 11 year old book and I added quite a few new chapters and removed outdated materials. You can read more about this in the [about section](about).
+这是这本 11 年前的书的 2020 年新版本，我添加了很多新章节并删除了过时的材料。您可以在[关于部分](about)阅读更多相关信息。
 
-Now, why not get right into it? Choose from the [table of contents](toc) or [read the book](what-is-developer-advocacy).
+现在，为什么不直接进入呢？从[目录中](toc)选择或[阅读本书](what-is-developer-advocacy)。
 
-
-<small>Photo from the DotJS2019 talk [Develop, Debug, Learn?](https://www.youtube.com/watch?v=m4t7cLFksls)</small>
+照片来自 DotJS2019 的演讲“[开发、调试、学习？](https://www.youtube.com/watch?v=m4t7cLFksls)“
