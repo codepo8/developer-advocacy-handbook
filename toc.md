@@ -262,6 +262,13 @@ recording-talks
   * [Use accessibility features to add extra video value](recording-talks#use-accessibility-features-to-add-extra-video-value)
   * [Record in the highest possible quality](recording-talks#record-in-the-highest-possible-quality)
   * [Keep originals and make it easy to get your video](recording-talks#keep-originals-and-make-it-easy-to-get-your-video)
+
+<!-- 
+videos
+-->
+
+* [Creating educational videos](videos)
+  * [Creating super short videos](videos#super-short-demo-videos)
   
 
 <!--

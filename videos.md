@@ -23,10 +23,11 @@ There are a lot of software suites that allow you to record your screen, compute
 Many video platforms offer in addition to the long form videos and course tutorials short, informative videos that are easy to consume and should show one thing well. These videos are often called "snackable" content and are a great way to get people interested in your product. You should aim to keep those exciting. short and to the point. A good ballpark figure is to keep them to 40 seconds. I've collaborated with the Visual Studio Code team on a series of short videos that show how to do something in VS Code. They are all around 40 seconds long and show a single feature. They published the videos for me on their TikTok and YouTube channels and they've been huge successes. Here is an example on YouTube:
 
 [![Final video of fixing issues in your code in VS Code](https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=JLMbpiywVxQ)
+(click on the screenshot to see the video on YouTube)
 
 The first thing to do to create super short videos is to forget that you can do them live. Computers have a penchant to do things wrong as soon as you record something and whilst you fancy yourself a professional, it is amazing how many things you do wrong when you record yourself. Add annoyances like the sound of your keyboard or the fan of your computer starting up when you do something and record at the same time and you got a recipe for annoyance. I have hours of blooper footage of me cursing alternately the computer and myself when something went wrong in the last second of the video.
 
-### Start with the script
+## Start with the script
 
 The first thing I do before I record a video is to start with the script. This allows me to focus on what I want to show and gauge the overall time it will need to show it. It also helps me to prepare the product I will talk about to show only what is absolutely necessary for this specific video. In the case of the video earlier in this chapter, here is the script I wrote:
 
@@ -40,25 +41,27 @@ I wrote myself a [prompter script](https://github.com/codepo8/prompter) to see t
 
 ![Screen recording of the prompter script in action showing a script one sentence at a time.](images/prompter.gif)
 
-### Record your video and audio
+## Record your video and audio
 
 Once you got your script ready, you can record your audio and video. Often I only use the voiceover part of this as my face isn't that important to the subject at hand, but it makes sense to have both. I use a secondary monitor with a camera above it, which means I can read from the prompter and look into the camera at the same time.
 
 Here you can see the video I recorded for the example:
 
 [![Raw footage of my face and audio recording](https://img.youtube.com/vi/5JkK0zl2W6Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=5JkK0zl2W6Y)
+(click on the screenshot to see the video on YouTube)
 
 I recorded five takes, removed all the other ones and ended up with a very short video which still feels well paced and not rushed.
 
-### Record a screencast of the feature
+## Record a screencast of the feature
 
 The next step is to record a screencast of what you are talking about. I keep the script on a second screen or sometimes listen to the audio of it whilst recording it. The great thing about recording the screencast separately is that you don't need to rush or pace yourself. You can concentrate on doing the best job of interacting with the product to record what you want to show the world. And you can start over as many  times as you want to if you didn't get it right or your computer did strange things again. Here again is the raw footage of the above video, showing all the mistakes I did, annoying things that happened and how slow I really am when interacting with the editor.
 
 [![Raw footage of the screencast](https://img.youtube.com/vi/gd7kLtVb2pg/maxresdefault.jpg)](https://www.youtube.com/watch?v=gd7kLtVb2pg)
+(click on the screenshot to see the video on YouTube)
 
 Record the screen in as high as a resolution as you can, as depending on the format of the final product, you will have to highlight or zoom and pan different parts of the screen. I also tend to zoom the interface a bit as a lot of the audience consuming these "shorts" type videos are on mobile devices. Another big no no is to use full white backgrounds as they are pretty grating to see on a mobile.
 
-### Sync the screencast with your audio/video
+## Sync the screencast with your audio/video
 
 The last step is to edit the screencast to pan and zoom to the parts you want to show, add text and image overlays as needed, but - even more importantly - sync it with the audio and video of your recording. This is the most time consuming part of the process and you will have to do it a few times to get it right. The audio and video is the main timeline of the video and you add the screencast on top of it. Cut out the parts that don't match, speed up parts that take too long to match the narration and add freeze frames when there is more to be explained. You can see a timeline of the video earlier here.
 
