@@ -9,7 +9,7 @@ heroimage: https://developer-advocacy.com/images/video-timeline.png
 
 Video content can be a great way to reach a lot of people and drum up excitement about your products. It is also excellent to show people how something is done when they get stuck. In recent years, video content has become much more successful than writing or long talks. Different platforms and audiences need videos in different formats but seeing that there are hundreds of successful developer video channels on YouTube shows that there is something to this.
 
-There are a lot of software suites that allow you to record your screen, computer audio, camera and microphone. It goes beyond the scope here to list all of them. Personally I use Screenflow on my Apple machine and Camtasia for both Mac and PC solutions. Regardless of what you use, here are the features that you should look out for:
+There are a lot of software suites that allow you to record your screen, computer audio, camera and microphone. It goes beyond the scope here to list all of them. Personally I use Screenflow on my Apple machine and Camtasia for PC. Regardless of what you use, here are the features that you should look out for:
 
 * Editing capabilities to cut out mistakes and add transitions
 * A way to add text and images to your video
@@ -20,7 +20,7 @@ There are a lot of software suites that allow you to record your screen, compute
 
 ## Creating super short videos
 
-Many video platforms offer in addition to the long form videos and course tutorials short, informative videos that are easy to consume and should show one thing well. These videos are often called "snackable" content and are a great way to get people interested in your product. You should aim to keep those exciting. short and to the point. A good ballpark figure is to keep them to 40 seconds. I've collaborated with the Visual Studio Code team on a series of short videos that show how to do something in VS Code. They are all around 40 seconds long and show a single feature. They published the videos for me on their TikTok and YouTube channels and they've been huge successes. Here is an example on YouTube:
+Many video platforms offer in addition to the long form videos and course tutorials short, informative videos that are easy to consume and should show one thing well. These videos are often called "snackable" content and are a great way to get people interested in your product. You should aim to keep those exciting, short and to the point. A good ballpark figure is to keep them to 40 seconds. I've collaborated with the Visual Studio Code team on a series of short videos that show how to do something in VS Code. They are all around 40 seconds long and show a single feature. They published the videos for me on their TikTok and YouTube channels and they've been huge successes. Here is an example on YouTube:
 
 [![Final video of fixing issues in your code in VS Code](https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=JLMbpiywVxQ)
 (click on the screenshot to see the video on YouTube)
