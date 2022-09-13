@@ -1,6 +1,6 @@
 ---
-next: final-words
-nexttitle: Final Words
+next: videos
+nexttitle: Create educational videos
 title:  Recording your own talks -  The Developer Advocacy Handbook
 summary: How to record talks on your own computer and prepare them for re-use by conferences.
 heroimage: https://developer-advocacy.com/images/recording-setup.jpg
