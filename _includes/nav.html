@@ -1,17 +1,9 @@
 <ul>
   {% if page.url != "/about.html" %}
-  <li><a href="{{ page.lang_root }}about">{{ page.nav_about }}</a></li>
+  <li><a href="/about">About</a></li>
   {% endif %}
   {% if page.url != "/toc.html" %}
-  <li><a href="{{ page.lang_root }}toc">{{ page.nav_toc }}</a></li>
+  <li><a href="/toc">TOC</a></li>
   {% endif %}
-  <li class="dropdown"><a href="#">{{ page.lang_title }} <b>&#9660;</b></a>
-    <ul>
-      {% for d in site.defaults %}
-      <li><a href="/{{d.scope.path}}">{{ d.values.lang_name }}</a></li>
-      {% endfor %}
-    </ul>
-  </li>
   <!-- <li><a href="/developer-advocacy-handbook/getprint">Print version</a></li> -->
 </ul>
-<hr>
