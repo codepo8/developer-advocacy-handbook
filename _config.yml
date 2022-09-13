@@ -1,0 +1,25 @@
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+      lang: "en-US"
+      lang_root: "/"
+      lang_name: "English"
+      lang_title: "Language"
+      header_title: "The Developer Advocacy Handbook"
+      nav_about: "About"
+      nav_toc: "TOC"
+  -
+    scope:
+      path: "zh-cn"
+    values:
+      layout: "default"
+      lang: "zh-CN"
+      lang_root: "/zh-cn/"
+      lang_name: "简体中文"
+      lang_title: "语言"
+      header_title: "开发者倡导手册"
+      nav_about: "关于"
+      nav_toc: "目录"
