@@ -22,8 +22,7 @@ There are a lot of software suites that allow you to record your screen, compute
 
 Many video platforms offer in addition to the long form videos and course tutorials short, informative videos that are easy to consume and should show one thing well. These videos are often called "snackable" content and are a great way to get people interested in your product. You should aim to keep those exciting, short and to the point. A good ballpark figure is to keep them to 40 seconds. I've collaborated with the Visual Studio Code team on a series of short videos that show how to do something in VS Code. They are all around 40 seconds long and show a single feature. They published the videos for me on their TikTok and YouTube channels and they've been huge successes. Here is an example on YouTube:
 
-[![Final video of fixing issues in your code in VS Code](https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=JLMbpiywVxQ)
-(click on the screenshot to see the video on YouTube)
+{% include youtube.html id="JLMbpiywVxQ" %}  
 
 The first thing to do to create super short videos is to forget that you can do them live. Computers have a penchant to do things wrong as soon as you record something and whilst you fancy yourself a professional, it is amazing how many things you do wrong when you record yourself. Add annoyances like the sound of your keyboard or the fan of your computer starting up when you do something and record at the same time and you got a recipe for annoyance. I have hours of blooper footage of me cursing alternately the computer and myself when something went wrong in the last second of the video.
 
@@ -47,8 +46,7 @@ Once you got your script ready, you can record your audio and video. Often I onl
 
 Here you can see the video I recorded for the example:
 
-[![Raw footage of my face and audio recording](https://img.youtube.com/vi/5JkK0zl2W6Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=5JkK0zl2W6Y)
-(click on the screenshot to see the video on YouTube)
+{% include youtube.html id="5JkK0zl2W6Y" %}  
 
 I recorded five takes, removed all the other ones and ended up with a very short video which still feels well paced and not rushed.
 
@@ -56,8 +54,7 @@ I recorded five takes, removed all the other ones and ended up with a very short
 
 The next step is to record a screencast of what you are talking about. I keep the script on a second screen or sometimes listen to the audio of it whilst recording it. The great thing about recording the screencast separately is that you don't need to rush or pace yourself. You can concentrate on doing the best job of interacting with the product to record what you want to show the world. And you can start over as many  times as you want to if you didn't get it right or your computer did strange things again. Here again is the raw footage of the above video, showing all the mistakes I did, annoying things that happened and how slow I really am when interacting with the editor.
 
-[![Raw footage of the screencast](https://img.youtube.com/vi/gd7kLtVb2pg/maxresdefault.jpg)](https://www.youtube.com/watch?v=gd7kLtVb2pg)
-(click on the screenshot to see the video on YouTube)
+{% include youtube.html id="gd7kLtVb2pg" %}  
 
 Record the screen in as high as a resolution as you can, as depending on the format of the final product, you will have to highlight or zoom and pan different parts of the screen. I also tend to zoom the interface a bit as a lot of the audience consuming these "shorts" type videos are on mobile devices. Another big no no is to use full white backgrounds as they are pretty grating to see on a mobile.
 
