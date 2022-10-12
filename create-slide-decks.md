@@ -426,10 +426,10 @@ plan to become developer advocates themselves.
 
 Upload the deck to your blog, make it available as a download or -- even
 better -- upload it to a slide sharing resource. There are various great
-great tools to get your slides distributed. People can comment on them,
-share them with friends, embed your slides in conference blog posts or
-as a resource for a certain subject and many things more. They are what
-Flickr was to photos and YouTube is to videos.
+tools to get your slides distributed. People can comment on them, share
+them with friends, embed your slides in conference blog posts or as a
+resource for a certain subject and many things more. They are what Flickr
+was to photos and YouTube is to videos.
 
 Sharing your slides is what a lot of people in the audience will ask you
 to do and it will get you known as a speaker. People may stumble upon
