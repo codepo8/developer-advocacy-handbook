@@ -9,7 +9,7 @@ title: Things not to say on stage - The Developer Advocacy Handbook
 
 This is not about trigger words or discriminatory
 expressions. There is a lot of information about this available, and
-even some [excellent linting tools](http://alexjs.com/) for your texts.
+even some [excellent linting tools](https://alexjs.com/) for your texts.
 It is also not about unconscious bias. Or well, maybe it is. Learned
 bias for sure.
 
