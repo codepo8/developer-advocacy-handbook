@@ -13,7 +13,7 @@ workshop. This is where you need to make sure you do things really right
 as data is one thing but data being delivered in an engaging manner is
 so much more powerful.
 
-> **Fact:** There are no bad students or a bad audience -- only bad workshops and talks. Your mood, dedication and enthusiasm do become those of the audience -- if you are not happy, they won\'t be happy. 
+> **Fact:** There are no bad students or a bad audience -- only bad workshops and talks. Your mood, dedication and enthusiasm do become those of the audience -- if you are not happy, they won\'t be happy.
 
 Public speaking is an art and there are a lot of tricks you can learn
 from acting or other forms of performing, but in the end all it boils

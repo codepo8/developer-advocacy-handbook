@@ -1,7 +1,7 @@
 ---
 next: recording-talks
 nexttitle: Recording your own talks
-title: Working from your own computer -  The Developer Advocacy Handbook
+title: Working from your own computer - The Developer Advocacy Handbook
 summary: How to set up your computer for recording, streaming and tips how to take part in online video chats
 heroimage: https://developer-advocacy.com/images/recording-setup.jpg
 ---

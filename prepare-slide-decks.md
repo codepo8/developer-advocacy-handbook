@@ -1,7 +1,7 @@
 ---
 next: create-slide-decks
 nexttitle: Create great slide decks for presentations
-title: Prepare great slide decks for presentations -  The Developer Advocacy Handbook
+title: Prepare great slide decks for presentations - The Developer Advocacy Handbook
 summary: Some tips and tricks what to prepare for before writing your slide decks.
 heroimage: https://developer-advocacy.com/images/preparation.jpg
 ---
@@ -28,7 +28,7 @@ for my slides which can be an indicator that I am doing the right thing.
 ## Know your stuff
 
 The biggest mistake that presenters do is to rely on their slides as
-their main source of information. If you don\'t know the subject matter, 
+their main source of information. If you don\'t know the subject matter,
 are not excited by it or you haven\'t done much work with it you
 will give a bad presentation. Nothing makes you a better presenter than
 confidence in the subject and hands-on knowledge.
@@ -54,7 +54,7 @@ your language you will appear stilted and you have to remember what the
 deck says. Public speaking is about giving information in an
 entertaining fashion -- not acting. You should not have to play the role
 of \"corporate speaker\" but instead be you. Only then you will be
-believable and effective. 
+believable and effective.
 
 ## Start with the content -- not the slides!
 
@@ -64,7 +64,7 @@ to take in and more enjoyable for the audience. For you as a speaker
 they are the narration thread -- a reminder of what you want to cover in
 your talk. A good speaker can keep a room of people interested without
 any slides whatsoever. A good slide deck, however, gives people
-memorable moments and information they might miss if all they did was 
+memorable moments and information they might miss if all they did was
 listen to you.
 
 ## Start with a highly portable Format - Text
@@ -118,7 +118,7 @@ bullets" and here is how it works:
 In essence, you create a to-do list for your slides, you define the
 [narrative structure](http://en.wikipedia.org/wiki/Narrative_structure)
 of your presentation upfront instead of collecting a lot of material and
-arrange it in a second step. That way you ensure that you show 
+arrange it in a second step. That way you ensure that you show
 the right amount of information rather than getting over-excited and
 showing lots in the hope that at least some of it sticks with the
 audience. Give it a try -- it really works for me.

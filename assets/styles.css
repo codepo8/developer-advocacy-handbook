@@ -43,7 +43,7 @@ header a {
   color: var(--headertext);
   text-decoration: none;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  letter-spacing: -1px;  
+  letter-spacing: -1px;
 }
 header li {
   display: inline;
@@ -177,7 +177,7 @@ h1, h2, h3, h4 {
   position: sticky;
   background: var(--background);
   padding: .5em 0;
-  top: 0;  
+  top: 0;
 }
 h1 {
   font-size: 1.3em;

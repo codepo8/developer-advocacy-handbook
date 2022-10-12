@@ -1,7 +1,7 @@
 ---
 next: working-from-your-own-computer
 nexttitle: Working from your own computer
-title: Know and use the (social) web -  The Developer Advocacy Handbook
+title: Know and use the (social) web - The Developer Advocacy Handbook
 summary: A quick overview how to use social media as a developer advocate
 heroimage: https://developer-advocacy.com/images/checking-twitter.jpg
 ---
@@ -99,7 +99,7 @@ distorted if not outright false information.
 As the marketing and PR departments of your company are most likely not
 aware of these tech publications and hardly ever would step in to
 rectify the mistakes this is a good chance for you to act. Stick to
-technical, real information and show proof of your points. Some comments will 
+technical, real information and show proof of your points. Some comments will
 side with the misinformation as it is just cool to
 "stick it to the man" and fight large organisations but the lesser vocal
 majority will at least get the real story straight from the horses\'

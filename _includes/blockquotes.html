@@ -5,10 +5,10 @@
 {% capture warning %}<blockquote>{{newline}}  <p><strong>Warning:</strong>{% endcapture%}
 {% capture fact %}<blockquote>{{newline}}  <p><strong>Fact:</strong>{% endcapture%}
 
-{% assign newhtml = include.html | 
+{% assign newhtml = include.html |
   replace: tip, '<blockquote class="tip"><p><strong>Tip:</strong>' |
   replace: example, '<blockquote class="example"><p><strong>Example:</strong>' |
   replace: warning, '<blockquote class="warning"><p><strong>Warning:</strong>' |
-  replace: fact, '<blockquote class="fact"><p><strong>Fact:</strong>' 
+  replace: fact, '<blockquote class="fact"><p><strong>Fact:</strong>'
 %}
 {{ newhtml }}
