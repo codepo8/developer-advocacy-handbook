@@ -59,8 +59,8 @@ enthusiasts…) and bring your expert knowledge to the discussion.
 counter-movement to the conference circuit, and to a degree are still
 around. They are un-conferences, meaning they are gatherings of
 enthusiasts of networking and presenting. Unlike conferences they are
-free and one of the really interesting 
-[rules of Barcamp](http://barcamp.org/TheRulesOfBarCamp) is that 
+free and one of the really interesting
+[rules of Barcamp](http://barcamp.org/TheRulesOfBarCamp) is that
 everybody who attends also has to give a presentation.
 
 These presentations are normally 15 minute slots and can be about
@@ -86,7 +86,7 @@ normal conference crowd) to speak to.
 
 Often local IT companies that want to get known organise meetups in
 their offices, and whilst this means you need to be cognisant of their
-agenda it is a good place to get to know that company and 
+agenda it is a good place to get to know that company and
 offer you as a guest speaker.
 
 ## Write articles
@@ -144,7 +144,7 @@ someone you can easily work with?
 
 One of the biggest winners with conference organisers I had was that I
 have my [presenter terms](https://codepo8.github.io/presenter-terms/)
-listed in full detail online. These are on GitHub and I invite you to 
+listed in full detail online. These are on GitHub and I invite you to
 fork them and use them as your own presenter portfolio.
 
 In these, I listed all the things conference organisers kept asking me

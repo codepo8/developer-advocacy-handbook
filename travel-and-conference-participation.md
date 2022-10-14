@@ -1,7 +1,7 @@
 ---
 next: deliver-a-talk
 nexttitle: Deliver a talk
-title: Travel and conference participation -  The Developer Advocacy Handbook
+title: Travel and conference participation - The Developer Advocacy Handbook
 ---
 # Travel and conference participation
 
@@ -176,7 +176,7 @@ demand for you. Make it easy for you by having a good calendar where you
 track your events. Follow up each of your conference participation with
 a debrief for your colleagues and for the conference organisers. This
 makes it easy to decide next time if the same event is worth you going
-or handing it over to someone else. It also gives organisers something 
+or handing it over to someone else. It also gives organisers something
 to think about and you a chance to say \"thanks\". And that goes a long way.
 
 ## Work with the conference buzz

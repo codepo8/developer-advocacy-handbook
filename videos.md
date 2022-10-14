@@ -1,7 +1,7 @@
 ---
 next: final-words
 nexttitle: Final words
-title: Creating educational videos -  The Developer Advocacy Handbook
+title: Creating educational videos - The Developer Advocacy Handbook
 summary: Learn how to create short and to the point educational videos.
 heroimage: https://developer-advocacy.com/images/video-timeline.png
 ---
@@ -22,7 +22,7 @@ There are a lot of software suites that allow you to record your screen, compute
 
 Many video platforms offer in addition to the long form videos and course tutorials short, informative videos that are easy to consume and should show one thing well. These videos are often called "snackable" content and are a great way to get people interested in your product. You should aim to keep those exciting, short and to the point. A good ballpark figure is to keep them to 40 seconds. I've collaborated with the Visual Studio Code team on a series of short videos that show how to do something in VS Code. They are all around 40 seconds long and show a single feature. They published the videos for me on their TikTok and YouTube channels and they've been huge successes. Here is an example on YouTube:
 
-{% include youtube.html id="JLMbpiywVxQ" %}  
+{% include youtube.html id="JLMbpiywVxQ" %}
 
 The first thing to do to create super short videos is to forget that you can do them live. Computers have a penchant to do things wrong as soon as you record something and whilst you fancy yourself a professional, it is amazing how many things you do wrong when you record yourself. Add annoyances like the sound of your keyboard or the fan of your computer starting up when you do something and record at the same time and you got a recipe for annoyance. I have hours of blooper footage of me cursing alternately the computer and myself when something went wrong in the last second of the video.
 
@@ -30,10 +30,10 @@ The first thing to do to create super short videos is to forget that you can do 
 
 The first thing I do before I record a video is to start with the script. This allows me to focus on what I want to show and gauge the overall time it will need to show it. It also helps me to prepare the product I will talk about to show only what is absolutely necessary for this specific video. In the case of the video earlier in this chapter, here is the script I wrote:
 
-> When you use VS Code with the Edge DevTools extension problems in your code show an underline. 
-You can click those to learn about the problem and you get a light bulb to fix the issue. 
-For some issues you can ask code to fix it automatically - like adding a missing charset type. 
-You can also tell it to never report this issue again. 
+> When you use VS Code with the Edge DevTools extension problems in your code show an underline.
+You can click those to learn about the problem and you get a light bulb to fix the issue.
+For some issues you can ask code to fix it automatically - like adding a missing charset type.
+You can also tell it to never report this issue again.
 If you don't feel like looking for issues in your code, you can use the problems panel and fix them one by one.
 
 I wrote myself a [prompter script](https://github.com/codepo8/prompter) to see the script one sentence at a time and not have to awkwardly read it in small lettering. You can [try it out here](https://codepo8.github.io/prompter/).
@@ -46,15 +46,15 @@ Once you got your script ready, you can record your audio and video. Often I onl
 
 Here you can see the video I recorded for the example:
 
-{% include youtube.html id="5JkK0zl2W6Y" %}  
+{% include youtube.html id="5JkK0zl2W6Y" %}
 
 I recorded five takes, removed all the other ones and ended up with a very short video which still feels well paced and not rushed.
 
 ## Record a screencast of the feature
 
-The next step is to record a screencast of what you are talking about. I keep the script on a second screen or sometimes listen to the audio of it whilst recording it. The great thing about recording the screencast separately is that you don't need to rush or pace yourself. You can concentrate on doing the best job of interacting with the product to record what you want to show the world. And you can start over as many  times as you want to if you didn't get it right or your computer did strange things again. Here again is the raw footage of the above video, showing all the mistakes I did, annoying things that happened and how slow I really am when interacting with the editor.
+The next step is to record a screencast of what you are talking about. I keep the script on a second screen or sometimes listen to the audio of it whilst recording it. The great thing about recording the screencast separately is that you don't need to rush or pace yourself. You can concentrate on doing the best job of interacting with the product to record what you want to show the world. And you can start over as many times as you want to if you didn't get it right or your computer did strange things again. Here again is the raw footage of the above video, showing all the mistakes I did, annoying things that happened and how slow I really am when interacting with the editor.
 
-{% include youtube.html id="gd7kLtVb2pg" %}  
+{% include youtube.html id="gd7kLtVb2pg" %}
 
 Record the screen in as high as a resolution as you can, as depending on the format of the final product, you will have to highlight or zoom and pan different parts of the screen. I also tend to zoom the interface a bit as a lot of the audience consuming these "shorts" type videos are on mobile devices. Another big no no is to use full white backgrounds as they are pretty grating to see on a mobile.
 

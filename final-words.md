@@ -1,5 +1,5 @@
 ---
-title: Final Words -  The Developer Advocacy Handbook
+title: Final Words - The Developer Advocacy Handbook
 summary: Some musings about 15 years of Developer Advocacy.
 heroimage: https://developer-advocacy.com/images/final-words-coffee.jpg
 ---

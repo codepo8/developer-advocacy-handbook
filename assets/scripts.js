@@ -14,7 +14,7 @@ if (audiolink) {
   const display = document.querySelector('.audio span');
   const button = document.querySelector('.audio button');
   button.addEventListener('click', e => {
-    audio.currentTime = audio.currentTime - 10; 
+    audio.currentTime = audio.currentTime - 10;
   });
   const displayvalue = val => {
     return parseInt(val * 100, 10) + '%'

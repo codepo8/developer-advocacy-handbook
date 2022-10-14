@@ -36,7 +36,7 @@ those that appear far too fast in their delivery.
 
 > **Fact:** We tend to run up stairs rather than down them. The reason is that
 stressful and tiring tasks appear easier when you get through them
-quicker. 
+quicker.
 
 That\'s also the reason why the delivery of your talk will
 always be faster than the rehearsal or how you planned it. The
@@ -48,11 +48,11 @@ technical presenter -- not a slick and perfect actor or politician.
 
 > **Warning:** When you get more into the routine of presenting, this automatic
 speeding up can become dangerous. The excitement doesn\'t wane -- all you
-do is getting used to being fast. 
+do is getting used to being fast.
 
-That\'s why over time, your decks become larger and you are tempted 
-to add more and more to your talks. You got time, so you might as well 
-use that time, right? People should get something for their money and more 
+That\'s why over time, your decks become larger and you are tempted
+to add more and more to your talks. You got time, so you might as well
+use that time, right? People should get something for their money and more
 is always better, right? Not always…
 
 ## Less is more
@@ -187,7 +187,7 @@ A lot of live coding is the "here, anyone can do this in one minute"
 pitch, which can come across as tiring. As developers, we get promised
 things that make our lives easier all the time. We also keep seeing them
 fail. And we've seen a lot of "one minute demos" of things we never,
-ever had to in our jobs afterwards. 
+ever had to in our jobs afterwards.
 
 > **Warning:** If it feels too simple to do, it
 either isn't worth doing or it is insulting to our jobs as developers.

@@ -36,8 +36,8 @@ working-with-your-company
   * [Balance your personal and official channels](working-with-your-company#balance-your-personal-and-official-channels)
   * [Remove the brand](working-with-your-company#remove-the-brand)
 
-<!-- 
-working-with-your-competition 
+<!--
+working-with-your-competition
 -->
 
 * [Working with your competition](working-with-your-competition)
@@ -47,8 +47,8 @@ working-with-your-competition
   * [Know about the competition](working-with-your-competition#know-about-the-competition)
   * [Build examples using and try out competitive products](working-with-your-competition#build-examples-using-and-try-out-competitive-products)
 
-<!-- 
-prepare-for-outreach 
+<!--
+prepare-for-outreach
 -->
 
 * [Prepare for outreach](prepare-for-outreach)
@@ -58,7 +58,7 @@ prepare-for-outreach
   * [Choose the right medium](prepare-for-outreach#choose-the-right-medium)
   * [Plan for failure](prepare-for-outreach#plan-for-failure)
 
-<!-- 
+<!--
 get-speaking-opportunities
 -->
 
@@ -72,7 +72,7 @@ get-speaking-opportunities
   * [Ask questions at conferences](get-speaking-opportunities#ask-questions-at-conferences)
   * [Be a presenter people want to invite -- publish your presenter terms](get-speaking-opportunities#be-a-presenter-people-want-to-invite-publish-your-presenter-terms)
 
-<!-- 
+<!--
 travel-and-conference-participation
 -->
 
@@ -88,7 +88,7 @@ travel-and-conference-participation
   * [Release immediately](travel-and-conference-participation#release-immediately)
   * [Write about conferences](travel-and-conference-participation#write-about-conferences)
 
-<!-- 
+<!--
 deliver-a-talk
 -->
 
@@ -100,7 +100,7 @@ deliver-a-talk
   * [Be honest and real](deliver-a-talk#be-honest-and-real)
   * [Follow up communication](deliver-a-talk#follow-up-communication)
 
-<!-- 
+<!--
 talk-delivery-tips
 -->
 
@@ -115,10 +115,10 @@ talk-delivery-tips
   * [Talk fillers](talk-delivery-tips#talk-fillers)
   * [Planning Your Talk Summary](talk-delivery-tips#planning-your-talk-summary)
 
-<!-- 
+<!--
 things-not-to-say-on-stage
 -->
-  
+
 * [Things not to say on stage -- and what to do instead](things-not-to-say-on-stage)
   * ["This is easy..."](things-not-to-say-on-stage#this-is-easy)
   * ["I'll repeat quickly, for the few of you who don't know..."](things-not-to-say-on-stage#ill-repeat-quickly-for-the-few-of-you-who-dont-know)
@@ -131,7 +131,7 @@ things-not-to-say-on-stage
   * ["If you want to be professional, do X"](things-not-to-say-on-stage#if-you-want-to-be-professional-do-x)
   * [A quick check](things-not-to-say-on-stage#a-quick-check)
 
-<!-- 
+<!--
 write-great-posts-and-articles
 -->
 
@@ -146,7 +146,7 @@ write-great-posts-and-articles
   * [Pre-emptive writing](write-great-posts-and-articles#pre-emptive-writing)
   * [Ending on an invitation to learn more](write-great-posts-and-articles#ending-on-an-invitation-to-learn-more)
 
-<!-- 
+<!--
 write-excellent-code-examples
 -->
 
@@ -165,7 +165,7 @@ write-excellent-code-examples
     * [Code Sandboxes](write-excellent-code-examples#code-sandboxes)
     * [Live coding environments](write-excellent-code-examples#live-coding-environments)
 
-<!-- 
+<!--
 prepare-slide-decks
 -->
 
@@ -176,7 +176,7 @@ prepare-slide-decks
   * [Quick Presentation creation tip: unpacking bullets](prepare-slide-decks#quick-presentation-creation-tip-unpacking-bullets)
   * [Pick a presentation tool that helps you present](prepare-slide-decks#pick-a-presentation-tool-that-helps-you-present)
 
-<!-- 
+<!--
 create-slide-decks
 -->
 
@@ -199,7 +199,7 @@ create-slide-decks
     * [Avoid "Hello World"](create-slide-decks#avoid-hello-world)
     * [Be fresh](create-slide-decks#be-fresh)
 
-<!-- 
+<!--
 slide-checklist
 -->
 
@@ -237,7 +237,7 @@ use-the-web
   * [Create or take part in a newsletter](use-the-web#create-or-take-part-in-a-newsletter)
   * [Create or take part in a podcast](use-the-web#create-or-take-part-in-a-podcast)
 
-<!-- 
+<!--
 working-from-your-own-computer
 -->
 
@@ -251,7 +251,7 @@ working-from-your-own-computer
   * [Design limitations to prepare for](working-from-your-own-computer#design-limitations-to-prepare-for)
   * [Personal issues to prepare for](working-from-your-own-computer#personal-issues-to-prepare-for)
 
-<!-- 
+<!--
 recording-talks
 -->
 
@@ -263,13 +263,13 @@ recording-talks
   * [Record in the highest possible quality](recording-talks#record-in-the-highest-possible-quality)
   * [Keep originals and make it easy to get your video](recording-talks#keep-originals-and-make-it-easy-to-get-your-video)
 
-<!-- 
+<!--
 videos
 -->
 
 * [Creating educational videos](videos)
   * [Creating super short videos](videos#super-short-demo-videos)
-  
+
 
 <!--
 final-words

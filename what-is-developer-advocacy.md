@@ -44,9 +44,9 @@ and the sugar technology platforms.
 
 You can make developers find solutions for almost anything -- if you
 speak their language. If you don\'t then they will most likely appear as
-weird and non-communicative. They can also seem to be generally not as excited 
-about working for the company as -- for example -- the marketing department is. 
-If you fail to excite them they take their solution finding energy elsewhere -- 
+weird and non-communicative. They can also seem to be generally not as excited
+about working for the company as -- for example -- the marketing department is.
+If you fail to excite them they take their solution finding energy elsewhere --
 into their own pet projects or by contributing to other open products.
 
 The trick is to understand that to be a developer -- especially a web
@@ -74,7 +74,7 @@ article or presentation already finished.
 As a developer advocate it is important that you have experience as
 a developer. The more projects the better. As working in an
 agency is different to working for local government or a large
-multi-national company. Your job is  to make your company\'s
+multi-national company. Your job is to make your company\'s
 technical offerings attractive and interesting to a large variety of
 developers, and you can only do that when you know their pain.
 

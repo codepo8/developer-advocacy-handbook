@@ -15,7 +15,7 @@ The main thing to remember is that text on the web is not published in
 one place but spreads throughout the web as bookmarks, links and
 references. Therefore it is important to chunk texts up into easily
 digestible, quotable and repeatable chunks and make your headlines and
-document titles work without the context of the full text. 
+document titles work without the context of the full text.
 
 > **Fact:** This is also an accessibility benefit. Assistive technologies like screen readers allow you to navigate a document by headlines instead of having to listen to the whole document as one big chunk.
 
@@ -43,7 +43,7 @@ matters.
 
 ## Say what it is - don't sugar-coat it
 
-Your heading and introductory text are the most important part of a 
+Your heading and introductory text are the most important part of a
 post. Both determine how easy it will be to find the post in the future.
 Newspapers have conditioned us to write witty and interesting headlines
 with pop references and alliterations. That is fun, but you already have

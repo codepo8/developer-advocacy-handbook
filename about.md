@@ -33,7 +33,7 @@ Fast forward to now. I had a long career as a "developer evangelist" in
 a few companies and this handbook has inspired a lot of people to go the
 same route. Developer Relations (DevRel) with all its different roles is
 a much more common market now. Many companies have taken on the ideas
-outlined here and in the follow-up books, posts and videos. 
+outlined here and in the follow-up books, posts and videos.
 There are dedicated mailing lists, communities and even
 conferences that don't only feature DevRel people but are exclusively about
 DevRel.
@@ -68,7 +68,7 @@ at about 20 conferences a year and lead teams of developers and
 developer advocates. He published two books and contributed to 6 more.
 He's been content editor for various online magazines and originally
 worked as a radio journalist before he considered the web his new home.
-He blogs since 2005 at [christianheilmann.com](https://christianheilmann.com) 
-and can be found on Twitter as the name of [codepo8](https://twitter.com/codepo8). 
-He lived and worked in Germany, India, United States and the UK. 
+He blogs since 2005 at [christianheilmann.com](https://christianheilmann.com)
+and can be found on Twitter as the name of [codepo8](https://twitter.com/codepo8).
+He lived and worked in Germany, India, United States and the UK.
 He currently lives in Berlin, Germany and works as a Principal Program Manager at Microsoft.

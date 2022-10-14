@@ -152,7 +152,7 @@ heard of it?" and stop them in their tracks.
 
 * "This has been around for a while and was explained wonderfully in X (X being a resource you link to)"
 * "Tests have shown that X is a given for a lot of solutions (point to research, give proof)"
-* "I base this on the fact that X, as proven many times by… (and add  a list a resources)"
+* "I base this on the fact that X, as proven many times by… (and add a list a resources)"
 
 "Citation needed" is a wonderful way to say something and prove your
 point. You show people that you did your homework before you make an

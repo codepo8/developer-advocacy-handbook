@@ -1,7 +1,7 @@
 ---
 next: slide-checklist
 nexttitle: A checklist for your slides
-title: Create great slide decks for presentations -  The Developer Advocacy Handbook
+title: Create great slide decks for presentations - The Developer Advocacy Handbook
 summary: Lots of tips and tricks on creating great slide decks.
 heroimage: https://developer-advocacy.com/images/slide-example.png
 ---
@@ -10,9 +10,9 @@ heroimage: https://developer-advocacy.com/images/slide-example.png
 
 ![Slide example](images/slide-example.png){:height="900" width="1600"}
 
-A good slide deck is a companion to your presentation. It should underscore 
-what you say and get people excited about the subject matter. In a perfect 
-example each slide should be able to be on its own and together they describe a 
+A good slide deck is a companion to your presentation. It should underscore
+what you say and get people excited about the subject matter. In a perfect
+example each slide should be able to be on its own and together they describe a
 story you as the presenter should tell.
 
 ## Illustrate, don\'t transcribe
@@ -30,19 +30,19 @@ a communication disaster.
 
 In addition to that it means that you cannot concentrate on the
 audience. Checking the audience and their body language is a large part
-of giving a good presentation. 
+of giving a good presentation.
 
 > **Fact:** Presenting is not about you celebrating yourself and performing a show but about you bringing information to the audience in an engaging and interesting way.
 
-You can only do that when you can see the effect you have -- not when you 
+You can only do that when you can see the effect you have -- not when you
 have to read what you want to say.
 
 Thus you need to find a single sentence or even a word, a picture, a
 screenshot, some graph or some illustration that explains and
 accentuates what you want to talk about in this segment of your
 presentation. You don\'t overwhelm the audience with things to
-read and look at but enable them to concentrate on you. You free yourself 
-in your delivery and -- if needed -- alter your delivery style to stop 
+read and look at but enable them to concentrate on you. You free yourself
+in your delivery and -- if needed -- alter your delivery style to stop
 the audience from nodding off or leaving.
 
 Let\'s have a quick example from a long time ago. The following
@@ -228,9 +228,9 @@ with soundless video than with real "movies" that need sound.
 > **Example:** another exception to my rule is when you want to provoke a
 very emotional response and make people understand something beyond
 their own experience that is very human. One example is that when I talked
-about the accessible version of YouTube I created a long time ago. 
-Rather than me explaining what effect these changes to the interface had 
-it was more powerful to show [how Lizzie, a user with learning disabilities](https://www.youtube.com/watch?v=CwsDKaalgq8) and [Kirin, a blind user](https://www.youtube.com/watch?v=QiuT0y0KR6I) were able to enjoy online video. Especially Kirin\'s end sentence \"The thing is the power
+about the accessible version of YouTube I created a long time ago.
+Rather than me explaining what effect these changes to the interface had
+it was more powerful to show [how Lizzie, a user with learning disabilities](http://www.youtube.com/watch?v=CwsDKaalgq8) and [Kirin, a blind user](http://www.youtube.com/watch?v=QiuT0y0KR6I) were able to enjoy online video. Especially Kirin\'s end sentence \"The thing is the power
 ... this has given me the power that it should give me in the
 beginning.\" is a wonderful emotional moment to get you back into your
 talk.
@@ -332,7 +332,7 @@ Moose\")](https://www.youtube.com/watch?v=CAsYwW7pt7o). Nobody got it as
 the chef is obviously not called Swedish in the Swedish version of the show. I
 also added a \"have a break, have a Kit-Kat\" joke in there, and this
 was another ad only aired in the UK. I only knew it from \"world\'s
-funniest TV ads\" on German TV. Either reference landed like a lead balloon 
+funniest TV ads\" on German TV. Either reference landed like a lead balloon
 and didn't add to the talk at all.
 
 As stated at the beginning, a lot of the tips here are for creating
@@ -457,11 +457,11 @@ put in things that people just don't expect -- to keep both me and them
 on the ball. Humour also makes things more approachable. We tend to use
 humour to deal with things that scare us. Furthermore humour allows for
 a memorable moment -- it is a way of structuring and providing landmarks
-in your presentation. That said, be careful though. 
+in your presentation. That said, be careful though.
 
-Edgy humour may work for stand-up comedians, but quoting their material 
-can get you in big trouble. If you use humour, make sure you don't offend 
-people. What you sometimes see as a funny way to describe something can be 
+Edgy humour may work for stand-up comedians, but quoting their material
+can get you in big trouble. If you use humour, make sure you don't offend
+people. What you sometimes see as a funny way to describe something can be
 immensely offensive to people who suffer from a certain disorder or had terrible
 experiences. The best way is to ask a few people not like you what they
 think of the joke and if it adds some levity or fun. Also remember that

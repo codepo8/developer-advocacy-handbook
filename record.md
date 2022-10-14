@@ -1,7 +1,7 @@
 ---
 next: use-the-web
 nexttitle: Know and use the web
-title: Keep a record of your work -  The Developer Advocacy Handbook
+title: Keep a record of your work - The Developer Advocacy Handbook
 summary: Learn about simple ways to record yourself to get better over time
 heroimage: https://developer-advocacy.com/images/filing.jpg
 ---
@@ -86,7 +86,7 @@ later on -- simply get the link collection with the presentation tag.
 
 The other benefit of this is that people can tag and add notes to your
 links in the social bookmarking system, thus making them even more
-findable. 
+findable.
 
 ## Keep a conference participation list
 

@@ -26,7 +26,7 @@ products. I call these people "Full StackOverflow developers".
 
 One of my biggest bug-bears are "hello world" examples that don\'t do
 anything useful. Instead I aim to give out code that solves a real
-problem. 
+problem.
 
 > **Fact:** "Hello World" code teaches people to write code, but not how
 to solve issues with it.
@@ -38,7 +38,7 @@ should get people excited about using the product and entice them to
 dive into the documentation to find out about the details.
 
 So instead of starting by reading the docs yourself, check what the tool
-can do and look for a problem you always wanted to solve that this technology 
+can do and look for a problem you always wanted to solve that this technology
 can help with. Then solve it using the product and explain
 what you\'ve done as the code example. This is also an excellent way to
 check the validity of your product documentation. If you get stuck as
@@ -50,7 +50,7 @@ documentation.
 
 One of the first things to show in a code example is a working
 implementation. There is nothing more powerful than a way to see what
-the thing does by clicking a link or playing with some data in a form. 
+the thing does by clicking a link or playing with some data in a form.
 You telling the readers that it works is one thing -- the
 readers being able to try it out and seeing for themselves is much
 more rewarding.
@@ -60,8 +60,8 @@ firewall or needs authentication then you can still show how it works by
 recording a screencast. These are less impactful and could be
 considered "fake", but it is better than nothing.
 
-Examples should work but also be pretty and smooth. A lot of examples 
-fail to please the eye or actually violate a lot of usability basics -- 
+Examples should work but also be pretty and smooth. A lot of examples
+fail to please the eye or actually violate a lot of usability basics --
 don\'t give a shoddy first impression.
 
 ## Explain the necessary environment
@@ -110,9 +110,8 @@ video tutorials. In any case it keeps your article in the mind of the
 readers as they have something on their hard drives reminding them of
 it.
 
-Offering a zipped version of your demo code can be annoying as every
-change means you have to re-pack the demos. Luckily hosted code solutions 
-like [GitHub](https://github.com/) do this job for you automatically.
+Offering a zipped version of your demo code can be annoying as every change means you have to re-pack the demos. Luckily hosted code solutions
+like [GitHub](http://github.com) do this job for you automatically.
 
 ## Write clean and clever examples
 
@@ -219,7 +218,7 @@ it accessible to people. These platforms also have built-in feedback
 mechanisms and people can take your code, take a copy and change it right
 there and then to their needs.
 
-For you, there are also options to add a wiki and documentation. 
+For you, there are also options to add a wiki and documentation.
 Even more importantly, most of these platforms don't only allow you to
 host your code, but also to execute it. This, naturally, comes with a few
 limitations. You can show HTML, CSS and JavaScript on almost any of
@@ -228,7 +227,7 @@ for, but there are some that also allow for full application hosting
 together with the source.
 
 Most platforms will have some static site generation tool included, like
-[Gatsby](https://www.gatsbyjs.com/), [Jekyll](https://jekyllrb.com/) 
+[Gatsby](https://www.gatsbyjs.com/), [Jekyll](https://jekyllrb.com/)
 or similar ones. If you are reading this book online,
 this is what I used. The texts here are in markdown and I am using
 [GitHub pages](https://pages.github.com/) with Jekyll to generate HTML.
@@ -277,9 +276,9 @@ used during interviews.
 Some of these platforms have done a great job to build a community
 around code examples. Codepen, for example, is a treasure trove of
 finding examples to add to your presentations and explain what
-technologies enabled them. It is important to give credit where credit 
-is due, though. You can also take part and make a name for yourself by 
-showing cool things off there. 
+technologies enabled them. It is important to give credit where credit
+is due, though. You can also take part and make a name for yourself by
+showing cool things off there.
 
 Often these examples play with newest technologies and are a great way
 for you as a developer advocate to show their worth to prospective other

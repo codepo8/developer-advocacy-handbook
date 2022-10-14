@@ -13,12 +13,12 @@ company.
 
 This can actually be a much harder job than dealing with the outside.
 The reason is that people on the inside have both more information about
-and a different relationship to the products you advocate. 
+and a different relationship to the products you advocate.
 
-That can mean that whilst the outside world is excited about a certain product, 
+That can mean that whilst the outside world is excited about a certain product,
 people on the inside aren't proud of it at all. And getting praise for a job
 you considered not done well isn't a good feeling. It makes you feel
-like people don't appreciate your efforts at all. 
+like people don't appreciate your efforts at all.
 
 The journey towards releasing a product can be painful, frustrating and sometimes plain
 confusing. For example, highly successful products can bleed money.
