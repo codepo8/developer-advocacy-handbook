@@ -116,7 +116,7 @@ bullets" and here is how it works:
 * Add a cover slide and a thank you slide with resource links and you have a presentation
 
 In essence, you create a to-do list for your slides, you define the
-[narrative structure](http://en.wikipedia.org/wiki/Narrative_structure)
+[narrative structure](https://en.wikipedia.org/wiki/Narrative_structure)
 of your presentation upfront instead of collecting a lot of material and
 arrange it in a second step. That way you ensure that you show 
 the right amount of information rather than getting over-excited and
