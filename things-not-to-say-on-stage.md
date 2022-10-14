@@ -61,7 +61,7 @@ and what effects it can have.
 
 We often try to calm down the audience by making what we show appear
 simple. The problem with that is that what is simple for us might still
-be confusing to the people in the room or online . Add peer-pressure to that and
+be confusing to the people in the room or online. Add peer-pressure to that and
 people will neither speak up that they don't understand, nor feel
 empowered. The opposite applies -- by saying something is easy and
 people failing to grasp or apply it, we make them feel stupid. If you
