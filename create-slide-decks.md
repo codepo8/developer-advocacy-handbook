@@ -47,19 +47,19 @@ the audience from nodding off or leaving.
 
 Let\'s have a quick example from a long time ago. The following
 information is what I had [in my
-notes](http://www.wait-till-i.com/2009/08/18/domainconvergence/):
+notes](https://christianheilmann.com/2009/08/18/domainconvergence/):
 
 The way to have fun with the web of data is to distribute ourselves
 around the web and bring the data back to our sites.
 
 The first step is to spread our content on the web:
 
-* upload photos to [Flickr](http://flickr.com)
-* bookmark and tag URLs at [Delicious](http://delicious.com) (you see here how long ago that was)
-* write short and succinct news updates at [Twitter](http://twitter.com)
-* upload videos to [YouTube](http://youtube.com)
-* link addresses and set up driving instructions with [Google Maps](http://maps.google.com)
-* write CVs and bios at [Xing](http://xing.com) or [LinkedIn](http://linkedin.com)
+* upload photos to [Flickr](https://flickr.com/)
+* bookmark and tag URLs at [Delicious](http://del.icio.us/) (you see here how long ago that was)
+* write short and succinct news updates at [Twitter](https://twitter.com/)
+* upload videos to [YouTube](https://www.youtube.com/)
+* link addresses and set up driving instructions with [Google Maps](https://www.google.com/maps)
+* write CVs and bios at [Xing](https://www.xing.com/) or [LinkedIn](https://www.linkedin.com/)
 
 The benefits of this approach are the following:
 
@@ -123,7 +123,7 @@ wallpaper to your performance.
 
 > **Example:** Say for example you want the photo of a lock, [check this
 search
-link](http://www.flickr.com/search/?l=commderiv&mt=all&adv=1&w=all&q=lock&m=text).
+link](https://www.flickr.com/search/?l=commderiv&mt=all&adv=1&w=all&q=lock&m=text).
 Each of these photos you can use in your slides and all you have to do
 is to thank the original photographer by mentioning them by name. I
 normally include the URL of the photo on Flickr in the slide, too, so
@@ -131,7 +131,7 @@ that other people can re-use the photo if they want to.
 
 No need for expensive stock photography of multi-ethnic people in suits
 high-fiving or shaking hands - tap into and participate in [Creative
-Commons](http://creativecommons.org) and we all have more interesting
+Commons](https://creativecommons.org/) and we all have more interesting
 slides.
 
 > **Warning:** Make sure that you really have the right to use the image.
@@ -328,7 +328,7 @@ excited about.
 > **Example:** When I went to Sweden to give a talk I put in some slides
 about the [Swedish Chef from the Muppet Show (here in my favourite
 sketch of all time -- \"Chocolate
-Moose\")](http://www.youtube.com/watch?v=CAsYwW7pt7o). Nobody got it as
+Moose\")](https://www.youtube.com/watch?v=CAsYwW7pt7o). Nobody got it as
 the chef is obviously not called Swedish in the Swedish version of the show. I
 also added a \"have a break, have a Kit-Kat\" joke in there, and this
 was another ad only aired in the UK. I only knew it from \"world\'s
@@ -426,10 +426,10 @@ plan to become developer advocates themselves.
 
 Upload the deck to your blog, make it available as a download or -- even
 better -- upload it to a slide sharing resource. There are various great
-great tools to get your slides distributed. People can comment on them,
-share them with friends, embed your slides in conference blog posts or
-as a resource for a certain subject and many things more. They are what
-Flickr was to photos and YouTube is to videos.
+tools to get your slides distributed. People can comment on them, share
+them with friends, embed your slides in conference blog posts or as a
+resource for a certain subject and many things more. They are what Flickr
+was to photos and YouTube is to videos.
 
 Sharing your slides is what a lot of people in the audience will ask you
 to do and it will get you known as a speaker. People may stumble upon
@@ -475,7 +475,7 @@ consume for humans. Real world comparisons also allow for emotion -- and
 emotional responses are powerful and make us remember.
 
 > **Example:** If you for example talk about code standards and re-use of
-code without a proper review a good case to mention is [the Ariane 5 disaster](http://en.wikipedia.org/wiki/Ariane_5_Flight_501). This rocket
+code without a proper review a good case to mention is [the Ariane 5 disaster](https://en.wikipedia.org/wiki/Ariane_flight_V88). This rocket
 self-destructed because it veered off its intended path 37 seconds after
 lift-off. The reason was re-use of the code used to launch Ariane 4,
 which had different flight specs. 370 million dollars were lost due to

@@ -15,7 +15,7 @@ Almost every slide software comes with a recording option.
 
 What you use is up to you and you may look around and try a few things
 out. I was, for example, pleasantly surprised to find that both
-Powerpoint and Keynote come with a recording option. You can add a video
+PowerPoint and Keynote come with a recording option. You can add a video
 recording and a voiceover to each slide, right in the program itself.
 There are also browser extensions that allow you to record anything on
 the screen.
@@ -123,11 +123,11 @@ my face to appear in. You can even make that part of the design.
 Many slide systems create automatic captions of what you say. Not every
 conference has the same feature or the place where they store the videos
 may not have it either. That's why it is a nice to have to turn on
-captioning on your system when you record your talk. In Powerpoint, for
+captioning on your system when you record your talk. In PowerPoint, for
 example, this is part of the Slide Show menu and all you need to do is
 tick the "always use subtitles" feature.
 
-![Subtitle option in Powerpoint](images/powerpoint-subtitles.png){:width="1898"
+![Subtitle option in PowerPoint](images/powerpoint-subtitles.png){:width="1898"
 height="422"}
 
 ## Record in the highest possible quality

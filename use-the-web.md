@@ -140,15 +140,15 @@ important for you to be aware of great resources that are already
 established, have a network of specialists and allow you to easily store
 and access content:
 
-* [Flickr](http://flickr.com) used to be a leading photo sharing community that allows you to store photos and screenshots. Flickr is still a great resource for Creative Commons licensed photos for your presentation. It used to be a massive community and a great way to interact with people. It is still around and has high-quality content but for quick fire and forget image posting it's been replaced by the likes of Instagram and imgur quite some time ago.
-* [YouTube](http://youtube.com) is the \#1 video sharing web site in the world, run by Google. It is very easy to store video on YouTube and embed the videos back into your blog or web sites. Users can comment and tag. The support for annotations and captions helps to create accessible content and allows you to add extra information to video content. You can have your own channel and have drafts and timed video releases. You can also go live on YouTube and have your own show. Quite a few people make a living on YouTube these days, so it might be tough to stand out.
-* [Vimeo](http://vimeo.com) is another video sharing site, which does the same as YouTube but has higher quality content. I found that it works better for higher quality and longer media.
-* [Archive.org](http://archive.org) is the Internet Archive which allows you to easily store videos, audio and pictures that you want to release to the public.
-* [GitHub](http://github.com) is a social code sharing network. Git is a version control system and GitHub allows you to store code there, have a Wiki to explain the information and make it easy for other developers to fork and watch your code. GitHub also comes with a nice code display and automatically creates archives of your code for people to download so you don\'t need to zip it up after each change. If you stick to HTML, CSS and JavaScript you can also host your product there next to the source code. The online version of this book is hosted on GitHub.
-* [LinkedIn](http://linkedin.com) is a professional network where you can find other advocates and key people in companies you want to reach.
-* [Facebook](http://facebook.com) I am sure I don\'t have to explain. Good for event organisation and contacting people quickly, less useful for photo storage because of their terms and conditions.
-* [Meetup](http://meetup.com) revolves around real-life meetings and events.
-* [Twitter](http://twitter.com) has taken over the online world by storm. It is still re-inventing itself daily trying to define what it is, but one thing is for sure: it is an amazingly easy way to spread short information very far and very fast and a good way to stay in contact with people when you are on the go.
+* [Flickr](https://flickr.com/) used to be a leading photo sharing community that allows you to store photos and screenshots. Flickr is still a great resource for Creative Commons licensed photos for your presentation. It used to be a massive community and a great way to interact with people. It is still around and has high-quality content but for quick fire and forget image posting it's been replaced by the likes of Instagram and imgur quite some time ago.
+* [YouTube](https://www.youtube.com/) is the \#1 video sharing web site in the world, run by Google. It is very easy to store video on YouTube and embed the videos back into your blog or web sites. Users can comment and tag. The support for annotations and captions helps to create accessible content and allows you to add extra information to video content. You can have your own channel and have drafts and timed video releases. You can also go live on YouTube and have your own show. Quite a few people make a living on YouTube these days, so it might be tough to stand out.
+* [Vimeo](https://vimeo.com/) is another video sharing site, which does the same as YouTube but has higher quality content. I found that it works better for higher quality and longer media.
+* [Archive.org](https://archive.org/) is the Internet Archive which allows you to easily store videos, audio and pictures that you want to release to the public.
+* [GitHub](https://github.com/) is a social code sharing network. Git is a version control system and GitHub allows you to store code there, have a Wiki to explain the information and make it easy for other developers to fork and watch your code. GitHub also comes with a nice code display and automatically creates archives of your code for people to download so you don\'t need to zip it up after each change. If you stick to HTML, CSS and JavaScript you can also host your product there next to the source code. The online version of this book is hosted on GitHub.
+* [LinkedIn](https://www.linkedin.com/) is a professional network where you can find other advocates and key people in companies you want to reach.
+* [Facebook](https://www.facebook.com/) I am sure I don\'t have to explain. Good for event organisation and contacting people quickly, less useful for photo storage because of their terms and conditions.
+* [Meetup](https://www.meetup.com/) revolves around real-life meetings and events.
+* [Twitter](https://twitter.com/) has taken over the online world by storm. It is still re-inventing itself daily trying to define what it is, but one thing is for sure: it is an amazingly easy way to spread short information very far and very fast and a good way to stay in contact with people when you are on the go.
 
 These are only a few of the sites that make a lot of sense to use as a
 developer advocate. This market is constantly moving and there are
@@ -256,8 +256,8 @@ you how successful different styles of publication are.
 
 As the web is much more social these days than it used to be, it is
 easier for you to connect to other people. You can get up-to-date
-information from people on [Twitter](http://twitter.com),
-[Facebook](http://facebook.com) and [LinkedIn](http://linkedin.com) and
+information from people on [Twitter](https://twitter.com/),
+[Facebook](https://www.facebook.com/) and [LinkedIn](https://www.linkedin.com/) and
 you can give information to the right people with the right networks
 almost instantly.
 

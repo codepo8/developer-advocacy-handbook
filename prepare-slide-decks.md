@@ -13,7 +13,7 @@ heroimage: https://developer-advocacy.com/images/preparation.jpg
 **Slides are a tricky thing to get right**. The main problem with them
 is that as a developer advocate you predominantly have a technical
 audience and slide decks are anathema to us. The term \"death by
-powerpoint\" is much more than a Dilbert cartoon. Sadly enough a lot of
+PowerPoint\" is much more than a Dilbert cartoon. Sadly enough a lot of
 our day to day life in offices consists of sitting in a room trying to
 look alert whilst slowly dying inside as some old-school presenter shows
 us just how many bullet points you can cram into one slide.
@@ -116,7 +116,7 @@ bullets" and here is how it works:
 * Add a cover slide and a thank you slide with resource links and you have a presentation
 
 In essence, you create a to-do list for your slides, you define the
-[narrative structure](http://en.wikipedia.org/wiki/Narrative_structure)
+[narrative structure](https://en.wikipedia.org/wiki/Narrative_structure)
 of your presentation upfront instead of collecting a lot of material and
 arrange it in a second step. That way you ensure that you show
 the right amount of information rather than getting over-excited and

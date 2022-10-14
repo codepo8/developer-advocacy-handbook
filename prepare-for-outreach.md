@@ -66,7 +66,7 @@ world the moon on a stick.
 ## Choose the right medium
 
 Your communication should be in the right format for the intended
-audience. This can be many things: slides,videos, audio, live
+audience. This can be many things: slides, videos, audio, live
 coding exercises, online step-by-step examples or streams.
 
 > **Tip:** My rule of thumb is - the more technical the audience, the fewer

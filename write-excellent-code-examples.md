@@ -72,8 +72,9 @@ You get around this issue in several ways:
 
 * **Write defensive code** -- check for dependencies before trying to access them.
 * **Check online and HTTP status** -- If your code needs to pull data from a web service say that the user needs to be online to run it. For example I\'ve had many a complaint that some of my JavaScript examples don\'t work offline or without running a local server. Obviously I failed to explain that it needs live data and that for security reasons some functionality of JavaScript is only available when accessed over HTTPS and not on the file system.
-* **List what is needed** -- say what your dependencies are. For example. "needs Node and NPM" or "Runs in Microsoft Edge version 85 and newer". If third party dependencies are needed, find a good tutorial for your readers to install them and link the name of the dependency to it.
+* **List what is needed** -- say what your dependencies are. For example. "needs Node and npm" or "Runs in Microsoft Edge version 85 and newer". If third party dependencies are needed, find a good tutorial for your readers to install them and link the name of the dependency to it.
 * **Provide a simple test script** that checks for the right setup. (For an example see the [test file for GeoMaker](http://github.com/codepo8/GeoMaker/blob/3d88e693698965b802539d2a467e05f1f67cff76/test.php)).
+
 * **Provide a developer key for the demo** -- but make it obvious to tell people that to implement your code they\'d need an own key. Provide a link where to apply for one.
 
 You won\'t be able to predict all things people can do wrong when
@@ -109,8 +110,7 @@ video tutorials. In any case it keeps your article in the mind of the
 readers as they have something on their hard drives reminding them of
 it.
 
-Offering a zipped version of your demo code can be annoying as every
-change means you have to re-pack the demos. Luckily hosted code solutions
+Offering a zipped version of your demo code can be annoying as every change means you have to re-pack the demos. Luckily hosted code solutions
 like [GitHub](http://github.com) do this job for you automatically.
 
 ## Write clean and clever examples

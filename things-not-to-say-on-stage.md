@@ -9,8 +9,8 @@ title: Things not to say on stage - The Developer Advocacy Handbook
 
 This is not about trigger words or discriminatory
 expressions. There is a lot of information about this available, and
-even some [excellent linting tools](http://alexjs.com/) for your texts.
-It is also not about unconscious bias. Or well, maybe it is. Learned
+even some [excellent linting tools](https://alexjs.com/) for your texts.
+It is also not about unconscious bias. Or well, maybe it is. Learned
 bias for sure.
 
 This is about some sentences used in technical presentations that
@@ -61,7 +61,7 @@ and what effects it can have.
 
 We often try to calm down the audience by making what we show appear
 simple. The problem with that is that what is simple for us might still
-be confusing to the people in the room or online . Add peer-pressure to that and
+be confusing to the people in the room or online. Add peer-pressure to that and
 people will neither speak up that they don't understand, nor feel
 empowered. The opposite applies -- by saying something is easy and
 people failing to grasp or apply it, we make them feel stupid. If you

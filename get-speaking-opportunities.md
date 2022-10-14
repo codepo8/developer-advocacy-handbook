@@ -77,7 +77,7 @@ find events like these organised around other events. For example,
 
 ## Go to Meetups
 
-[Meetups](http://www.meetup.com/) are informal gatherings of people in
+[Meetups](https://www.meetup.com/) are informal gatherings of people in
 the business to chat about hot topics and generally meet and get to know
 other local peers. Often they have a quick presentation slot to start the
 event and this is your chance to get a foot in the door and have an

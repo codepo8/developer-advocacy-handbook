@@ -41,10 +41,10 @@ perfectly capable of making a good enough recording of your talk if you
 don\'t walk around too much. The other option of course is to get a
 small external microphone.
 
-For recording, I use [Audacity](http://audacity.sourceforge.net/) which
+For recording, I use [Audacity](https://sourceforge.net/projects/audacity/) which
 is a free, open source sound editing tool that has all the capabilities
 you need (record, cut, convert). For storage of audio files, I use
-[archive.org](http://www.archive.org/index.php) which has a pretty nice
+[archive.org](https://archive.org/) which has a pretty nice
 uploading tool and comes with a good search functionality and in-built
 player.
 
@@ -69,9 +69,9 @@ video.
 Hosting is a bit harder -- archive.org is again an option but the real
 power of online video comes from hosting it where people are used to
 look for videos and can embed them in their own blogs.
-[YouTube](http://youtube.com) is of course a main candidate (also
+[YouTube](https://www.youtube.com/) is of course a main candidate (also
 because of their editing options and automatic caption generation), but
-I also love using [Vimeo](http://vimeo.com). Uploading takes a lot
+I also love using [Vimeo](https://vimeo.com/). Uploading takes a lot
 longer than the smaller audio files so it is pretty tough to have a
 really quick turnaround when you are on the go.
 
