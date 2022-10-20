@@ -215,9 +215,9 @@ normally upload them to YouTube, take a screenshot of them and show them
 as a slide together with the YouTube URL (which I can link and also
 provide in the HTML notes). That way you can talk about the video and
 don\'t lose five minutes of your presentation. You can also explain what
-happens in the video and how it is relevant to what we are talking
+happens in the video and how it is relevant to what you are talking
 about. And people who can\'t see videos still have an idea what is going
-on here.
+on.
 
 > **Tip:** An exception here are screencasts, which I am a big fan of. Instead
 of clicking around an interface and entering live data it makes sense to
@@ -225,8 +225,8 @@ record a screencast and then talk over it. The distribution problem
 still happens, but I found a lot less conference set-ups having an issue
 with soundless video than with real "movies" that need sound.
 
-> **Example:** another exception to my rule is when you want to provoke a
-very emotional response and make people understand something beyond
+> **Example:** Another exception to my rule is when you want to provoke an
+emotional response and make people understand something beyond
 their own experience that is very human. One example is that when I talked
 about the accessible version of YouTube I created a long time ago.
 Rather than me explaining what effect these changes to the interface had
@@ -272,7 +272,7 @@ slides to catch up with your narration. Sometimes you also have AV
 equipment that cannot show animations and that makes you wait for
 something that never happens.
 
-> **Example:** when I was in once at a university my talk was streamed on
+> **Example:** When I was in once at a university my talk was streamed on
 a video service of the university which meant the streaming server had
 to remotely connect into my laptop. As everything is wonky over VPN
 neither the animations nor the transitions worked.
@@ -382,8 +382,8 @@ Another very common thing that will happen to you once you become a
 speaker for your organisation is that you will be handed presentation
 decks to present. \"This has been done by Stephen from the US office and
 has been signed off by PR. Stephen can\'t come to the conference, so we
-want you to fill in for him. Here are his slides, good luck.\" is a
-sentence you will hear a lot.
+want you to fill in for him. Here are his slides, good luck.\" is
+something you will hear a lot.
 
 **If that happens to you, be firm and say that this is not how it
 works**. You are a presenter -- not a parrot. If the slides are not in
@@ -414,7 +414,7 @@ your information doesn\'t become stale.
 
 ## Share and enjoy
 
-Once you\'re done with your slides and you are happy with them don\'t
+Once you\'re done with your slides and you are happy with them, don\'t
 forget that sharing is caring.
 
 This could happen internally and externally. Sharing your decks in
@@ -474,8 +474,8 @@ that they make theoretical and hard to grasp data more easy to
 consume for humans. Real world comparisons also allow for emotion -- and
 emotional responses are powerful and make us remember.
 
-> **Example:** If you for example talk about code standards and re-use of
-code without a proper review a good case to mention is [the Ariane 5 disaster](https://en.wikipedia.org/wiki/Ariane_flight_V88). This rocket
+> **Example:** If you talk about code standards and re-use of
+code without a proper review, a good case to mention is [the Ariane 5 disaster](https://en.wikipedia.org/wiki/Ariane_flight_V88). This rocket
 self-destructed because it veered off its intended path 37 seconds after
 lift-off. The reason was re-use of the code used to launch Ariane 4,
 which had different flight specs. 370 million dollars were lost due to

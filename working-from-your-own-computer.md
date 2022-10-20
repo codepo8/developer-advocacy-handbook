@@ -15,15 +15,16 @@ show the world what you are working on. The main benefit is that you can
 concentrate on your production value. A lot of the randomness and
 physically stressful part of travel is gone which means you can do a lot
 from the familiar space of your home. You also have predictable
-connectivity and can upload materials faster This also comes
-with some problems. Not getting any feedback on your delivery can feel
-strange and you need to act more as if an audience is there in front of
-you. Furthermore, not deliberately going somewhere to present makes it
-harder to get into the right mindset. We can do almost any physical
-exercise we need at home, and yet we go to gyms. The reason is that we
-shift from one mode (being at home) to another (exercising). You need to
-find a way to trick yourself into doing that in the case of presenter,
-too.
+connectivity and can upload materials faster.
+
+This also comes with some problems. Not getting any feedback on your
+delivery can feel strange and you need to act more as if an audience is
+there in front of you. Furthermore, not deliberately going somewhere to
+present makes it harder to get into the right mindset. We can do almost
+any physical exercise we need at home, and yet we go to gyms. The reason
+is that we shift from one mode (being at home) to another (exercising).
+You need to find a way to trick yourself into doing that in the case of
+presenter, too.
 
 ## Get a decent setup
 
@@ -63,7 +64,7 @@ Most operating systems these days come with in-built screen recording
 tools. These can be used to annotate screenshots and take short screen
 recordings. Sometimes it makes sense to record a video, other times an
 animated GIF is a simpler solution. The tools I use the most are
-LiceCap, ScreenToGif, OBS Studio and Screenflow.
+LICEcap, ScreenToGif, OBS Studio and ScreenFlow.
 
 There are even browser extensions that allow you to record professional
 screencasts. We live in great times.
@@ -98,8 +99,8 @@ effective. Whilst I am not convinced that a real-time platform because
 of its fleeting nature lends itself to training and advocating there is
 a huge movement in that space. In any case when it comes to streaming
 not the same rules apply than when giving a presentation or creating a
-walkthrough. It is much more a conversation with the people in the chat
-and reacting to their messages and questions.
+walkthrough. It is much more of a conversation with the people in the
+chat and reacting to their messages and questions.
 
 In terms of preparing the same rules apply:
 

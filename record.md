@@ -22,8 +22,8 @@ that is to keep recordings of all the things you present.
 Making recordings of your talks and in general your work is a good idea
 because of several reasons:
 
-* **People who couldn\'t attend your session get the same information** -- a presentation to me is much more than the slide deck -- the deck is actually just the table of contents of the talk.
-* **You have the chance to check how you come across to the audience** -- I normally check my talks on my phone whilst cycling in the gym -- good use of the time and I can see where I need to improve.
+* **People who couldn\'t attend your session get the same information** -- a presentation to me is much more than the slide deck, as the deck is actually just the table of contents of the talk.
+* **You have the chance to check how you come across to the audience** -- I normally check my talks on my phone whilst cycling in the gym, as it's good use of the time and I can see where I need to improve.
 * **People who prefer audio or video get interested in what you do** -- this also includes people who need audio and video because of their condition
 * **People like to listen to audio recordings in the car** -- videos would be not a good idea.
 * **It allows you to publish in other channels** than just your blog or site or conference archive

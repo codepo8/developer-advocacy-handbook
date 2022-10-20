@@ -43,7 +43,7 @@ the fox puppet on my desk. Don't worry, he doesn't answer.
 ![Computer setup with fox puppet](images/recording-setup.jpg){:width="1024"
 height="976"}
 
-I tend to create a lot of versions of my video and criticise myself much
+I tend to create a lot of versions of my videos and criticise myself much
 more harshly than when I am on stage. On stage you have the excuse of a
 stressful surrounding and some "uhm" and "errs" or forgetting a detail
 is forgivable. It feels less so when you record and deliver a video.
@@ -52,8 +52,8 @@ make you more likeable and approachable. We don't need perfect videos
 for everything -- we need some that are exciting because what the person
 presents appears repeatable and relatable.
 
-When it comes to watching movies, I love to also watch the making
-of/behind the scenes and especially the blooper reels. It shows me that
+When it comes to watching movies, I love to also watch the "making
+of", "behind the scenes" and especially the blooper reels. It shows me that
 humans made the thing I enjoyed and that they had to struggle with all
 the same issues we also struggle with.
 
@@ -148,7 +148,7 @@ tempting to delete those files once you're happy with your video but
 I've often had conference organisers come back to me with some last
 minute edits and changes and doing those in an already exported video is
 much harder. External hard drives aren't that expensive and I used a few
-Cyber Mondays to stock up on some that exclusively hold the original
+Cyber Mondays to stock up on some that exclusively to hold the original
 files of my recordings.
 
 Once you are done with your recording and exported to an OK file size

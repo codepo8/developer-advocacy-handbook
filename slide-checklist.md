@@ -61,7 +61,7 @@ will make you a better and more relaxed presenter.
 
 * Are your slides available for download and will you have a handle on who will get them?
 * Is there a call to action at the end of the slides and is the resource unique and available?
-* Is there a way to track traffic from resources you mention (shortURLs, tracking IDs)?
+* Is there a way to track traffic from resources you mention (short URLs, tracking IDs)?
 
 ## Insurances
 
