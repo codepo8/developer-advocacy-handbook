@@ -130,7 +130,7 @@ normally include the URL of the photo on Flickr in the slide, too, so
 that other people can re-use the photo if they want to.
 
 No need for expensive stock photography of multi-ethnic people in suits
-high-fiving or shaking hands - tap into and participate in [Creative
+high-fiving or shaking hands -- tap into and participate in [Creative
 Commons](https://creativecommons.org/) and we all have more interesting
 slides.
 

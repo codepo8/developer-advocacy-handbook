@@ -19,7 +19,7 @@ The crux is that it is not easy becoming a speaker at conferences. This
 is partly based on the decision of most conference organisers to play it
 safe and only use well-known speakers. This again is based on the fact
 that audiences in surveys keep requesting well-known speakers and this
-is - sadly enough - how we keep the speaker circuit from changing.
+is -- sadly enough -- how we keep the speaker circuit from changing.
 
 There is however a way in, which is to the most part based on getting
 your name out there and using alternatives to conferences.
@@ -112,7 +112,7 @@ brown paperbags.
 
 Brownbag presentations are a great opportunity:
 
-* **They are not that common** - so offering them to a company makes the person agreeing to it an innovator. A lot of companies have them on their radar but have a hard time filling them with internal presenters
+* **They are not that common** -- so offering them to a company makes the person agreeing to it an innovator. A lot of companies have them on their radar but have a hard time filling them with internal presenters
 * **They mean that you reach people** that normally don\'t go to conferences but have quite a big word-of-mouth power or work in a large company that does a lot but isn't loud about it
 * **Your presentation is not disruptive to the daily deliveries** of the company but adds extra value to a normal break.
 * **They don\'t mean much traveling** as you can do them at local companies (granted, living in a hotspot makes it easy).
@@ -130,7 +130,7 @@ conference and that it is important for my team to go there and wanted
 to get my money\'s worth -- and everybody going to conferences should do
 the same.
 
-If you don\'t ask you don\'t get an answer - it is as simple as that.
+If you don\'t ask you don\'t get an answer -- it is as simple as that.
 If your question is technically valuable and interesting you can be
 quite sure that the rest of the audience had the same problem, but were
 too afraid to ask.
@@ -159,9 +159,9 @@ I also listed in the right amount of detail:
 
 * What I can do for an event
 * What topics I prefer to cover
-* What my show-stoppers are - things I won't do and I don't want to support
+* What my show-stoppers are -- things I won't do and I don't want to support
 * What I will deliver at the event
-* My technical setup - what stage technology I need
+* My technical setup -- what stage technology I need
 * What I expect of a conference organiser
 * Financial agreements (I normally don't ask to be paid, but my travel to be covered and the cost of a normal speaker fee to be used for free diversity tickets)
 * What can go wrong and how I will deal with it

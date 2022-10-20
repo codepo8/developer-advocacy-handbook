@@ -93,11 +93,11 @@ As the IT market is constantly changing so do the companies in it. This
 can be a great thing but in most of the cases it will mean that you have
 to deal with issues that are beyond of your control. Mergers,
 acquisitions, new products, products being discontinued, rounds of
-layoffs, redundancies - all of these things happen, so be prepared.
+layoffs, redundancies -- all of these things happen, so be prepared.
 
 > **Fact:** The sad fact is that most company changes don't have anything to
 do with the quality of your work. The concept of shareholders buying
-into a company because they believe in it has been dead for years - it
+into a company because they believe in it has been dead for years -- it
 is all about trading stocks and moving them to make money in the
 process. This means that most smaller companies have three months time
 to turn any new product into a massive success as this is the time in
@@ -110,16 +110,16 @@ developers are all about.
 The thing about you being a developer advocate is that you are in the
 spotlight of the world and the company so you\'ll be the first to be
 asked about an opinion when there is a big change in your company. This
-can have disastrous effects - either you violate a company policy and
+can have disastrous effects -- either you violate a company policy and
 tread hard on the toes of your legal, HR, marketing and PR team or you
 sound like a company drone to the developers in the company. Here are a
 few things to be aware of:
 
-* **Every change in the company has a legal process** - while you are not an official press channel to the outside world your statement can be misquoted (oh and it will) and get you into legal trouble with your own company - liaise with PR and legal as soon as possible when there is a change. Then tell the developers in your company the legal implications.
-* **There is no "off the record"** - neither internally and especially not when you are talking to the press/bloggers/outbound channels.
-* **Switch to listening mode** - during the first few hours after a dramatic change listen to everybody and keep your eyes and ears open to what people say. This helps you to stop people from completely destroying their professional standing in the company and the market and to learn about what is really happening. Don\'t be part of the noise that drowns the facts.
-* **Don\'t act emotional and make assumptions** - almost any change in the company will annoy people. In the heat of the moment this can lead to dangerous comments, assumptions and truisms which will come back to haunt you a week later. Be aware of this and don\'t fall into the same trap. Instead be ready to bail these people out later on. Get the facts and before you say anything have a backup that can verify what you are saying.
-* **Make your knowledge level clear** - if people ask you what is going on don\'t say "no comment" as that implies you know something but are not allowed to say it. Simply state that you are not in a position to know yet but that you are investigating.
+* **Every change in the company has a legal process** -- while you are not an official press channel to the outside world your statement can be misquoted (oh and it will) and get you into legal trouble with your own company -- liaise with PR and legal as soon as possible when there is a change. Then tell the developers in your company the legal implications.
+* **There is no "off the record"** -- neither internally and especially not when you are talking to the press/bloggers/outbound channels.
+* **Switch to listening mode** -- during the first few hours after a dramatic change listen to everybody and keep your eyes and ears open to what people say. This helps you to stop people from completely destroying their professional standing in the company and the market and to learn about what is really happening. Don\'t be part of the noise that drowns the facts.
+* **Don\'t act emotional and make assumptions** -- almost any change in the company will annoy people. In the heat of the moment this can lead to dangerous comments, assumptions and truisms which will come back to haunt you a week later. Be aware of this and don\'t fall into the same trap. Instead be ready to bail these people out later on. Get the facts and before you say anything have a backup that can verify what you are saying.
+* **Make your knowledge level clear** -- if people ask you what is going on don\'t say "no comment" as that implies you know something but are not allowed to say it. Simply state that you are not in a position to know yet but that you are investigating.
 
 > **Tip:** This last point is important. As your job is to communicate
 with everybody in the company people already assume that you know a lot
@@ -183,7 +183,7 @@ empowerment in his job. The reason was that he didn\'t dare talking to
 his manager. My main question in these calls was how he feels about
 going to the office every day and he said that he dreads it. The
 decision was clear: **if you do not like going to work and you don\'t
-feel you have a chance to cause any change - leave**. He is now in a new
+feel you have a chance to cause any change -- leave**. He is now in a new
 role in a different company, feels excited about the challenges
 there and left the company not in anger but with a feeling of
 accomplishment and knowledge that there are caring people in his old
@@ -200,12 +200,12 @@ Therefore it is immensely important that you keep on good terms and in
 constant communication with these departments. The reasons should be
 obvious:
 
-* **You don\'t want to give mixed messages** - different views, yes, but you should both at least promote the same products to different audiences.
-* **PR and marketing know legal implications you don\'t** - so make sure you chat with them before prematurely releasing information or promoting products that are about to change drastically.
+* **You don\'t want to give mixed messages** -- different views, yes, but you should both at least promote the same products to different audiences.
+* **PR and marketing know legal implications you don\'t** -- so make sure you chat with them before prematurely releasing information or promoting products that are about to change drastically.
 * **These departments have already established communication channels** which can give you a good way in to speak at conferences and work with the press.
-* **You can learn from their experience** - most probably these departments will have people that are on the job longer than you have been and can predict patterns.
-* **You can feed back state-of-the-art developer information** - validating the impression PR has of a new product with realities makes sure that over-ambitious advertising doesn\'t promise developers functionality that you\'d have to explain is not available yet.
-* **Sharing contacts can open doors** - you might have a way into companies and publication channels that PR always wanted to have but couldn\'t find.
+* **You can learn from their experience** -- most probably these departments will have people that are on the job longer than you have been and can predict patterns.
+* **You can feed back state-of-the-art developer information** -- validating the impression PR has of a new product with realities makes sure that over-ambitious advertising doesn\'t promise developers functionality that you\'d have to explain is not available yet.
+* **Sharing contacts can open doors** -- you might have a way into companies and publication channels that PR always wanted to have but couldn\'t find.
 
 Only by liaising with the other outreach channels of the company you can
 make sure that you give the same message. You don\'t want to be seen as
@@ -253,7 +253,7 @@ alien to you and you'd stand out like a sore thumb there. Some of your
 younger colleagues might actually already use the hot new channel and
 with a bit of guidance can do much better there than you could ever do.
 
-**Training advocates is a tricky thing** - by definition advocates
+**Training advocates is a tricky thing** -- by definition advocates
 should be found and empowered and cannot really be "made".
 
 Just like you use your powers of communication and persuasion to bring
@@ -261,10 +261,10 @@ products to developers you can use them to bring potential advocates out
 of the woodwork:
 
 * **Make the company aware of the communication channels** to the outside world. Say that the blog you have is successful and that you are happy to publish in-depth blog posts about current work and best practices used in the company. Then offer help with writing those. Prove that by giving a social media channel a more human voice more people will follow it than the ones that are basic news announcement channels of the brand.
-* **Tell the company about events** - both the ones you organise and ones that happen in the area. This is especially necessary when you can\'t attend them. Offer to support a developer who wants to go with free goodies to give out (stickers, shirts...) - if they go and bring back photos and information how it went to write a blog post together.
-* **Offer specialised internal training and talks** - as the prospect of developer advocacy might still be alien and even scary to people cut the training offer down to things that can be applied in any professional role: writing for the web, public speaking tips, finding great web content (well, basically the different chapters here).
-* **Share great responses from the outside world** - send out for example a newsletter of "happy social quotes" with tweets and blog posts about how a certain event or product launch was received in the developer world.
-* **Ask people to challenge your products** - run some internal competitions to collect ideas about how people in the company would like your products to change. In a few companies I worked had we had "hack days" for that and more and more companies start doing the same.
+* **Tell the company about events** -- both the ones you organise and ones that happen in the area. This is especially necessary when you can\'t attend them. Offer to support a developer who wants to go with free goodies to give out (stickers, shirts...) -- if they go and bring back photos and information how it went to write a blog post together.
+* **Offer specialised internal training and talks** -- as the prospect of developer advocacy might still be alien and even scary to people cut the training offer down to things that can be applied in any professional role: writing for the web, public speaking tips, finding great web content (well, basically the different chapters here).
+* **Share great responses from the outside world** -- send out for example a newsletter of "happy social quotes" with tweets and blog posts about how a certain event or product launch was received in the developer world.
+* **Ask people to challenge your products** -- run some internal competitions to collect ideas about how people in the company would like your products to change. In a few companies I worked had we had "hack days" for that and more and more companies start doing the same.
 
 > **Tip:** A lot of this will tie in nicely with communication channels that
 PR and marketing already use. Ask them for help instead of doing your
@@ -281,7 +281,7 @@ If you find great tools that make everybody\'s life easier, share them
 with the company. This can include things like screenshot tools to stop
 people from sending you Word documents with embedded resized bitmaps,
 translation tools, communication tools, automated social media
-collateral generators - anything that you use to save time every day.
+collateral generators -- anything that you use to save time every day.
 
 > **Example:** One thing you will find is that if you are an early adopter of
 technology the main market will get to know some of them a few months

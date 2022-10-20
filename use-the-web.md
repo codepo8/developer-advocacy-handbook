@@ -109,7 +109,7 @@ mouth. **Be absolutely sure about your facts if you do that though!**
 try to disagree with you and try to "out" you as a corporate drone. This
 always annoyed me to no end. If what we call best practices and
 standards are not used by large companies they\'ll never spread across
-the whole market - so fighting the big players is actually hurting the
+the whole market -- so fighting the big players is actually hurting the
 cause. I call this prison tactics: a new inmate will make sure to beat
 up the largest and toughest guy to make sure the others leave him in
 peace. Maybe successful there but annoying and pointless in the IT

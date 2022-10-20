@@ -41,7 +41,7 @@ matters.
 
 > **Tip:** A tool I use a lot in my online writing is Hemingway. You can go to [hemingwayapp.com](https://hemingwayapp.com) and try it out. It is an online editor that gives you an indicator what reading age your text requires. It flags up common issues like sentences that are too long or overly complex words.
 
-## Say what it is - don't sugar-coat it
+## Say what it is -- don't sugar-coat it
 
 Your heading and introductory text are the most important part of a
 post. Both determine how easy it will be to find the post in the future.
@@ -190,7 +190,7 @@ troll\".
 Here are a few categories of negative feedback and tips to preemptively
 avoid them:
 
-* **This doesn\'t work at all for me - it is broken** -- make sure to define in necessary detail what environment is needed to run the product or demo you talk about.
+* **This doesn\'t work at all for me -- it is broken** -- make sure to define in necessary detail what environment is needed to run the product or demo you talk about.
 * **This is the same as product X by company Y** -- a lot of times this is a fan of a competitor. Mention that your product is very similar to others and list them. Explain in detail what the differences are and that your product is more than just a copy. By showing that you know about the other products you prove that you did do your homework and still found it worth-while to talk about it. Do not let people catch you not having done your research.
 * **Great but I can never use that, nobody needs that** -- explain in detail what problem the product solves. If this is not a common problem now but one of the future ask for feedback on how people like the product. Also tell them that this is a chance to make sure the product will be ready and great once they encounter that issue.
 * **Why do you waste time on this when your product Y is still broken?** -- make sure your writing sets the scope for the article. Talk in detail about **one** product. If you are lucky, other people will answer to a comment like this and point out that it is out of place. If not, answer swiftly that it is and point at a different thread or discussion where that person can vent their unhappiness about the other product

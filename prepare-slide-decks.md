@@ -8,7 +8,7 @@ heroimage: https://developer-advocacy.com/images/preparation.jpg
 
 # Prepare great slide decks for presentations
 
-![Getting ready to work out at home - weights, mat and shoes](images/preparation.jpg){:height="626" width="1500"}
+![Getting ready to work out at home -- weights, mat and shoes](images/preparation.jpg){:height="626" width="1500"}
 
 **Slides are a tricky thing to get right**. The main problem with them
 is that as a developer advocate you predominantly have a technical
@@ -67,7 +67,7 @@ any slides whatsoever. A good slide deck, however, gives people
 memorable moments and information they might miss if all they did was
 listen to you.
 
-## Start with a highly portable format - text
+## Start with a highly portable format -- text
 
 When I write a new slide deck I start with a text editor. I write the
 story of my presentation and I follow the same rules as for writing

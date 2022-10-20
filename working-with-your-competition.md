@@ -16,7 +16,7 @@ will not get far.
 
 > **Fact:** Your independence and your integrity is your main power. If
 you lost it you are not effective any longer. People should get excited
-about what you do because they trust your judgment - not because you
+about what you do because they trust your judgment -- not because you
 work for a certain company.
 
 Developers are loyal to solutions and technologies once they are happy
@@ -24,10 +24,10 @@ with using them. It is rare to find a developer who is OK with
 jumping from PHP to Java to Ruby to C\# to Python and in between
 Windows, Unix and Mac.
 
-On the contrary - we do spend a large part of our online time bickering
+On the contrary -- we do spend a large part of our online time bickering
 at each other that our favourite language is so much more powerful than
 anything else. Quite pointless, really, but it shows that developers
-have passion - and passion is a good thing.
+have passion -- and passion is a good thing.
 
 The same happens with companies. You get Microsoft fanboys, Google
 enthusiasts, Yahoo fans, Apple disciples, Adobe followers and they all
@@ -40,12 +40,12 @@ to a choir or get shot down in flames.
 
 You work around that in a few ways:
 
-* **Remain an independent voice** - talk about everything that gets you excited regardless of where it came from.
+* **Remain an independent voice** -- talk about everything that gets you excited regardless of where it came from.
 * **Become a specialist in a certain underlying technology** or methodologies that all these companies and languages rely on.
-* **Keep your finger on the pulse** - have a good collection of news sources to go through daily and tell the world about things you found and tried out.
+* **Keep your finger on the pulse** -- have a good collection of news sources to go through daily and tell the world about things you found and tried out.
 
 The fun thing is that every company out there wants to do what you want
-to achieve - make developers happy using their products. Therefore it
+to achieve -- make developers happy using their products. Therefore it
 is important that you keep an eye on and in contact with the
 competition as much as it is important to be aware of what your own
 company is up to.
@@ -55,11 +55,11 @@ part of a panel of JavaScript framework developers each representing a
 certain product. The audience was full of fans of all the different
 frameworks and eager to see a big fight on stage. The first thing we did
 though was tell the audience that there is no point in comparing and
-bickering as all frameworks want to do the same thing - make web
+bickering as all frameworks want to do the same thing -- make web
 development more predictable. We even pointed out what we appreciate the
 most about the other products. In the end the audience went home with a
 much more detailed picture about what each library does better than the
-other - not from the people building it but from their competition.
+other -- not from the people building it but from their competition.
 Everybody won.
 
 ## Show respect to the competition
@@ -76,8 +76,8 @@ amount of people on the speaking, training and advocating market is
 small and whoever you meet will cross your path again. Better to
 work together than to annoy each other.
 
-Showing respect and interest also means that - once you realise that
-you can trust another - you start sharing ideas, resources, conference
+Showing respect and interest also means that -- once you realise that
+you can trust another -- you start sharing ideas, resources, conference
 opportunities and even give each other sneak previews of things to come.
 And that gives everybody an advantage and makes our jobs easier.
 
@@ -88,8 +88,8 @@ rid of and will follow you around.
 
 ## Acknowledge when the competition is better
 
-This is a hard pill to swallow for a lot of people - especially for
-marketing departments - but bear with me. **If your competition has a
+This is a hard pill to swallow for a lot of people -- especially for
+marketing departments -- but bear with me. **If your competition has a
 better product than yours and people ask you which one is better admit that this is the case**. Whilst this sounds like admitting defeat
 in reality it shows a few things you can use to your advantage:
 
@@ -123,7 +123,7 @@ your peers do as you will constantly get questions about it.
 first question.
 
 If you can answer that, your tech integrity gets quite a boost and -
-let\'s face it - it is fun to poke at the things our peers produce.
+let\'s face it -- it is fun to poke at the things our peers produce.
 
 ## Build examples using and trying out competitive products
 
@@ -143,8 +143,9 @@ have questions that way.
 
 If you find that a new service or product by another company complements
 one of yours nicely, build something that uses both and show that to the
-world - this will be beneficial for both and people see to mix products of various companies. You might even see that people who
-promote the other product will use your example - as it is already built.
+world -- this will be beneficial for both and people see to mix products 
+of various companies. You might even see that people who promote the
+other product will use your example -- as it is already built.
 
 Your biggest success as a developer advocate is to get developers to
 talk about your products and promote them for you. This is why you need

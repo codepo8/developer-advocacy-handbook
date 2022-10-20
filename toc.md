@@ -137,7 +137,7 @@ write-great-posts-and-articles
 
 * [Write great posts and articles](write-great-posts-and-articles)
   * [Simple is not stupid](write-great-posts-and-articles#simple-is-not-stupid)
-  * [Say what it is - don't sugar-coat it](write-great-posts-and-articles#say-what-it-is---dont-sugar-coat-it)
+  * [Say what it is -- don't sugar-coat it](write-great-posts-and-articles#say-what-it-is---dont-sugar-coat-it)
   * [Size matters](write-great-posts-and-articles#size-matters)
   * [Add media](write-great-posts-and-articles#add-media)
   * [Structure your content](write-great-posts-and-articles#structure-your-content)
@@ -172,7 +172,7 @@ prepare-slide-decks
 * [Prepare great slide decks for presentations](prepare-slide-decks)
   * [Know your stuff](prepare-slide-decks#know-your-stuff)
   * [Start with the content -- not the slides!](prepare-slide-decks#start-with-the-content-not-the-slides)
-  * [Start with a highly portable format - text](prepare-slide-decks#start-with-a-highly-portable-format---text)
+  * [Start with a highly portable format -- text](prepare-slide-decks#start-with-a-highly-portable-format---text)
   * [Quick presentation creation tip: unpacking bullets](prepare-slide-decks#quick-presentation-creation-tip-unpacking-bullets)
   * [Pick a presentation tool that helps you present](prepare-slide-decks#pick-a-presentation-tool-that-helps-you-present)
 

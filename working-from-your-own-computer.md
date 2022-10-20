@@ -32,10 +32,10 @@ Most laptops have all the things you need to get started to record
 videos, screencasts and stream on the web. To get really high quality
 recordings, it makes sense though to invest some money on a few extras:
 
-* **External microphones** - if you do a lot of recording or streaming from your device, it makes sense to spend some money on an external microphone. The reason is that they sound a lot better and block out external noise. Another big benefit of external microphones is that you can type and speak/record at the same time without annoying your audience with the clicking sounds of your keyboard.
-* **External monitor** - the benefit of having a second monitor is that you can use one screen to record talks and have your speaker notes on the other one. It is also simpler to have the app you want to do a screencast of on the second monitor without any distractions around it.
-* **External camera** - for high-end recording it makes sense to have an external camera (which is also great to take to events to do some quick interviews) but at a stretch your mobile phone is also good enough. Having a camera on the secondary monitor also means you will have a nice central camera placement and look at the audience without bending over too much.
-* **Proper lighting** - LED ring lights by now are really affordable and positioned behind the laptop or secondary monitor give an excellent look. Avoid any lighting from behind.
+* **External microphones** -- if you do a lot of recording or streaming from your device, it makes sense to spend some money on an external microphone. The reason is that they sound a lot better and block out external noise. Another big benefit of external microphones is that you can type and speak/record at the same time without annoying your audience with the clicking sounds of your keyboard.
+* **External monitor** -- the benefit of having a second monitor is that you can use one screen to record talks and have your speaker notes on the other one. It is also simpler to have the app you want to do a screencast of on the second monitor without any distractions around it.
+* **External camera** -- for high-end recording it makes sense to have an external camera (which is also great to take to events to do some quick interviews) but at a stretch your mobile phone is also good enough. Having a camera on the secondary monitor also means you will have a nice central camera placement and look at the audience without bending over too much.
+* **Proper lighting** -- LED ring lights by now are really affordable and positioned behind the laptop or secondary monitor give an excellent look. Avoid any lighting from behind.
 
 Here is what I am using these days:
 

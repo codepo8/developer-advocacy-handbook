@@ -34,7 +34,7 @@ The first thing I do before I record a video is to start with the script. This a
 >
 > You can click those to learn about the problem and you get a light bulb to fix the issue.
 >
-> For some issues you can ask code to fix it automatically - like adding a missing charset type.
+> For some issues you can ask code to fix it automatically -- like adding a missing charset type.
 >
 > You can also tell it to never report this issue again.
 >
@@ -64,10 +64,10 @@ Record the screen in as high as a resolution as you can, as depending on the for
 
 ## Sync the screencast with your audio/video
 
-The last step is to edit the screencast to pan and zoom to the parts you want to show, add text and image overlays as needed, but - even more importantly - sync it with the audio and video of your recording. This is the most time consuming part of the process and you will have to do it a few times to get it right. The audio and video is the main timeline of the video and you add the screencast on top of it. Cut out the parts that don't match, speed up parts that take too long to match the narration and add freeze frames when there is more to be explained. You can see a timeline of the video earlier here.
+The last step is to edit the screencast to pan and zoom to the parts you want to show, add text and image overlays as needed, but -- even more importantly -- sync it with the audio and video of your recording. This is the most time consuming part of the process and you will have to do it a few times to get it right. The audio and video is the main timeline of the video and you add the screencast on top of it. Cut out the parts that don't match, speed up parts that take too long to match the narration and add freeze frames when there is more to be explained. You can see a timeline of the video earlier here.
 
 ![The video open in the ScreenFlow editor](images/video-timeline.png)
 
 The only thing I did to the audio and video recording of myself is add "in and out" transitions. The screencast has transitions, a zoom and pan callout, a freeze frame to cover annoying editor pop-ups and I sped up the end of it so that the screencast and the narration ends at the same time.
 
-> **Tip:** One thing that is pretty annoying is the portrait format of platforms like Instagram or TikTok for technical videos. What I often do there is to use the same screencast twice in the video - showing the whole screen in one part of the video and a zoomed/panned/highlighted version in the other. This helps to show where something is in context but also to prevents the viewers from having to squint.
+> **Tip:** One thing that is pretty annoying is the portrait format of platforms like Instagram or TikTok for technical videos. What I often do there is to use the same screencast twice in the video -- showing the whole screen in one part of the video and a zoomed/panned/highlighted version in the other. This helps to show where something is in context but also to prevents the viewers from having to squint.

@@ -70,5 +70,5 @@ will make you a better and more relaxed presenter.
 
 ## Bonus round
 
-* Can you have automated captioning and will you use it (Google Slides, Powerpoint - both need an online connection)? Have you told the conference organisers about it?
+* Can you have automated captioning and will you use it (Google Slides, Powerpoint -- both need an online connection)? Have you told the conference organisers about it?
 * Do you want to make the slides available to organisers beforehand to allow for translation/teasing?
