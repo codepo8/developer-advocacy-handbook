@@ -51,9 +51,9 @@ of information about developer advocacy, I took a "zoom out" approach
 and concentrated on what you should consider and achieve and not the how
 and which products to use to get there.
 
-I also took a deliberate renaming approach from Developer Evangelism to
-Developer Advocacy. The reason is that Evangelism is a religiously
-loaded term, whereas advocacy has a nicer ring to it. You are the
+I also took a deliberate renaming approach from "Developer Evangelism" to
+"Developer Advocacy". The reason is that "evangelism" is a religiously
+loaded term, whereas "advocacy" has a nicer ring to it. You are the
 advocate for the developer world -- the voice to the outside and the
 person asking for great developer experiences inside your company.
 
@@ -64,7 +64,7 @@ person asking for great developer experiences inside your company.
 Christian Heilmann has been working as a web developer for over 20 years
 and spent the last 10 as a developer evangelist/advocate for companies
 like Yahoo, Mozilla and Microsoft. He spent his time speaking on average
-at about 20 conferences a year and lead teams of developers and
+at about 20 conferences a year and led teams of developers and
 developer advocates. He published two books and contributed to 6 more.
 He's been content editor for various online magazines and originally
 worked as a radio journalist before he considered the web his new home.

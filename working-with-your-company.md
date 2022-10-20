@@ -160,7 +160,7 @@ though. You should be a voice of reason, understanding and pragmatic
 solutions and you can only be that if you see the work being done from a
 vantage point.
 
-More importantly listen hard when developers feel hindered in
+More importantly, listen hard when developers feel hindered in
 delivering their job. Then talk to their management about these
 problems. Keep these talks anonymous and show the impact these problems
 have on delivery, employee retention and quality of the products your
@@ -191,7 +191,7 @@ company and not only the ones that made him leave.
 
 ## Work with PR and marketing
 
-As stated in detail beforehand your role as a developer advocate means
+As stated in detail beforehand, your role as a developer advocate means
 that you are in between classic outreach departments like PR and
 marketing and developers. The danger there is that these departments
 could see you as competition.

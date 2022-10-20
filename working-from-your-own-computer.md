@@ -50,7 +50,7 @@ audience I can't see.
 Another powerful tool to show people what you are doing are screencasts
 and screenshots. Sometimes a picture explains what you want to achieve
 much easier than a bunch of instructions. Step-by-step instructions how
-to use a certain interface (for example how to sign up for a developer
+to use a certain interface (for example, how to sign up for a developer
 key) are easy to show as a screencast. Describing the interface with
 words is much harder -- just try to explain people on the phone how to
 install some software for example...

@@ -67,7 +67,7 @@ You can re-distribute web content in several ways:
 * You can **use it in a presentation**.
 * You can **quote it in a mailing list or forum** to add more relevance to your post or mail.
 * You can **tweet** about it.
-* You can mention it in one of your videos or tutorials. For example you can show an implementation and point to a resource for in-depth information on one of the things you use as a step.
+* You can mention it in one of your videos or tutorials. For example, you can show an implementation and point to a resource for in-depth information on one of the things you use as a step.
 
 In any case, the most important thing is that you **attribute the content to the original creator** by name and resource. The reason is
 simple: publishers track what people do with their content, so if you
@@ -265,7 +265,7 @@ You achieve this by contacting people, re-posting cool things they talk
 about and reporting problems you found with systems.
 
 > **Example:** Sometimes being at the right time in the right mindset is
-everything. For example when Microsoft released their Bing API, I played
+everything. For example, when Microsoft released their Bing API, I played
 with it and complained on Twitter about how hard it is to read the docs
 (at that time a MSDN-style frame monster until you find the \"low
 bandwidth\" version). A few seconds later I got a message from the API

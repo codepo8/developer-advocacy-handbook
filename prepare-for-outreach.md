@@ -79,7 +79,7 @@ Things will go wrong and you need to be prepared. In the case of a
 presentation do this:
 
 * **Have your slides online somewhere** - in case your local copy dies.
-* **Have a memory stick with your data on it**, in case you need to use a computer that is hard-wired into the AV system.
+* **Have a memory stick with your data on it**, in case you need to use a computer that is hard-wired into the audio/video (AV) system.
 * **Prepare to not have your slides available** and still be able to do a Q&A session.
 * **Don\'t expect any technology to be available** - bring your own connectors, power cables, network cables…
 * **Don\'t expect to be able to go online** - or turn on a hotspot on your mobile as backup if you really need to be.

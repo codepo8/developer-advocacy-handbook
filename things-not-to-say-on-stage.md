@@ -24,7 +24,7 @@ something less destructive:
 * "Everybody can do that…"
 * "X solves this problem, so you don't have to worry about it"
 * "As everybody knows…"
-* "That's why Y(your product) is much better than (competitor) X"
+* "That's why Y (your product) is much better than (competitor) X"
 * "This is just like we learned in school…"
 * "This can be done in a few lines of code…"
 * "If you want to be professional, do X"
@@ -53,7 +53,7 @@ overload the audience, make people feel stupid, appear too basic …
 and, and, and…
 
 I've heard the following expressions at a lot of events and I always
-cringed a bit. Often they are OK, and no harm done. But,to get better as
+cringed a bit. Often they are OK, and no harm done. But, to get better as
 presenters it may be a good idea to be more conscious about what we do
 and what effects it can have.
 
@@ -128,8 +128,8 @@ given that is redundant to repeat.
 Hooray for your product -- it solves everything. Now buy it and impress
 people with wisdom you don't have. And feel worse when you get praised
 for it. This is a classic sales pitch which works with end user
-products. As a developer you should always worry about what you use in
-your products as each part can become an issue. And it will be up to you
+products. As a developer you should worry about what you use in your
+products as each part can become an issue. And it will be up to you
 to fix it.
 
 **Replacements:**
@@ -172,7 +172,7 @@ to knowledge that was part of a Computer Science degree.
 
 A lot of people create the web. Not all took the official path.
 
-## "That's why Y( your product) is much better than (competitor) X"
+## "That's why Y (your product) is much better than (competitor) X"
 
 This is common in advertising, especially in America. You show off your
 product by making others look worse. This is pointless and only invites

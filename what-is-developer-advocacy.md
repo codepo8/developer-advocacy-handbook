@@ -1,7 +1,7 @@
 ---
 next: working-with-your-company
 nexttitle: Working with your company
-title: What is Developer Advocacy / Evangelism - The Developer Advocacy Handbook
+title: What is Developer Advocacy/Evangelism - The Developer Advocacy Handbook
 audio: The_Developer_Advocacy_Handbook_-_What_is_Developer_Advocacy.mp3
 summary: A quick explanation about Developer Advocacy.
 heroimage: https://developer-advocacy.com/images/cover.jpg
@@ -72,7 +72,7 @@ write about how you build the thing -- and voilà -- you\'ve got half an
 article or presentation already finished.
 
 As a developer advocate it is important that you have experience as
-a developer. The more projects the better. As working in an
+a developer. The more projects the better, as working in an
 agency is different to working for local government or a large
 multi-national company. Your job is to make your company\'s
 technical offerings attractive and interesting to a large variety of

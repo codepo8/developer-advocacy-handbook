@@ -16,7 +16,7 @@ about
 what-is-developer-advocacy
 -->
 
-* [What is Developer Advocacy / Evangelism?](what-is-developer-advocacy)
+* [What is Developer Advocacy/Evangelism?](what-is-developer-advocacy)
   * [Defining Developer Advocacy](what-is-developer-advocacy#defining-developer-advocacy)
   * [Start with the right mindset](what-is-developer-advocacy#start-with-the-right-mindset)
   * [Find your role and play to your strengths](what-is-developer-advocacy#find-your-role-and-play-to-your-strengths)
@@ -45,7 +45,7 @@ working-with-your-competition
   * [Show respect to the competition](working-with-your-competition#show-respect-to-the-competition)
   * [Acknowledge when the competition is better](working-with-your-competition#acknowledge-when-the-competition-is-better)
   * [Know about the competition](working-with-your-competition#know-about-the-competition)
-  * [Build examples using and try out competitive products](working-with-your-competition#build-examples-using-and-try-out-competitive-products)
+  * [Build examples using and trying out competitive products](working-with-your-competition#build-examples-using-and-try-out-competitive-products)
 
 <!--
 prepare-for-outreach
@@ -159,10 +159,10 @@ write-excellent-code-examples
   * [Write clean and clever examples](write-excellent-code-examples#write-clean-and-clever-examples)
   * [Build code generators](write-excellent-code-examples#build-code-generators)
   * [Hosting code and demos](write-excellent-code-examples#hosting-code-and-demos)
-    * [Version Control is your friend](write-excellent-code-examples#version-control-is-your-friend)
+    * [Version control is your friend](write-excellent-code-examples#version-control-is-your-friend)
     * [Automated Hosting](write-excellent-code-examples#automated-hosting)
     * [Code showcases](write-excellent-code-examples#code-showcases)
-    * [Code Sandboxes](write-excellent-code-examples#code-sandboxes)
+    * [Code sandboxes](write-excellent-code-examples#code-sandboxes)
     * [Live coding environments](write-excellent-code-examples#live-coding-environments)
 
 <!--
@@ -172,8 +172,8 @@ prepare-slide-decks
 * [Prepare great slide decks for presentations](prepare-slide-decks)
   * [Know your stuff](prepare-slide-decks#know-your-stuff)
   * [Start with the content -- not the slides!](prepare-slide-decks#start-with-the-content-not-the-slides)
-  * [Start with a highly portable Format - Text](prepare-slide-decks#start-with-a-highly-portable-format---text)
-  * [Quick Presentation creation tip: unpacking bullets](prepare-slide-decks#quick-presentation-creation-tip-unpacking-bullets)
+  * [Start with a highly portable format - text](prepare-slide-decks#start-with-a-highly-portable-format---text)
+  * [Quick presentation creation tip: unpacking bullets](prepare-slide-decks#quick-presentation-creation-tip-unpacking-bullets)
   * [Pick a presentation tool that helps you present](prepare-slide-decks#pick-a-presentation-tool-that-helps-you-present)
 
 <!--

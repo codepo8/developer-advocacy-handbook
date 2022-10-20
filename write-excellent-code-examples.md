@@ -15,12 +15,12 @@ and -- even more importantly -- they invite people to play with your
 products. You might even often catch yourself looking at a technical
 article and scrolling directly to the first code example.
 
-> **Fact:** The success of platforms like StackOverflow show that it makes
+> **Fact:** The success of platforms like Stack Overflow show that it makes
 sense to keep explanations to the bare minimum and let the
 code do the talking. This also has an unfortunate effect that many
 developers don't even bother looking at the "why" of code any longer but
 happily stick to the "how" and copy and paste code into their own
-products. I call these people "Full StackOverflow developers".
+products. I call these people "Full Stack Overflow developers".
 
 ## Solve a problem with your example
 
@@ -71,8 +71,8 @@ code and then not being able to make it work in their own environment.
 You get around this issue in several ways:
 
 * **Write defensive code** -- check for dependencies before trying to access them.
-* **Check online and HTTP status** -- If your code needs to pull data from a web service say that the user needs to be online to run it. For example I\'ve had many a complaint that some of my JavaScript examples don\'t work offline or without running a local server. Obviously I failed to explain that it needs live data and that for security reasons some functionality of JavaScript is only available when accessed over HTTPS and not on the file system.
-* **List what is needed** -- say what your dependencies are. For example. "needs Node and npm" or "Runs in Microsoft Edge version 85 and newer". If third party dependencies are needed, find a good tutorial for your readers to install them and link the name of the dependency to it.
+* **Check online and HTTP status** -- If your code needs to pull data from a web service, say that the user needs to be online to run it. For example, I\'ve had many a complaint that some of my JavaScript examples don\'t work offline or without running a local server. Obviously I failed to explain that it needs live data and that for security reasons some functionality of JavaScript is only available when accessed over HTTPS and not on the file system.
+* **List what is needed** -- say what your dependencies are. For example, "needs Node and npm" or "runs in Microsoft Edge version 85 and newer". If third party dependencies are needed, find a good tutorial for your readers to install them and link the name of the dependency to it.
 * **Provide a simple test script** that checks for the right setup. (For an example see the [test file for GeoMaker](http://github.com/codepo8/GeoMaker/blob/3d88e693698965b802539d2a467e05f1f67cff76/test.php)).
 
 * **Provide a developer key for the demo** -- but make it obvious to tell people that to implement your code they\'d need an own key. Provide a link where to apply for one.
@@ -147,16 +147,16 @@ look at the product.
 
 It might be tempting to host your code and demos on a personal server,
 and I have done this for years now myself. The great thing about that is
-that you control the server. The bad thing about that is that it is up
-to you to maintain that server. And you want to spend your time
-advocating, not as a server admin.
+that you control the server. The bad thing is that it is up to you to
+maintain that server. And you want to spend your time advocating, not as
+a server admin.
 
 > **Warning:** I've been using my server as a playground for years and that's
 also painfully obvious when I look at the state of it. Some of my code
 from the past ended up being excellent attack vectors and at one time
 one of my AJAX demos from 2006 ended up allowing for a spam blog being
 installed in one deeply hidden folder. This also meant that Google
-blocked my domain and many other issues.
+blocked my domain, and many other issues.
 
 Having a playground server is great, but it should also be obvious to
 you and the people who look at your code that it is a scratchpad. The
@@ -164,11 +164,11 @@ code there can and will go away any time. It makes sense to consider a
 more maintained and controlled way to publish your demos and code
 examples.
 
-### Version Control is your friend
+### Version control is your friend
 
 The first thing I found that saved me a lot of hassle is to use version
 control for everything. Git is the common thing to use, but even having
-your products in a OneDrive / Dropbox / Box / Google Drive or whatever folder
+your products in a OneDrive, Dropbox, Box, Google Drive or whatever folder
 is a great idea. You will always mess up and it is great to be able
 to revert a last change on a file.
 
@@ -229,10 +229,10 @@ together with the source.
 Most platforms will have some static site generation tool included, like
 [Gatsby](https://www.gatsbyjs.com/), [Jekyll](https://jekyllrb.com/)
 or similar ones. If you are reading this book online,
-this is what I used. The texts here are in markdown and I am using
+this is what I used. The texts here are in Markdown and I am using
 [GitHub pages](https://pages.github.com/) with Jekyll to generate HTML.
 
-### Code Sandboxes
+### Code sandboxes
 
 Other than platforms that are there to host your code and
 products there are also code sandbox services available. These allow you

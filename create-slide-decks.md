@@ -55,11 +55,11 @@ around the web and bring the data back to our sites.
 The first step is to spread our content on the web:
 
 * upload photos to [Flickr](https://flickr.com/)
-* bookmark and tag URLs at [Delicious](http://del.icio.us/) (you see here how long ago that was)
+* bookmark and tag URLs at [Delicious](http://del.icio.us/) (that was long ago)
 * write short and succinct news updates at [Twitter](https://twitter.com/)
 * upload videos to [YouTube](https://www.youtube.com/)
 * link addresses and set up driving instructions with [Google Maps](https://www.google.com/maps)
-* write CVs and bios at [Xing](https://www.xing.com/) or [LinkedIn](https://www.linkedin.com/)
+* update CVs and bios at [XING](https://www.xing.com/) or [LinkedIn](https://www.linkedin.com/)
 
 The benefits of this approach are the following:
 
@@ -121,7 +121,7 @@ beat up on having to have the perfect shot when a good enough one does
 the trick. Slides are there to aid your presentation. They are
 wallpaper to your performance.
 
-> **Example:** Say for example you want the photo of a lock, [check this
+> **Example:** Say, for example, you want the photo of a lock, [check this
 search
 link](https://www.flickr.com/search/?l=commderiv&mt=all&adv=1&w=all&q=lock&m=text).
 Each of these photos you can use in your slides and all you have to do
@@ -163,7 +163,7 @@ default is not meant for code display. There is no monospace setting,
 quotes get replaced by \"smart\" quotes, indentation is all wrong, you
 have less space than in your code editor and many other problems.
 
-Code examples are however important as they show people how they can
+Code examples, however, are important as they show people how they can
 immediately use what you are talking about and you bring the topic you
 cover into an area where they feel home. Showing a few lines of code and
 what they do in a browser is much more powerful than talking about the

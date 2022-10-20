@@ -103,10 +103,10 @@ different audience. What gets developers excited does not necessarily
 mean end users can deal with it.
 
 > **Example:** When I started at Microsoft I took people by surprise by using
-a Macbook on stage. I've used Macs for a decade before that and I was
+a MacBook on stage. I've used Macs for a decade before that and I was
 used to them and more efficient using them. The company didn't have any
 problem with it as it also changed a lot since the 90s. I now use both a
-Macbook and a Surface Laptop and I'm happy with either. The fun thing
+MacBook and a Surface Laptop and I'm happy with either. The fun thing
 though was that being the Microsoft employee not exclusively using our
 own products I got people to ask about it. And this is the foot in the
 door you need in this job.
@@ -125,7 +125,7 @@ first question.
 If you can answer that, your tech integrity gets quite a boost and -
 let\'s face it - it is fun to poke at the things our peers produce.
 
-## Build examples using and try out competitive products
+## Build examples using and trying out competitive products
 
 Using services and products of your competitors is a great way to check
 several things:

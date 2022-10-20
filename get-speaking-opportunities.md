@@ -153,7 +153,7 @@ about:
 * A short, up-to-date bio
 * Headshots and photos to use
 * All the important personal information (name, location, job title, social media names, homepage)
-* Videos of other talks / other presentation slides
+* Videos of other talks, or other presentation slides
 
 I also listed in the right amount of detail:
 
@@ -173,7 +173,7 @@ You want to be a professional presenter happy to deliver a good talk but
 also expecting a professional surrounding.
 
 Having all this information out of the way and available as a simple
-link for copy + paste, the only thing left a conference organiser who
+link for copy and paste, the only thing left a conference organiser who
 chose you will have to do is to sort out the date and get a title and
 abstract of your talk. This might not seem a lot, but having to chase
 this information with even only 10 presenters at your event really eats

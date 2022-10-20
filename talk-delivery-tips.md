@@ -72,14 +72,14 @@ make**. This doesn\'t need to be a sound bite (although these are
 important). It can be many things:
 
 * It could be an insight.
-* It could be a result of your research
+* It could be a result of your research.
 * It could be a \"here\'s the current state of thing X\".
 * It could be \"here\'s what\'s new in product X and how we build this functionality\".
 
 Start with your point and then add the rest around it. Much like a good
 story has a build-up, a climax and an aftermath, so should your
 presentations. In essence, your focus should be
-**what do I want people to remember of my talk?**.
+**what do I want people to remember of my talk?**
 This means you need to try to get into the heads of the audience a bit.
 
 You know what you are talking about. Try to remember what was the main
@@ -247,7 +247,7 @@ Once you are happy with your talk and you realise you have nothing to
 remove, what can you put in to add value and fill up the rest of the
 time? There are a few things that can be important:
 
-* **Tell people where to find the slides of your talk**. Hardly anyone ever looks at them but everybody wants them. This is always the first question in Q&A
+* **Tell people where to find the slides of your talk**. Hardly anyone ever looks at them but everybody wants them. This is always the first question in Q&A.
 * **Have a slide where to meet you and how to contact you**. Tell people why you use a certain channel and for what. Tell them how likely and fast you are to respond where.
 * **Have a slide about colleagues or people you work with in other companies** that are experts on that topic. If you\'re busy, people can contact these.
 * **Show where you are publishing and where your team is publishing things**. You don\'t want to be the only source of truth.

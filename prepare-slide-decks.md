@@ -67,7 +67,7 @@ any slides whatsoever. A good slide deck, however, gives people
 memorable moments and information they might miss if all they did was
 listen to you.
 
-## Start with a highly portable Format - Text
+## Start with a highly portable format - text
 
 When I write a new slide deck I start with a text editor. I write the
 story of my presentation and I follow the same rules as for writing
@@ -84,15 +84,15 @@ presentation and give them the URL. This relaxes audiences immensely as
 the first question at every conference I get is whether the slides will
 be available or not.
 
-## Quick Presentation creation tip: unpacking bullets
+## Quick presentation creation tip: unpacking bullets
 
 Bullet points in posts and educational texts are great, as they chunk
 content into digestible bits and give a structure that flowing text
 might not give. But, as a slide in your talk, they are the most boring,
 lazy, and actually inefficient way to bring your message across.
 
-Melissa Marshall explained this quite nicely in the "[Talk nerdy to
-me](http:/www.ted.com/talks/melissa_marshall_talk_nerdy_to_me.html)"
+Melissa Marshall explained this quite nicely in the ["Talk nerdy to
+me"](http:/www.ted.com/talks/melissa_marshall_talk_nerdy_to_me.html)
 TED talk: "bullets are made to kill and bullet lists kill audiences".
 This is especially true when you show all the bullets at once with each
 having a long sentence following it. This will make the audience read
@@ -128,7 +128,7 @@ audience. Give it a try -- it really works for me.
 Once you know the content, you can start putting together your slide
 deck.
 
-Choose whatever presentation tool that makes you happy and allows you to put your slides together. Picking the tool you want to use should be based on the needs of a good presentations:
+Choose whatever presentation tool makes you happy and allows you to put your slides together. Picking the tool you want to use should be based on the needs of a good presentations:
 
 * **Display your slides on the screen regardless of resolution** -- I've encountered every resolution imaginable and often I got a "can you do a 4:3 instead of 16:9" twenty minutes before the presentation.
 * **Use, crop and resize images easily** -- you will use a lot of imagery and it is never in the right format.
