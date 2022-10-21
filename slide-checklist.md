@@ -61,7 +61,7 @@ will make you a better and more relaxed presenter.
 
 * Are your slides available for download and will you have a handle on who will get them?
 * Is there a call to action at the end of the slides and is the resource unique and available?
-* Is there a way to track traffic from resources you mention (shortURLs, tracking IDs)?
+* Is there a way to track traffic from resources you mention (short URLs, tracking IDs)?
 
 ## Insurances
 
@@ -70,5 +70,5 @@ will make you a better and more relaxed presenter.
 
 ## Bonus round
 
-* Can you have automated captioning and will you use it (Google Slides, Powerpoint - both need an online connection)? Have you told the conference organisers about it?
+* Can you have automated captioning and will you use it (Google Slides, Powerpoint -- both need an online connection)? Have you told the conference organisers about it?
 * Do you want to make the slides available to organisers beforehand to allow for translation/teasing?

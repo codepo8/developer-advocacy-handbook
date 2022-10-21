@@ -26,8 +26,8 @@ the days. While the tricks taught in most of these will give you instant
 success, this success will also fizz out faster than you can say "hype".
 
 > **Warning:** Be aware of that -- your job is to use the web as a communication and
-distribution channel -- not to make a mint in a week selling snake oil.
-This would kill your reputation and as stated before your reputation,
+distribution channel, not to make a mint in a week selling snake oil.
+This would kill your reputation and as stated before, your reputation,
 integrity and honesty is what makes you a developer advocate. Losing
 these will make it almost impossible for you to get listened to in the
 future which renders you useless for your company and gives the general
@@ -67,7 +67,7 @@ You can re-distribute web content in several ways:
 * You can **use it in a presentation**.
 * You can **quote it in a mailing list or forum** to add more relevance to your post or mail.
 * You can **tweet** about it.
-* You can mention it in one of your videos or tutorials. For example you can show an implementation and point to a resource for in-depth information on one of the things you use as a step.
+* You can mention it in one of your videos or tutorials. For example, you can show an implementation and point to a resource for in-depth information on one of the things you use as a step.
 
 In any case, the most important thing is that you **attribute the content to the original creator** by name and resource. The reason is
 simple: publishers track what people do with their content, so if you
@@ -109,7 +109,7 @@ mouth. **Be absolutely sure about your facts if you do that though!**
 try to disagree with you and try to "out" you as a corporate drone. This
 always annoyed me to no end. If what we call best practices and
 standards are not used by large companies they\'ll never spread across
-the whole market - so fighting the big players is actually hurting the
+the whole market -- so fighting the big players is actually hurting the
 cause. I call this prison tactics: a new inmate will make sure to beat
 up the largest and toughest guy to make sure the others leave him in
 peace. Maybe successful there but annoying and pointless in the IT
@@ -169,7 +169,7 @@ title writing, describing, annotating and tagging will make them more
 useful to the world and easier for you to find what you\'ve put up there
 weeks ago. Some newer social platforms define themselves as a place for
 quick posts that automatically go away. These are good for news
-announcements and to drum up quick excitement. The problem though us
+announcements and to drum up quick excitement. The problem though is
 that their impact often is a flash in the pan.
 
 ## Use the web for storage, distribution and cross-promotion
@@ -181,7 +181,7 @@ you put parts of the product in different places which were designed to
 host a certain content you give web surfers and app users a lot more
 opportunities to find your content.
 
-> **Tip:** don\'t forget that social networks can be very insular -- not
+> **Tip:** Don\'t forget that social networks can be very insular -- not
 everybody has the time and dedication to be active on all of them.
 Therefore having information useful to the nature of a certain network
 pointing to a full product elsewhere makes you a part of the network but
@@ -265,9 +265,9 @@ You achieve this by contacting people, re-posting cool things they talk
 about and reporting problems you found with systems.
 
 > **Example:** Sometimes being at the right time in the right mindset is
-everything. For example when Microsoft released their Bing API, I played
+everything. For example, when Microsoft released their Bing API, I played
 with it and complained on Twitter about how hard it is to read the docs
-(at that time a MSDN-style frame monster until you find the \"low
+(at that time a MSDN-style frame monster until you found the \"low
 bandwidth\" version). A few seconds later I got a message from the API
 lead of Bing who told me what I can do to work around that issue. Since
 then we had a view short conversations of what I liked and disliked

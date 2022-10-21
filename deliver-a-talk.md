@@ -89,7 +89,7 @@ These sessions allow people to ask exactly what they need answered and
 go back and have a go at solving their problems immediately.
 
 One thing that is very important is that **you need to be in control of
-the Q & A**. A lot of times you will have people who don't ask questions
+the Q&A**. A lot of times you will have people who don't ask questions
 but profile themselves instead. Deal with that accordingly -- and
 swiftly. People will have real questions that need answering.
 

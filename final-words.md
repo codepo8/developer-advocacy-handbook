@@ -9,9 +9,9 @@ heroimage: https://developer-advocacy.com/images/final-words-coffee.jpg
 ![Chris Heilmann drinking coffee](images/final-words-coffee.jpg){:width="1400"
 height="682"}
 
-And that's about all I can think of right now. When I first published this handbook it filled a massive gap and I couldn't have hoped that helped jump-start the world that is Developer Relations right now.
+And that's about all I can think of right now. When I first published this handbook it filled a massive gap and I couldn't have hoped that it helped jump-start the world that is Developer Relations right now.
 
-I guess the main part was that the book started from experience. I was lucky to have had access to both the corporate world (working for Yahoo back then) and get the freedom to run my own blog and advocate my own personal brand. Well, luck was one part of it, but being daring enough to flat out demand a change was the other side of it. I came from a position of power. I was a lead engineer and the market just started kicking off again, and, having hired other engineers, I knew how much it costs to hire someone and - even more important - to have someone leave for the competition.
+I guess the main part was that the book started from experience. I was lucky to have had access to both the corporate world (working for Yahoo back then) and get the freedom to run my own blog and advocate my own personal brand. Well, luck was one part of it, but being daring enough to flat out demand a change was the other side of it. I came from a position of power. I was a lead engineer and the market just started kicking off again, and, having hired other engineers, I knew how much it costs to hire someone and -- even more important -- to have someone leave for the competition.
 
 Being able to be your own voice has become quite common but back then was pretty much unheard of. "We pay your cheque, why don't you talk exclusively of our products?" was the mantra these days. I successfully managed to convince my company to become a "Developer Evangelist" and thought it may be a good idea to write down what I did to get there.
 

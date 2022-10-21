@@ -15,15 +15,16 @@ show the world what you are working on. The main benefit is that you can
 concentrate on your production value. A lot of the randomness and
 physically stressful part of travel is gone which means you can do a lot
 from the familiar space of your home. You also have predictable
-connectivity and can upload materials faster This also comes
-with some problems. Not getting any feedback on your delivery can feel
-strange and you need to act more as if an audience is there in front of
-you. Furthermore, not deliberately going somewhere to present makes it
-harder to get into the right mindset. We can do almost any physical
-exercise we need at home, and yet we go to gyms. The reason is that we
-shift from one mode (being at home) to another (exercising). You need to
-find a way to trick yourself into doing that in the case of presenter,
-too.
+connectivity and can upload materials faster.
+
+This also comes with some problems. Not getting any feedback on your
+delivery can feel strange and you need to act more as if an audience is
+there in front of you. Furthermore, not deliberately going somewhere to
+present makes it harder to get into the right mindset. We can do almost
+any physical exercise we need at home, and yet we go to gyms. The reason
+is that we shift from one mode (being at home) to another (exercising).
+You need to find a way to trick yourself into doing that in the case of
+presenter, too.
 
 ## Get a decent setup
 
@@ -31,10 +32,10 @@ Most laptops have all the things you need to get started to record
 videos, screencasts and stream on the web. To get really high quality
 recordings, it makes sense though to invest some money on a few extras:
 
-* **External microphones** - if you do a lot of recording or streaming from your device, it makes sense to spend some money on an external microphone. The reason is that they sound a lot better and block out external noise. Another big benefit of external microphones is that you can type and speak/record at the same time without annoying your audience with the clicking sounds of your keyboard.
-* **External monitor** - the benefit of having a second monitor is that you can use one screen to record talks and have your speaker notes on the other one. It is also simpler to have the app you want to do a screencast of on the second monitor without any distractions around it.
-* **External camera** - for high-end recording it makes sense to have an external camera (which is also great to take to events to do some quick interviews) but at a stretch your mobile phone is also good enough. Having a camera on the secondary monitor also means you will have a nice central camera placement and look at the audience without bending over too much.
-* **Proper lighting** - LED ring lights by now are really affordable and positioned behind the laptop or secondary monitor give an excellent look. Avoid any lighting from behind.
+* **External microphones** -- if you do a lot of recording or streaming from your device, it makes sense to spend some money on an external microphone. The reason is that they sound a lot better and block out external noise. Another big benefit of external microphones is that you can type and speak/record at the same time without annoying your audience with the clicking sounds of your keyboard.
+* **External monitor** -- the benefit of having a second monitor is that you can use one screen to record talks and have your speaker notes on the other one. It is also simpler to have the app you want to do a screencast of on the second monitor without any distractions around it.
+* **External camera** -- for high-end recording it makes sense to have an external camera (which is also great to take to events to do some quick interviews) but at a stretch your mobile phone is also good enough. Having a camera on the secondary monitor also means you will have a nice central camera placement and look at the audience without bending over too much.
+* **Proper lighting** -- LED ring lights by now are really affordable and positioned behind the laptop or secondary monitor give an excellent look. Avoid any lighting from behind.
 
 Here is what I am using these days:
 
@@ -50,7 +51,7 @@ audience I can't see.
 Another powerful tool to show people what you are doing are screencasts
 and screenshots. Sometimes a picture explains what you want to achieve
 much easier than a bunch of instructions. Step-by-step instructions how
-to use a certain interface (for example how to sign up for a developer
+to use a certain interface (for example, how to sign up for a developer
 key) are easy to show as a screencast. Describing the interface with
 words is much harder -- just try to explain people on the phone how to
 install some software for example...
@@ -63,7 +64,7 @@ Most operating systems these days come with in-built screen recording
 tools. These can be used to annotate screenshots and take short screen
 recordings. Sometimes it makes sense to record a video, other times an
 animated GIF is a simpler solution. The tools I use the most are
-LiceCap, ScreenToGif, OBS Studio and Screenflow.
+LICEcap, ScreenToGif, OBS Studio and ScreenFlow.
 
 There are even browser extensions that allow you to record professional
 screencasts. We live in great times.
@@ -98,8 +99,8 @@ effective. Whilst I am not convinced that a real-time platform because
 of its fleeting nature lends itself to training and advocating there is
 a huge movement in that space. In any case when it comes to streaming
 not the same rules apply than when giving a presentation or creating a
-walkthrough. It is much more a conversation with the people in the chat
-and reacting to their messages and questions.
+walkthrough. It is much more of a conversation with the people in the
+chat and reacting to their messages and questions.
 
 In terms of preparing the same rules apply:
 
